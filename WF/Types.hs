@@ -51,25 +51,33 @@ instance Streamer [] where
 -}
 data EStream a = EStream (MVar [a])
 
+newEStreamIO :: [a] -> IO (EStream a)
+newEStreamIO l = do
+  m <- newMVar l
+  return $ EStream m
+
+sEAdvanceNIO :: Int -> EStream a -> IO ([a],EStream a)
+sEAdvanceNIO n s = do 
+  let EStream m = s
+  r <- modifyMVar m (\i -> return $ swap $ sAdvanceN n i)
+  return $ (r, s)
+
+sEEmptyIO :: EStream a -> IO Bool
+sEEmptyIO s = do
+  let EStream m = s
+  withMVar m (\i -> return $ sEmpty i)
+
+sEAdvanceIO :: EStream a -> IO (a, EStream a)
+sEAdvanceIO s = do 
+  let EStream m = s
+  r <- modifyMVar m (\i -> return $ swap $ sAdvance i)
+  return $ (r, s)
+
 {-|
    Instance for effectful streams
 -}
 instance Streamer EStream where
-  newStream l = unsafePerformIO $ do
-    m <- newMVar l
-    return $ EStream m
-  
-  sAdvanceN n s = unsafePerformIO $ do 
-    let EStream m = s
-    r <- modifyMVar m (\i -> return $ swap $ sAdvanceN n i)
-    return $ (r, s)
-
-  sEmpty s = unsafePerformIO $ do
-    let EStream m = s
-    withMVar m (\i -> return $ sEmpty i)
-
-  sAdvance s = unsafePerformIO $ do 
-    let EStream m = s
-    r <- modifyMVar m (\i -> return $ swap $ sAdvance i)
-    return $ (r, s)
-
+  newStream l = unsafePerformIO $ newEStreamIO l
+  sAdvanceN n s = unsafePerformIO $ sEAdvanceNIO n s
+  sEmpty s = unsafePerformIO $ sEEmptyIO s
+  sAdvance s = unsafePerformIO $ sEAdvanceIO s
