@@ -35,47 +35,47 @@ lifter2 f s1 s2 = newStream (appf2 s1 s2)
           let (fr1, r1) = sAdvance s1'
               (fr2, r2) = sAdvance s2' in
             (f fr1 fr2):(appf2 r1 r2)
--- 
--- -- | lifter for three arguments
--- lifter3 :: (Streamer a b, Streamer a' b', Streamer a'' b'', Streamer c d) 
---         => (b -> b' -> b'' -> d) 
---         -> a -> a' -> a''
---         -> c
--- lifter3 f s1 s2 s3 = newStream (appf3 s1 s2 s3)
---   where appf3 s1' s2' s3' = 
---           let (fr1, r1) = sAdvance s1'
---               (fr2, r2) = sAdvance s2'
---               (fr3, r3) = sAdvance s3' in
---             (f fr1 fr2 fr3):(appf3 r1 r2 r3)
--- 
--- -- | lifter for four arguments
--- lifter4 :: (Streamer a b, Streamer a' b', Streamer a'' b'', 
---             Streamer a''' b''', Streamer c d)
---         => (b -> b' -> b'' -> b''' -> d)
---         -> a -> a' -> a'' -> a'''
---         -> c
--- lifter4 f s1 s2 s3 s4 = newStream (appf4 s1 s2 s3 s4)
---   where appf4 s1' s2' s3' s4' =
---        let (fr1, r1) = sAdvance s1'
---            (fr2, r2) = sAdvance s2'
---            (fr3, r3) = sAdvance s3'
---            (fr4, r4) = sAdvance s4' in
---          (f fr1 fr2 fr3 fr4):(appf4 r1 r2 r3 r4)
--- 
--- -- | lifter for five arguments
--- lifter5 :: (Streamer a b, Streamer a' b', Streamer a'' b'', 
---             Streamer a''' b''', Streamer a'''' b'''', Streamer c d)
---         => (b -> b' -> b'' -> b''' -> b'''' -> d)
---         -> a -> a' -> a'' -> a''' -> a''''
---         -> c
--- lifter5 f s1 s2 s3 s4 s5 = newStream (appf5 s1 s2 s3 s4 s5)
---   where appf5 s1' s2' s3' s4' s5' =
---        let (fr1, r1) = sAdvance s1'
---            (fr2, r2) = sAdvance s2'
---            (fr3, r3) = sAdvance s3'
---            (fr4, r4) = sAdvance s4' 
---                   (fr5, r5) = sAdvance s5' in
---          (f fr1 fr2 fr3 fr4 fr5):(appf5 r1 r2 r3 r4 r5)
+
+-- | lifter for three arguments
+lifter3 :: (Streamer s1, Streamer s2, Streamer s3, Streamer s4) 
+        => (a -> b -> c -> d) 
+        -> s1 a -> s2 b -> s3 c
+        -> s4 d
+lifter3 f s1 s2 s3 = newStream (appf3 s1 s2 s3)
+  where appf3 s1' s2' s3' = 
+          let (fr1, r1) = sAdvance s1'
+              (fr2, r2) = sAdvance s2'
+              (fr3, r3) = sAdvance s3' in
+            (f fr1 fr2 fr3):(appf3 r1 r2 r3)
+
+-- | lifter for four arguments
+lifter4 :: (Streamer s1, Streamer s2, Streamer s3, Streamer s4, 
+            Streamer s5)
+        => (a -> b -> c -> d -> e)
+        -> s1 a -> s2 b -> s3 c -> s4 d
+        -> s5 e
+lifter4 f s1 s2 s3 s4 = newStream (appf4 s1 s2 s3 s4)
+  where appf4 s1' s2' s3' s4' =
+          let (fr1, r1) = sAdvance s1'
+              (fr2, r2) = sAdvance s2'
+              (fr3, r3) = sAdvance s3'
+              (fr4, r4) = sAdvance s4' in
+            (f fr1 fr2 fr3 fr4):(appf4 r1 r2 r3 r4)
+ 
+-- | lifter for five arguments
+lifter5 :: (Streamer s1, Streamer s2, Streamer s3, Streamer s4, 
+            Streamer s5, Streamer s6)
+        => (a -> b -> c -> d -> e -> f)
+        -> s1 a -> s2 b -> s3 c -> s4 d -> s5 e
+        -> s6 f
+lifter5 f s1 s2 s3 s4 s5 = newStream (appf5 s1 s2 s3 s4 s5)
+  where appf5 s1' s2' s3' s4' s5' =
+          let (fr1, r1) = sAdvance s1'
+              (fr2, r2) = sAdvance s2'
+              (fr3, r3) = sAdvance s3'
+              (fr4, r4) = sAdvance s4' 
+              (fr5, r5) = sAdvance s5' in
+            (f fr1 fr2 fr3 fr4 fr5):(appf5 r1 r2 r3 r4 r5)
 
 --
 --  End of lifters
