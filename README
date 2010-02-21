@@ -1,0 +1,14 @@
+Workflow representation using lazy functional streams
+
+This repository contains code and PDF documents related to a basic method
+for representing workflows in Haskell using lazy functional streams to
+capture the abstraction of data flow between activities.  We have included
+the current code, and the PDF files for both the paper and presentations
+related to the paper.
+
+For further information, contact one of the authors:
+
+- Matthew Sottile // matt@galois.com
+- Geoffrey Hulette // ghulette@cs.uoregon.edu
+
+February, 2010
