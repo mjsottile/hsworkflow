@@ -1,7 +1,7 @@
 {-
    module of workflow primitives based on streams
 
-   matt\@cs.uoregon.edu
+   matt\@galois.com
    ghulette\@cs.uoregon.edu
 -}
 
@@ -76,6 +76,70 @@ lifter5 f s1 s2 s3 s4 s5 = newStream (appf5 s1 s2 s3 s4 s5)
               (fr4, r4) = sAdvance s4' 
               (fr5, r5) = sAdvance s5' in
             (f fr1 fr2 fr3 fr4 fr5):(appf5 r1 r2 r3 r4 r5)
+
+{-|
+   IO Lifters take IO functions and turn them into streamified ones.
+-}
+
+-- | Apply an IO function to a stream to yield a list, then wrap
+--   that in a stream.
+lifterIO :: (Streamer s1, Streamer s2) 
+       => (a -> IO b) -> s1 a -> s2 b
+lifterIO f s = newStream (appf s)
+  where appf s' = 
+          let (fr,r) = sAdvance s' in 
+            (unsafePerformIO $ f fr):(appf r)
+
+-- | lifter for two arguments.  see appf2
+lifterIO2 :: (Streamer s1, Streamer s2, Streamer s3)  
+        => (a -> b -> IO c) -> s1 a -> s2 b -> s3 c
+lifterIO2 f s1 s2 = newStream (appf2 s1 s2)
+  where appf2 s1' s2' = 
+          let (fr1, r1) = sAdvance s1'
+              (fr2, r2) = sAdvance s2' in
+            (unsafePerformIO $ f fr1 fr2):(appf2 r1 r2)
+
+-- | lifter for three arguments
+lifterIO3 :: (Streamer s1, Streamer s2, Streamer s3, Streamer s4) 
+        => (a -> b -> c -> IO d) 
+        -> s1 a -> s2 b -> s3 c
+        -> s4 d
+lifterIO3 f s1 s2 s3 = newStream (appf3 s1 s2 s3)
+  where appf3 s1' s2' s3' = 
+          let (fr1, r1) = sAdvance s1'
+              (fr2, r2) = sAdvance s2'
+              (fr3, r3) = sAdvance s3' in
+            (unsafePerformIO $ f fr1 fr2 fr3):(appf3 r1 r2 r3)
+
+-- | lifter for four arguments
+lifterIO4 :: (Streamer s1, Streamer s2, Streamer s3, Streamer s4, 
+            Streamer s5)
+        => (a -> b -> c -> d -> IO e)
+        -> s1 a -> s2 b -> s3 c -> s4 d
+        -> s5 e
+lifterIO4 f s1 s2 s3 s4 = newStream (appf4 s1 s2 s3 s4)
+  where appf4 s1' s2' s3' s4' =
+          let (fr1, r1) = sAdvance s1'
+              (fr2, r2) = sAdvance s2'
+              (fr3, r3) = sAdvance s3'
+              (fr4, r4) = sAdvance s4' in
+            (unsafePerformIO $ f fr1 fr2 fr3 fr4):(appf4 r1 r2 r3 r4)
+ 
+-- | lifter for five arguments
+lifterIO5 :: (Streamer s1, Streamer s2, Streamer s3, Streamer s4, 
+            Streamer s5, Streamer s6)
+        => (a -> b -> c -> d -> e -> IO f)
+        -> s1 a -> s2 b -> s3 c -> s4 d -> s5 e
+        -> s6 f
+lifterIO5 f s1 s2 s3 s4 s5 = newStream (appf5 s1 s2 s3 s4 s5)
+  where appf5 s1' s2' s3' s4' s5' =
+          let (fr1, r1) = sAdvance s1'
+              (fr2, r2) = sAdvance s2'
+              (fr3, r3) = sAdvance s3'
+              (fr4, r4) = sAdvance s4' 
+              (fr5, r5) = sAdvance s5' in
+            (unsafePerformIO $ f fr1 fr2 fr3 fr4 fr5):(appf5 r1 r2 r3 r4 r5)
+
 
 --
 --  End of lifters
