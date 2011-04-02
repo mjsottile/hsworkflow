@@ -1,0 +1,240 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Wolfram|Alpha</title>
+    <meta name="description" content="Computational Knowledge Engine">
+<meta name="synonyms" content="wolfram alpha, alpha"> 
+
+<meta name="viewport" content="width=568, initial-scale=1, minimum-scale=.5" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<link rel="apple-touch-icon" href="/images/iphone/wa-iphoneicon.png"/>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<link href="/css/colors.css" rel="stylesheet" type="text/css" />
+<link href="/css/typography.css" rel="stylesheet" type="text/css" />
+
+<link href="/css/basic.layout.css" rel="stylesheet" type="text/css" />
+
+<link rel="icon" href="/favicon_calculate.png" type="image/png" />
+<link rel="Shortcut Icon" href="/favicon_calculate.ico" />
+
+<link rel="search" type="application/opensearchdescription+xml" href="/downloads/searchAddin.xml" title="Wolfram|Alpha"/>
+<!-- The code below handles :hover and :active for IE6 and below -->
+<!--[if IE 8]>
+<link rel='stylesheet' type='text/css' media='screen' href='/css/ie8.css' />
+<![endif]-->
+<!--[if lte IE 7]>
+<link rel='stylesheet' type='text/css' media='screen' href='/css/ie.css' />
+<![endif]-->
+<!--[if lte IE 6]>
+<link rel='stylesheet' type='text/css' media='screen' href='/css/ie6.css' />
+<style type="text/css">
+   body {behavior: url(/Calculate/javascript/csshover.htc);}
+</style>
+<![endif]-->
+
+
+
+    <style type="text/css">
+      #calculate { margin-bottom: 21px; }
+      #sidebar { margin-top: 24px; }
+    </style>
+  </head>
+<body>
+
+<div id="header">
+  <ul id="linkbar">
+    <li id="nHome"><a title="Wolfram|Alpha Home" href="/">Home</a></li>
+    <li id="nExp"><a title="Wolfram|Alpha Examples by Topic" href="/examples/">Examples</a></li>
+    <li id="nAbout"><a title="About Wolfram|Alpha " href="/about.html">About</a></li>
+    <li id="nFAQs"><a title="Frequently Asked Questions" href="/faqs.html">FAQS</a></li>
+    <li id="nBlog"><a title="Wolfram|Alpha Blog" href="http://blog.wolframalpha.com">Blog</a></li>
+    <li id="nCommunity"><a title="Visit the Wolfram|Alpha Community Forum" href="http://community.wolframalpha.com">Community</a></li>
+    <li id="nDownloads"><a title="Wolfram|Alpha Toolbars, Gadgets, Widgets, ..." href="/downloads.html">Downloads</a></li>
+    <li id="nMore"><div id="more-menu">More &raquo;
+          <ul class="menu">
+            <li id="new-to"><a>New to Wolfram|Alpha?</a></li>
+
+	    <li id="downloads"><a href="/downloads.html">Download a Wolfram|Alpha Toolbar</a></li>
+            <li id="home"><a href="/customize.html">Make Wolfram|Alpha Your Home Page</a></li>
+            <li><a href="/addtoyoursite.html">Add Wolfram|Alpha to Your Site</a></li>
+
+            <li id="professional"><a href="/professional.html">Professional Versions</a></li>
+            <li><a href="/developers.html">For Developers</a></li>
+            <li><a href="/solutions.html">Custom Wolfram|Alpha Solutions</a></li>
+
+            <li id="partproject"><a href="/participate/participate.html">Participate in the Project</a></li>
+            <li><a href="/jobs/">Career Opportunities</a></li>
+
+            <li id="sponsorslink"><a href="/sponsor.html">Sponsorship Opportunities</a></li>
+            <li><a href="/media/">Media Resources</a></li>
+          </ul>
+        </div>
+    </li>
+  </ul>
+  <div id="menu">
+	<div id="resources">
+		<h2  title="A Wolfram Web Resource">A Wolfram Web Resource</h2>
+		<ul class="menu">
+			<li><a href="http://www.wolfram.com">Wolfram Research</a></li>
+			<li id="math"><a href="http://www.wolfram.com/products/mathematica/">Wolfram <i>Mathematica</i></a></li>
+			<li><a href="http://demonstrations.wolfram.com">Wolfram Demonstrations</a></li>
+			<li><a href="http://mathworld.wolfram.com">Wolfram <i>MathWorld</i></a></li>
+			<li><a href="http://www.wolframscience.com">Wolfram Science</a></li>
+			<li><a href="http://tones.wolfram.com">Wolfram<i>Tones</i></a></li>
+			<li id="r-more"><a href="http://www.wolfram.com/webresources.html">More &raquo;</a></li>
+		</ul>
+	</div>
+  </div>
+</div>
+
+
+
+<div id="content">
+
+<form method="get" action="/input/" id="calculate" accept-charset="UTF-8" >
+
+
+</style>
+
+  <fieldset id="input">
+  <a id="logo" href="/" title="Wolfram|Alpha computational knowledge engine">
+    <span id="spin"></span>
+  </a>
+
+    <label class="hidden" for="i">Enter something to compute or figure out</label>
+    <input name="i" id="i" maxlength="200" value="" type="text" />
+    <label class="hidden" for="equal">Calculate</label>
+    <input type="submit" id="equal" title="compute" value="Submit" />
+  </fieldset>
+</form>
+
+<noscript>
+  <p id="noscript">
+    Sorry...To see full output on this page you need Javascript enabled on your browser.
+  </p>
+</noscript>
+
+<div id="sidebar">
+  <div id="newToAlphaContainer"></div>
+</div>
+
+
+<div id="intro">
+  <b class="top"></b>
+  <div class="pod">
+    <b class="top"></b>
+    <div id="blurb">
+      <h1>Making the world's knowledge computable</h1>
+      <p>Today's Wolfram|Alpha is the first step in an ambitious, long-term project to make all<br /> systematic knowledge immediately computable<br/> by anyone. <b>&nbsp;</b>Enter your question or calculation,<br/> and Wolfram|Alpha uses its built-in algorithms<br/> and a growing collection of data to compute the <br/>answer. <b>&nbsp;</b> Based on a new kind of knowledge-<br />based computing... <a href="about.html"><em>more &raquo;</em></a></p>
+    </div>
+
+    <div id="tutorial">
+      <a href="/screencast/introducingwolframalpha.html">Stephen Wolfram's intro &raquo;</a>
+      <a id="summary" href="/images/home-popup.png">One-page summary &raquo;</a>
+    </div>
+
+    <div id="inputs">
+      <h2><a href="/gallery.html">Sample inputs:</a></h2>
+        <ul class="thumbs">
+    <li><a href="/input/?i=gdp%20spain%2Fitaly">gdp spain/italy</a></li>
+    <li><a href="/input/?i=72%20mph">72 mph</a></li>
+  </ul>
+  <ul class="thumbs">
+    <li><a href="/input/?i=2%20million%20yen">2 million yen</a></li>
+    <li><a href="/input/?i=2%20%2B%204%20%2B%206%20%2B%20...%20%2B%20100">2 + 4 + 6 + ... + 100</a></li>
+    <li><a href="/input/?i=bcc%20lattice">bcc lattice</a></li>
+  </ul>
+  <ul class="thumbs">
+    <li><a href="/input/?i=x%5E3-4x%5E2%2B6x-24%3D0">x^3&ndash;4x^2+6x&ndash;24=0</a></li>
+    <li><a href="/input/?i=Eiffel%20Tower%20height">Eiffel Tower height</a></li>
+    <li><a href="/input/?i=n__t_">n__t_</a></li>
+  </ul>
+  <ul class="thumbs">
+    <li><a href="/input/?i=trochoid">trochoid</a></li>
+    <li><a href="/input/?i=5%25%20HCl">5% HCl</a></li>
+    <li><a href="/input/?i=gamma%28x%5E2%29%20representations">gamma(x^2) representations</a></li>
+  </ul>
+  <ul class="thumbs">
+    <li><a href="/input/?i=5%2C12%2C13%20triangle">5,12,13 triangle</a></li>
+    <li><a href="/input/?i=AIDS%20deaths%20Africa">AIDS deaths Africa</a></li>
+    <li><a href="">more &raquo;</a></li>
+  </ul>
+
+   </div>
+
+    <div id="topics">
+      <h2><a href="/examples/">Sample topics:</a></h2>
+      <ul class="first">
+        <li><a href="/examples/Math.html">Mathematics</a></li>
+        <li><a href="/examples/Engineering.html">Engineering</a></li>
+        <li><a href="/examples/DatesAndTimes.html">Dates &amp; Times</a></li>
+        <li><a href="/examples/Physics.html">Physics</a></li>
+     </ul>
+     <ul>
+      <li><a href="/examples/MoneyAndFinance.html">Money &amp; Finance</a></li>
+      <li><a href="/examples/UnitsMeasures.html">Units &amp; Measures</a></li>
+      <li><a href="/examples/Chemistry.html">Chemistry</a></li>
+      <li><a href="/examples/PlacesAndGeography.html">Places &amp; Geography</a></li>
+      <li><a href="/examples/"><em>more &raquo;</em></a></li>
+    </ul>
+    </div>
+
+    <map id="previewMap" name="previewMap">
+        <area shape="rect" coords="0,0,107,79" href="/input/?i=International+Space+Station+4%2F6%2F09+at+7%3A45pm" alt="International Space Station 4/6/09 at 7:45pm" title="International Space Station 4/6/09 at 7:45pm" />
+        <area shape="rect" coords="108,0,215,79" href="/input/?i=caffeine+vs.+aspirin" alt="caffeine vs. aspirin" title="caffeine vs. aspirin" />
+
+        <area shape="rect" coords="108,86,215,199" href="/input/?i=2+slices+of+swiss+cheese" alt="2 slices of swiss cheese" title="2 slices of swiss cheese" />
+        <area shape="rect" coords="0,86,107,199" href="input/?i=Taylor+series+of+sin^3(x)" alt="Taylor series of sin^3(x)" title="Taylor series of sin^3(x)"/>
+
+        <area shape="rect" coords="108,206,215,318" href="/input/?i=C+E+G+Bb+D+F%23+A" alt="C E G Bb D F# A" title="C E G Bb D F# A" />
+        <area shape="rect" coords="0,205,107,316" href="/input/?i=integrate+sqrt+x+cos+x" alt="integrate sqrt x cos x" title="integrate sqrt x cos x" />
+
+        <area shape="rect" coords="108,322,215,436" href="/input/?i=weather+Boston+1998"  alt="weather Boston 1998" title="weather Boston 1998" />
+        <area shape="rect" coords="0,323,107,434" href="/input/?i=earthquakes+near+the+Akashi-Kaiky%C5%8D+bridge"  alt="earthquakes near the Akashi-Kaiky&#333; bridge" title="earthquakes near the Akashi-Kaiky&#333; bridge" />
+
+        <area shape="rect" coords="0,439,107,521" href="/input/?i=growth+chart+for+girl+born+June+29%2C+2000" alt="growth chart for girl born June 29, 2000"  title="growth chart for girl born June 29, 2000" />
+        <area shape="rect" coords="108,439,215,521" href="/input/?i=+icosahedron%2C+truncated+icosahedron" alt="icosahedron, truncated icosahedron"  title="icosahedron, truncated icosahedron" />
+    </map>
+	<div id="preview">
+		<img src="/images/home-thumbs.png" alt="thumbnail examples" usemap="#previewMap" />
+		<a id="toGallery" href="gallery.html" title="Visual Gallery of Examples">Visual gallery of examples</a>
+	</div>
+    <b class="bot"></b>
+  </div>
+  <b class="bot"></b>
+  </div>
+</div>
+<div id="footer">
+	<form id="feedback" method="post" action="/input/sendmessage.jsp" accept-charset="UTF-8">
+		<fieldset>
+			<h2 id="giveus">Give us your feedback:  </h2>
+			<input id="tmpMessage" type="text" disabled="disabled" />
+			<div id="tmpSend" >&nbsp;</div>
+		</fieldset>
+	</form>
+
+	<ul>
+		<li class="first">&copy; 2009 Wolfram Alpha LLC&mdash;A <a href="http://www.wolfram.com/">Wolfram Research</a> Company</li>
+		<li><a href="/termsofuse.html">Terms of Use</a></li>
+		<li><a href="/privacypolicy.html">Privacy Policy</a></li>
+		<li><a href="/participate/participate.html">Participate</a></li>
+	</ul>
+</div>
+
+<script type="text/javascript">if (top !== self) top.location.replace(self.location.href);</script> 
+<script type="text/javascript" src="/common/javascript/jquery/core/1.3.2/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="/javascript/index.js"></script>
+
+<!--[if lt IE 8]>
+  <script src="/Calculate/javascript/ie.js" type="text/javascript"></script>
+<![endif]-->
+
+<div id="popanchor"></div>
+
+</body>
+</html>

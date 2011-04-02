@@ -1,0 +1,342 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" >
+<head>
+<title>Haskell - HaskellWiki</title>
+<meta name="KEYWORDS" content="Haskell" />
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name="robots" content="index,follow" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link title="Creative Commons" type="application/rdf+xml" href="/haskellwiki/?title=Haskell&amp;action=creativecommons" rel="meta" />
+<link rel="copyright" href="/haskellwiki/HaskellWiki:Copyrights" />
+<link rel='stylesheet' type='text/css' media='print' href='/sitewiki/skins/common/wikiprintable.css' />
+<script type="text/javascript" src="/sitewiki/skins/common/wikibits.js"></script>
+<style type='text/css'>
+/*/*/ /*<![CDATA[*/
+@import "/sitewiki/skins/common/common.css";
+@import "/haskellwiki/?title=MediaWiki:Quiet.css&action=raw&ctype=text/css";
+a.new, #quickbar a.new { color: #CC2200; }
+.editsection { display: none; }
+
+/*]]>*/ /* */
+</style>
+</head>
+
+<body bgcolor='#FFFFFF' onload=''>
+<div id="topbar">
+<table width="100%" cellspacing="0" cellpadding="5"><tr valign="top">
+<td align="left" width="60"><p><a href="/haskellwiki/Haskell"><img src="/sitewiki/images/a/a8/Haskell-logo-60.png" alt="HaskellWiki" /></a></p></td>
+<td align="left"><p><a href="/haskellwiki/Haskell">Haskell</a> | <a href="/haskellwiki/HaskellWiki:Community">Wiki community</a> | <a href="/haskellwiki/Special:Recentchanges">Recent changes</a><br />
+<a href="/haskellwiki/Special:Random">Random page</a> | <a href="/haskellwiki/Special:Specialpages" title="Special:Specialpages">Special pages</a></p>
+<form name="search" class="inline" method="post" action="/haskellwiki/Special:Search">
+<input type="text" name="search" size="19" value="" />
+<input type="submit" name="go" value="Go" />&nbsp;<input type="submit" name="fulltext" value="Search" />
+</form></td>
+<td align="right"><p>Not logged in
+<br /><a href="/haskellwiki/?title=Special:Userlogin&amp;returnto=Haskell" title="Special:Userlogin">Log in</a> | <a href="/haskellwiki/Help:Contents" title="Help:Contents">Help</a></p></td>
+</tr></table>
+</div>
+
+
+<div id='siteNotice'><a href="/haskellwiki/HaskellWiki:New_accounts" title="HaskellWiki:New accounts">Request an account</a> if you don't have one.</div>
+<div id="content">
+<p id="pagelinks">
+<strong><a href="/haskellwiki/?title=Haskell&amp;action=edit" title="Haskell">Edit this page</a></strong> |
+<a href="/haskellwiki/Talk:Haskell" title="Talk:Haskell">Discuss this page</a> |
+<a href="/haskellwiki/?title=Haskell&amp;action=history" title="Haskell">Page history</a> |
+<a href="/haskellwiki/?title=Special:Whatlinkshere&amp;target=Haskell" title="Special:Whatlinkshere">What links here</a> |
+<a href="/haskellwiki/?title=Special:Recentchangeslinked&amp;target=Haskell" title="Special:Recentchangeslinked">Related changes</a><br />
+</p>
+<div id='article'>
+<h1 class="pagetitle">Haskell</h1>
+<p><br />
+</p>
+<table border="0" cellspacing="5" cellpadding="10">
+<tr>
+<td valign="top" style="text-align:left" bgcolor="#F0F0F0">
+<table>
+
+<tr>
+<td><b><a href="http://hackage.haskell.org/platform/" class='external text' title="http://hackage.haskell.org/platform/" rel="nofollow">Download Haskell</a></b>
+</td></tr>
+<tr>
+<td><b><a href="http://haskell.org/ghc/download_ghc_6_10_4.html" class='external text' title="http://haskell.org/ghc/download ghc 6 10 4.html" rel="nofollow">Download GHC</a></b>
+</td></tr>
+<tr>
+<td><b><a href="http://hackage.haskell.org/packages/archive/pkg-list.html" class='external text' title="http://hackage.haskell.org/packages/archive/pkg-list.html" rel="nofollow">Find A Library</a></b>
+</td></tr>
+<tr>
+<td><b><a href="http://www.google.com/custom?hl=en&amp;safe=off&amp;client=google-coop-np&amp;cof=AH%3Aleft%3BS%3Ahttp%3A%2F%2Fhaskell.org%3BCX%3Ahaskell%3BL%3Ahttp%3A%2F%2Fhaskell.org%2Fhaskellwiki_logo_small.png%3BLH%3A57%3BLP%3A1%3BVLC%3A%23551a8b%3BGFNT%3A%23666666%3BDIV%3A%23cccccc%3B&amp;adkw=AELymgWtRtlzIgBtP0mbtrHecJ5ha0yGsB7u4HAQZORt4w2NravQifsI1tthnvuoao3GcNRq2O1TjqB5SY-frAoMzrYgmD8AuRsS2t-dOA_e5o_NrR-2IjlR1FtWKQlHVXV128mypbGt-DVtvST1OygXE1TBGtDS9g&amp;q=&amp;btnG=Search&amp;cx=015832023690232952875%3Afmx5feg3cco" class='external text' title="http://www.google.com/custom?hl=en&amp;safe=off&amp;client=google-coop-np&amp;cof=AH:left;S:http://haskell.org;CX:haskell;L:http://haskell.org/haskellwiki logo small.png;LH:57;LP:1;VLC:#551a8b;GFNT:#666666;DIV:#cccccc;&amp;adkw=AELymgWtRtlzIgBtP0mbtrHecJ5ha0yGsB7u4HAQZORt4w2NravQifsI1tthnvuoao3GcNRq2O1TjqB5SY-frAoMzrYgmD8AuRsS2t-dOA e5o NrR-2IjlR1FtWKQlHVXV128mypbGt-DVtvST1OygXE1TBGtDS9g&amp;q=&amp;btnG=Search&amp;cx=015832023690232952875:fmx5feg3cco" rel="nofollow">Search</a></b>
+</td></tr></table>
+<p><b>About</b>
+</p>
+<table border="0" cellspacing="0" cellpadding="2" style="text-align:left">
+
+<tr>
+<td> <a href="http://www.google.com/cse?cx=014102838545582129901%3Anhonl7a8bw8" class='external text' title="http://www.google.com/cse?cx=014102838545582129901:nhonl7a8bw8" rel="nofollow">Search haskell.org</a>
+</td></tr>
+<tr>
+<td> <a href="/haskellwiki/Introduction" title="Introduction">Why use Haskell?</a>
+</td></tr>
+<tr>
+<td> <a href="/haskellwiki/Language_and_library_specification" title="Language and library specification">Language definition</a>
+</td></tr>
+<tr>
+<td> <a href="/haskellwiki/History_of_Haskell" title="History of Haskell">History of Haskell</a>
+</td></tr>
+<tr>
+<td> <a href="/haskellwiki/Future_of_Haskell" title="Future of Haskell">Future of Haskell</a>
+</td></tr>
+<tr>
+<td> <a href="/haskellwiki/Implementations" title="Implementations">Implementations</a>
+</td></tr>
+</table>
+<dl><dd>  <b><a href="http://haskell.org/ghc/" class='external text' title="http://haskell.org/ghc/" rel="nofollow">GHC</a></b>
+</dd><dd>  <a href="http://haskell.org/hugs/" class='external text' title="http://haskell.org/hugs/" rel="nofollow">hugs</a>, <a href="http://haskell.org/nhc98/" class='external text' title="http://haskell.org/nhc98/" rel="nofollow">nhc98</a>, <a href="http://www.cs.uu.nl/wiki/UHC" class='external text' title="http://www.cs.uu.nl/wiki/UHC" rel="nofollow">UHC</a>, <a href="/haskellwiki/Yhc" title="Yhc">Yhc</a>
+</dd><dd>  <a href="http://repetae.net/computer/jhc/" class='external text' title="http://repetae.net/computer/jhc/" rel="nofollow">jhc</a>, <a href="http://lhc.seize.it/" class='external text' title="http://lhc.seize.it/" rel="nofollow">lhc</a> 
+</dd></dl>
+<table>
+<tr>
+<td> <a href="http://hackage.haskell.org/platform/" class='external text' title="http://hackage.haskell.org/platform/" rel="nofollow">The Haskell Platform</a>
+</td></tr></table>
+<p><b>Learning</b>
+</p>
+<table border="0" cellspacing="0" cellpadding="2" style="text-align:left">
+
+<tr>
+<td> <a href="/haskellwiki/Haskell_in_5_steps" title="Haskell in 5 steps">Haskell in 5 steps</a>
+</td></tr>
+<tr>
+<td> <a href="/haskellwiki/Learning_Haskell" title="Learning Haskell">Learning Haskell</a>
+</td></tr>
+<tr>
+<td> <a href="http://cheatsheet.codeslower.com/" class='external text' title="http://cheatsheet.codeslower.com/" rel="nofollow">Haskell Cheatsheet</a>
+</td></tr>
+<tr>
+<td> <a href="/haskellwiki/Books_and_tutorials" title="Books and tutorials">Books and tutorials</a>
+</td></tr>
+<tr>
+<td> <a href="/haskellwiki/Category:Haskell" title="Category:Haskell">Wiki articles</a>
+</td></tr>
+<tr>
+<td> <a href="http://www.reddit.com/r/haskell/" class='external text' title="http://www.reddit.com/r/haskell/" rel="nofollow">Blog articles and news</a>
+</td></tr>
+<tr>
+<td> <a href="/haskellwiki/Video_presentations" title="Video presentations">Videos</a>
+</td></tr>
+<tr>
+<td> <a href="http://en.wikibooks.org/wiki/Haskell" class='external text' title="http://en.wikibooks.org/wiki/Haskell" rel="nofollow">Wikibook</a>
+</td></tr>
+<tr>
+<td> <a href="/haskellwiki/Research_papers" title="Research papers">Research papers</a>
+</td></tr>
+</table>
+<p><b>Libraries</b>
+</p>
+<table border="0" cellspacing="0" cellpadding="2" style="text-align:left">
+
+<tr>
+<td> <a href="http://www.haskell.org/ghc/docs/latest/html/libraries/index.html" class='external text' title="http://www.haskell.org/ghc/docs/latest/html/libraries/index.html" rel="nofollow">Standard libraries</a>
+</td></tr>
+<tr>
+<td> <a href="http://hackage.haskell.org/packages/hackage.html" class='external text' title="http://hackage.haskell.org/packages/hackage.html" rel="nofollow">Hackage library database</a>
+</td></tr>
+<tr>
+<td> <a href="/haskellwiki/Applications_and_libraries" title="Applications and libraries">Applications and libraries</a>
+</td></tr>
+<tr>
+<td> <a href="http://haskell.org/hoogle/" class='external text' title="http://haskell.org/hoogle/" rel="nofollow">Hoogle</a> and <a href="http://holumbus.fh-wedel.de/hayoo/" class='external text' title="http://holumbus.fh-wedel.de/hayoo/" rel="nofollow">Hayoo</a> API search
+</td></tr>
+</table>
+<p><b>Community</b>
+</p>
+<table border="0" cellspacing="0" cellpadding="2" style="text-align:left">
+
+<tr>
+<td> <a href="http://haskell.org/communities/" class='external text' title="http://haskell.org/communities/" rel="nofollow">Community reports</a>
+</td></tr></table>
+<dl><dd> <a href="/haskellwiki/Haskell_in_industry" title="Haskell in industry">Industry</a>
+</dd><dd> <a href="/haskellwiki/Haskell_in_education" title="Haskell in education">Education</a>
+</dd><dd> <a href="/haskellwiki/Haskell_in_research" title="Haskell in research">Research</a>
+</dd><dd> <a href="/haskellwiki/Haskell_and_mathematics" title="Haskell and mathematics">Mathematics</a>
+</dd></dl>
+<table border="0" cellspacing="0" cellpadding="2" style="text-align:left">
+
+<tr>
+<td> <a href="/haskellwiki/Haskell.org_domain" title="Haskell.org domain">Project hosting</a>
+</td></tr>
+<tr>
+<td> <a href="/haskellwiki/Mailing_lists" title="Mailing lists">Mailing lists</a>
+</td></tr>
+<tr>
+<td> <a href="http://planet.haskell.org/" class='external text' title="http://planet.haskell.org/" rel="nofollow">Planet Haskell</a> <a href="http://planet.haskell.org/rss20.xml" class='external text' title="http://planet.haskell.org/rss20.xml" rel="nofollow"><img src="http://haskell.org/sitewiki/images/0/09/Rss.png" alt="Rss.png" /></a>
+</td></tr>
+<tr>
+<td> <a href="/haskellwiki/IRC_channel" title="IRC channel">IRC channel</a>
+</td></tr>
+<tr>
+<td> <a href="http://www.reddit.com/r/haskell/" class='external text' title="http://www.reddit.com/r/haskell/" rel="nofollow">Haskell Reddit</a> <a href="http://www.reddit.com/r/haskell/" class='external text' title="http://www.reddit.com/r/haskell/" rel="nofollow"><img src="http://www.reddit.com/static/spreddit5.gif" alt="spreddit5.gif" /></a>
+</td></tr>
+<tr>
+<td> <a href="http://industry.haskell.org" class='external text' title="http://industry.haskell.org" rel="nofollow">Industrial Haskell Group</a>
+</td></tr>
+<tr>
+<td> <a href="/haskellwiki/User_groups" title="User groups">User groups</a>
+</td></tr>
+<tr>
+<td> <a href="/haskellwiki/The_Monad.Reader" title="The Monad.Reader">The Monad.Reader</a>
+</td></tr>
+<tr>
+<td> <a href="http://sequence.complete.org" class='external text' title="http://sequence.complete.org" rel="nofollow">The Haskell Sequence</a>
+</td></tr>
+<tr>
+<td> <a href="http://hpaste.org/" class='external text' title="http://hpaste.org/" rel="nofollow">Haskell pastebin</a>
+</td></tr>
+<tr>
+<td> <a href="http://www.reddit.com/r/haskell_proposals/" class='external text' title="http://www.reddit.com/r/haskell proposals/" rel="nofollow">Propose a Project</a>
+</td></tr>
+<tr>
+<td> <a href="/haskellwiki/Conferences" title="Conferences">Conferences</a>
+</td></tr>
+<tr>
+<td> <a href="/haskellwiki/Programming_contests" title="Programming contests">Contests</a>
+</td></tr>
+<tr>
+<td> <a href="/haskellwiki/Jobs" title="Jobs">Jobs</a>
+</td></tr>
+<tr>
+<td> <a href="/haskellwiki/Humor" title="Humor">Humor</a>
+</td></tr>
+<tr>
+<td> <a href="/haskellwiki/Merchandise" title="Merchandise">Merchandise</a>
+</td></tr>
+<tr>
+<td> <a href="/haskellwiki/Haskell.org" title="Haskell.org">haskell.org</a>
+</td></tr>
+<tr>
+<td> <a href="/haskellwiki/HaskellWiki:Contributing" title="HaskellWiki:Contributing">Contributing to this site</a>
+</td></tr>
+<tr>
+<td> Languages: <strong>en</strong> <a href="/haskellwiki/Es/Haskell" title="Es/Haskell">es</a> <a href="/haskellwiki/Ro/Haskell" title="Ro/Haskell">ro</a> <a href="/haskellwiki/Pt/Haskell" title="Pt/Haskell">pt</a> <a href="/haskellwiki/Fr/Haskell" title="Fr/Haskell">fr</a> <a href="/haskellwiki/Ru/Haskell" title="Ru/Haskell"> ru</a> <a href="/haskellwiki/Cn/Haskell" title="Cn/Haskell">zh/cn</a> <a href="/haskellwiki/Tur/Haskell" title="Tur/Haskell">tur</a> <a href="/haskellwiki/Cz/Haskell" title="Cz/Haskell">cz</a> <a href="/haskellwiki/Ko/Haskell" title="Ko/Haskell">ko</a>
+</td></tr>
+</table>
+</td><td valign="top" width="75%" style="text-align:left; line-height:120%">
+<p style="text-align:left">
+Haskell is an advanced <a href="/haskellwiki/Functional_programming" title="Functional programming">purely functional
+programming</a> language. An open source product of more than twenty years of cutting edge research, 
+it allows rapid development of robust, concise, correct
+software. With strong support for <a href="http://www.cse.unsw.edu.au/~chak/haskell/ffi/" class='external text' title="http://www.cse.unsw.edu.au/~chak/haskell/ffi/" rel="nofollow">integration with other languages</a>,
+built-in <a href="http://haskell.org/haskellwiki/Applications_and_libraries/Concurrency_and_parallelism" class='external text' title="http://haskell.org/haskellwiki/Applications and libraries/Concurrency and parallelism" rel="nofollow">concurrency and parallelism</a>, debuggers, profilers, <a href="http://hackage.haskell.org/packages/hackage.html" class='external text' title="http://hackage.haskell.org/packages/hackage.html" rel="nofollow">rich libraries</a> and an active community, Haskell makes it easier to produce flexible, maintainable 
+high-quality software.
+</p>
+<table border="0" cellspacing="0" cellpadding="15">
+
+<tr>
+<td valign="top" width="65%" style="text-align:left">
+<p><b>Events</b>
+<center>
+</p>
+<table border="0" cellspacing="0" cellpadding="2">
+<tr>
+<th>
+</th><th>
+</th><th>
+</th></tr>
+<tr>
+<td> <a href="http://atnd.org/events/1048" class='external text' title="http://atnd.org/events/1048" rel="nofollow">Haskell Annual Meeting Autumn.jp (HAMA.jp)</a>
+</td><td> online meeting at irc.freenode.net/Japan
+</td><td> Sep 19-23
+</td></tr>
+<tr>
+<td> <a href="http://tltc.shu.edu/blogs/projects/IFL2009/" class='external text' title="http://tltc.shu.edu/blogs/projects/IFL2009/" rel="nofollow">Implementation and Application of Functional Programming (IFL)</a>
+</td><td> South Orange/USA
+</td><td> Sep 23-25
+</td></tr>
+<tr>
+<td> <a href="http://www.haskell.org/haskellwiki/HacPDX" class='external text' title="http://www.haskell.org/haskellwiki/HacPDX" rel="nofollow">HacPDX</a>
+</td><td> Portland, Oregon, USA
+</td><td> Sep 25-27
+</td></tr>
+<tr>
+<td> <a href="http://hope.cs.rice.edu/twiki/bin/view/GPCE09/WebHome" class='external text' title="http://hope.cs.rice.edu/twiki/bin/view/GPCE09/WebHome" rel="nofollow">Generative Programming and Component Engineering (GPCE)</a>
+</td><td> Denver/USA
+</td><td> Oct 4-5
+</td></tr>
+<tr>
+<td> <a href="http://www.program-transformation.org/PEPM10" class='external text' title="http://www.program-transformation.org/PEPM10" rel="nofollow">Partial Evaluation and Program Manipulation (PEPM)</a>
+</td><td> Madrid/Spain
+</td><td> Jan 18-19, 2010
+</td></tr>
+</table></center>
+<p><b>Headlines</b>
+</p>
+<ul><li> <a href="http://hackage.haskell.org/platform/" class='external text' title="http://hackage.haskell.org/platform/" rel="nofollow">The Haskell Platform</a> is live! <a href="http://donsbot.wordpress.com/2009/09/05/the-haskell-platform-status-report-haskell-symposium-2009/" class='external text' title="http://donsbot.wordpress.com/2009/09/05/the-haskell-platform-status-report-haskell-symposium-2009/" rel="nofollow">Status report</a>
+</li></ul>
+<ul><li> The <a href="http://industry.haskell.org/" class='external text' title="http://industry.haskell.org/" rel="nofollow">Industrial Haskell Group</a> has been launched, to provide support for commercial users of Haskell. <a href="http://blog.well-typed.com/2009/09/slides-from-the-ihg-talk-at-cufp/" class='external text' title="http://blog.well-typed.com/2009/09/slides-from-the-ihg-talk-at-cufp/" rel="nofollow">Status report</a>
+</li></ul>
+<ul><li> <b>GHC 6.10</b>, the flagship Haskell compiler, has been released, with a new parallel garbage collector, type families and data parallel arrays. <a href="http://www.haskell.org/ghc/download_ghc_6_10_4.html" class='external text' title="http://www.haskell.org/ghc/download ghc 6 10 4.html" rel="nofollow">Get it now</a>.
+</li></ul>
+<ul><li> Over 1500 Haskell libraries and tools have now been released on <a href="http://hackage.haskell.org" class='external text' title="http://hackage.haskell.org" rel="nofollow">Hackage</a>.
+</li></ul>
+<ul><li> The <a href="http://hackage.haskell.org/trac/haskell-prime" class='external text' title="http://hackage.haskell.org/trac/haskell-prime" rel="nofollow">Haskell-prime</a> committee is continuing work on defining the next minor revision of the language specification.
+</li></ul>
+<p><b>Recent Package Updates</b> <a href="http://haskell.org/haskellwiki/Hackage_statistics" class='external text' title="http://haskell.org/haskellwiki/Hackage statistics" rel="nofollow"><img src="http://galois.com/~dons/images/hackage-daily.png" alt="hackage-daily.png" /></a> <a href="http://hackage.haskell.org/packages/archive/recent.rss" class='external text' title="http://hackage.haskell.org/packages/archive/recent.rss" rel="nofollow"><img src="http://haskell.org/sitewiki/images/0/09/Rss.png" alt="Rss.png" /></a>
+</p>
+<dl><dt><a href="http://hackage.haskell.org/package/graphviz-2999.5.0.0" class='external text' title="http://hackage.haskell.org/package/graphviz-2999.5.0.0" rel="nofollow">graphviz 2999.5.0.0</a>
+</dt><dd>GraphViz bindings for Haskell.
+</dd><dt><a href="http://hackage.haskell.org/package/HCodecs-0.1" class='external text' title="http://hackage.haskell.org/package/HCodecs-0.1" rel="nofollow">HCodecs 0.1</a>
+</dt><dd>A library to read, write and manipulate MIDI, WAVE, and SoundFont2 files.
+</dd><dt><a href="http://hackage.haskell.org/package/wraxml-0.4.3" class='external text' title="http://hackage.haskell.org/package/wraxml-0.4.3" rel="nofollow">wraxml 0.4.3</a>
+</dt><dd>Lazy wrapper to HaXML, HXT, TagSoup via custom XML tree structure
+</dd><dt><a href="http://hackage.haskell.org/package/tagchup-0.4" class='external text' title="http://hackage.haskell.org/package/tagchup-0.4" rel="nofollow">tagchup 0.4</a>
+</dt><dd>alternative package for processing of tag soups
+</dd><dt><a href="http://hackage.haskell.org/package/uvector-algorithms-0.2" class='external text' title="http://hackage.haskell.org/package/uvector-algorithms-0.2" rel="nofollow">uvector-algorithms 0.2</a>
+</dt><dd>Efficient algorithms for uvector unboxed arrays
+</dd><dt><a href="http://hackage.haskell.org/package/dbmigrations-0.1.1" class='external text' title="http://hackage.haskell.org/package/dbmigrations-0.1.1" rel="nofollow">dbmigrations 0.1.1</a>
+</dt><dd>An implementation of relational database "migrations"
+</dd><dt><a href="http://hackage.haskell.org/package/york-lava-0.1" class='external text' title="http://hackage.haskell.org/package/york-lava-0.1" rel="nofollow">york-lava 0.1</a>
+</dt><dd>A library for circuit description.
+</dd><dt><a href="http://hackage.haskell.org/package/semiring-0.1.1" class='external text' title="http://hackage.haskell.org/package/semiring-0.1.1" rel="nofollow">semiring 0.1.1</a>
+</dt><dd>Semirings, ring-like structures used for dynamic programming applications
+</dd><dt><a href="http://hackage.haskell.org/package/liboleg-2009.9.1" class='external text' title="http://hackage.haskell.org/package/liboleg-2009.9.1" rel="nofollow">liboleg 2009.9.1</a>
+</dt><dd>A collection of Oleg Kiselyov's Haskell modules (2009-2008)
+</dd><dt><a href="http://hackage.haskell.org/package/flower-0.1.2" class='external text' title="http://hackage.haskell.org/package/flower-0.1.2" rel="nofollow">flower 0.1.2</a>
+</dt><dd>Analyze 454 flowgrams  (.SFF files)
+</dd><dt><a href="http://hackage.haskell.org/package/statistics-0.1" class='external text' title="http://hackage.haskell.org/package/statistics-0.1" rel="nofollow">statistics 0.1</a>
+</dt><dd>A library of statistical types, data, and functions.
+</dd><dt><a href="http://hackage.haskell.org/package/usb-id-database-0.2" class='external text' title="http://hackage.haskell.org/package/usb-id-database-0.2" rel="nofollow">usb-id-database 0.2</a>
+</dt><dd>A database of USB identifiers
+</dd><dt><a href="http://hackage.haskell.org/package/TrieMap-0.0.1.2" class='external text' title="http://hackage.haskell.org/package/TrieMap-0.0.1.2" rel="nofollow">TrieMap 0.0.1.2</a>
+</dt><dd>An implementation of generalized tries with sophisticated map type inference.
+</dd><dt><a href="http://hackage.haskell.org/package/hlint-1.6.8" class='external text' title="http://hackage.haskell.org/package/hlint-1.6.8" rel="nofollow">hlint 1.6.8</a>
+</dt><dd>Source code suggestions
+</dd><dt><a href="http://hackage.haskell.org/package/palindromes-0.1.1" class='external text' title="http://hackage.haskell.org/package/palindromes-0.1.1" rel="nofollow">palindromes 0.1.1</a>
+</dt><dd>Finding palindromes in strings
+</dd><dt><a href="http://hackage.haskell.org/package/uu-parsinglib-2.2.1" class='external text' title="http://hackage.haskell.org/package/uu-parsinglib-2.2.1" rel="nofollow">uu-parsinglib 2.2.1</a>
+</dt><dd>New version of the Utrecht University parser combinator library
+</dd><dt><a href="http://hackage.haskell.org/package/PortMidi-0.1.1" class='external text' title="http://hackage.haskell.org/package/PortMidi-0.1.1" rel="nofollow">PortMidi 0.1.1</a>
+</dt><dd>A binding for PortMedia/PortMidi
+</dd><dt><a href="http://hackage.haskell.org/package/JsContracts-0.5" class='external text' title="http://hackage.haskell.org/package/JsContracts-0.5" rel="nofollow">JsContracts 0.5</a>
+</dt><dd>Design-by-contract for JavaScript
+</dd></dl>
+<p><a href="http://hackage.haskell.org/packages/archive/pkg-list.html" class='external text' title="http://hackage.haskell.org/packages/archive/pkg-list.html" rel="nofollow">More...</a>
+</p><p><br />
+</p>
+</td></tr>
+</table>
+</td></tr></table>
+
+<!-- Saved in parser cache with key haskellwiki:pcache:idhash:1-0!1!0!0!1!en!2 and timestamp 20090909125111 -->
+
+<div class="printfooter">
+<p>Retrieved from "<a href="http://www.haskell.org/haskellwiki/Haskell">http://www.haskell.org/haskellwiki/Haskell</a>"</p>
+
+<p>This page has been accessed 2,507,285 times. This page was last modified 12:20, 7 July 2009. Recent content is available under <a href="/haskellwiki/HaskellWiki:Copyrights" title="HaskellWiki:Copyrights">a simple permissive license</a>.</p>
+</div>
+
+</div><div id='footer'>
+<p><span id="pagestats">Recent content is available under <a href="/haskellwiki/HaskellWiki:Copyrights" title="HaskellWiki:Copyrights">a simple permissive license</a>.</span><br /></p>
+</div>
+</div>
+<!-- Served by haskell.cs.yale.edu in 0.23 secs. -->
+</body></html>

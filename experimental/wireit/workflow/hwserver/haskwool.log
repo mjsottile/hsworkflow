@@ -1,0 +1,588 @@
+starting happs server
+time: Wed Sep  9 14:36:16 PDT 2009
+happs state started
+time: Wed Sep  9 14:36:16 PDT 2009
+simpleHttp started on port 5001
+shut down with ctrl-c
+time: Wed Sep  9 14:36:16 PDT 2009
+Stepping...
+..."" ticks
+Data for pipe Counter:
+
+State of the entire workflow:
+====== Debug =======
+[1]  Function AutoFiring: Function { functionState = [1,999999999] }
+[1]  writeResults: 1
+Ticks: 1
+
+====== Pipes =======
+Pipe[output] []
+Pipe[impipe0] [1]
+Pipe[impipe1] []
+
+====== Acts ======
+Operator[1] Function { functionState = [] } ....  {impipe1} {wf3ph3seval} <==  {impipe0}
+Operator[2] Function { functionState = [2,999999999] } ....  {impipe0} <== 
+Operator[3] Take {takeN = 5, takeData = []} ....  {output} <==  {impipe1}
+Stepping...
+..."" ticks
+Data for pipe Counter:
+
+State of the entire workflow:
+====== Debug =======
+[1]  Function AutoFiring: Function { functionState = [1,999999999] }
+[1]  writeResults: 1
+[2]  Function Firing: Function { functionState = [] }
+[2]  Function state: []
+[2]  Function newstate: [1]
+[2]  Function results: [1,Missing]
+[2]  writeResults: 1
+[2]  writeResults: Missing
+[2]  Function AutoFiring: Function { functionState = [2,999999999] }
+[2]  writeResults: 2
+[2]  Take 5 "impipe1" >>> "output" --- Amending: [1]
+Ticks: 2
+
+====== Pipes =======
+Pipe[output] []
+Pipe[impipe0] [2]
+Pipe[impipe1] []
+
+====== Acts ======
+Operator[1] Function { functionState = [1] } ....  {impipe1} {wf3ph3seval} <==  {impipe0}
+Operator[2] Function { functionState = [3,999999999] } ....  {impipe0} <== 
+Operator[3] Take {takeN = 5, takeData = [1]} ....  {output} <==  {impipe1}
+Stepping...
+..."" ticks
+Data for pipe Counter:
+
+State of the entire workflow:
+====== Debug =======
+[1]  Function AutoFiring: Function { functionState = [1,999999999] }
+[1]  writeResults: 1
+[2]  Function Firing: Function { functionState = [] }
+[2]  Function state: []
+[2]  Function newstate: [1]
+[2]  Function results: [1,Missing]
+[2]  writeResults: 1
+[2]  writeResults: Missing
+[2]  Function AutoFiring: Function { functionState = [2,999999999] }
+[2]  writeResults: 2
+[2]  Take 5 "impipe1" >>> "output" --- Amending: [1]
+[3]  Function Firing: Function { functionState = [1] }
+[3]  Function state: [1]
+[3]  Function newstate: [0]
+[3]  Function results: [Missing,2]
+[3]  writeResults: Missing
+[3]  writeResults: 2
+[3]  Function AutoFiring: Function { functionState = [3,999999999] }
+[3]  writeResults: 3
+Ticks: 3
+
+====== Pipes =======
+Pipe[output] []
+Pipe[impipe0] [3]
+Pipe[impipe1] []
+
+====== Acts ======
+Operator[1] Function { functionState = [0] } ....  {impipe1} {wf3ph3seval} <==  {impipe0}
+Operator[2] Function { functionState = [4,999999999] } ....  {impipe0} <== 
+Operator[3] Take {takeN = 5, takeData = [1]} ....  {output} <==  {impipe1}
+Stepping...
+..."" ticks
+Data for pipe Counter:
+
+State of the entire workflow:
+====== Debug =======
+[1]  Function AutoFiring: Function { functionState = [1,999999999] }
+[1]  writeResults: 1
+[2]  Function Firing: Function { functionState = [] }
+[2]  Function state: []
+[2]  Function newstate: [1]
+[2]  Function results: [1,Missing]
+[2]  writeResults: 1
+[2]  writeResults: Missing
+[2]  Function AutoFiring: Function { functionState = [2,999999999] }
+[2]  writeResults: 2
+[2]  Take 5 "impipe1" >>> "output" --- Amending: [1]
+[3]  Function Firing: Function { functionState = [1] }
+[3]  Function state: [1]
+[3]  Function newstate: [0]
+[3]  Function results: [Missing,2]
+[3]  writeResults: Missing
+[3]  writeResults: 2
+[3]  Function AutoFiring: Function { functionState = [3,999999999] }
+[3]  writeResults: 3
+[4]  Function Firing: Function { functionState = [0] }
+[4]  Function state: [0]
+[4]  Function newstate: [1]
+[4]  Function results: [3,Missing]
+[4]  writeResults: 3
+[4]  writeResults: Missing
+[4]  Function AutoFiring: Function { functionState = [4,999999999] }
+[4]  writeResults: 4
+[4]  Take 5 "impipe1" >>> "output" --- Amending: [1,3]
+Ticks: 4
+
+====== Pipes =======
+Pipe[output] []
+Pipe[impipe0] [4]
+Pipe[impipe1] []
+
+====== Acts ======
+Operator[1] Function { functionState = [1] } ....  {impipe1} {wf3ph3seval} <==  {impipe0}
+Operator[2] Function { functionState = [5,999999999] } ....  {impipe0} <== 
+Operator[3] Take {takeN = 5, takeData = [1,3]} ....  {output} <==  {impipe1}
+Stepping...
+..."" ticks
+Data for pipe Counter:
+
+State of the entire workflow:
+====== Debug =======
+[1]  Function AutoFiring: Function { functionState = [1,999999999] }
+[1]  writeResults: 1
+[2]  Function Firing: Function { functionState = [] }
+[2]  Function state: []
+[2]  Function newstate: [1]
+[2]  Function results: [1,Missing]
+[2]  writeResults: 1
+[2]  writeResults: Missing
+[2]  Function AutoFiring: Function { functionState = [2,999999999] }
+[2]  writeResults: 2
+[2]  Take 5 "impipe1" >>> "output" --- Amending: [1]
+[3]  Function Firing: Function { functionState = [1] }
+[3]  Function state: [1]
+[3]  Function newstate: [0]
+[3]  Function results: [Missing,2]
+[3]  writeResults: Missing
+[3]  writeResults: 2
+[3]  Function AutoFiring: Function { functionState = [3,999999999] }
+[3]  writeResults: 3
+[4]  Function Firing: Function { functionState = [0] }
+[4]  Function state: [0]
+[4]  Function newstate: [1]
+[4]  Function results: [3,Missing]
+[4]  writeResults: 3
+[4]  writeResults: Missing
+[4]  Function AutoFiring: Function { functionState = [4,999999999] }
+[4]  writeResults: 4
+[4]  Take 5 "impipe1" >>> "output" --- Amending: [1,3]
+[5]  Function Firing: Function { functionState = [1] }
+[5]  Function state: [1]
+[5]  Function newstate: [0]
+[5]  Function results: [Missing,4]
+[5]  writeResults: Missing
+[5]  writeResults: 4
+[5]  Function AutoFiring: Function { functionState = [5,999999999] }
+[5]  writeResults: 5
+Ticks: 5
+
+====== Pipes =======
+Pipe[output] []
+Pipe[impipe0] [5]
+Pipe[impipe1] []
+
+====== Acts ======
+Operator[1] Function { functionState = [0] } ....  {impipe1} {wf3ph3seval} <==  {impipe0}
+Operator[2] Function { functionState = [6,999999999] } ....  {impipe0} <== 
+Operator[3] Take {takeN = 5, takeData = [1,3]} ....  {output} <==  {impipe1}
+Stepping...
+..."" ticks
+Data for pipe Counter:
+
+State of the entire workflow:
+====== Debug =======
+[1]  Function AutoFiring: Function { functionState = [1,999999999] }
+[1]  writeResults: 1
+[2]  Function Firing: Function { functionState = [] }
+[2]  Function state: []
+[2]  Function newstate: [1]
+[2]  Function results: [1,Missing]
+[2]  writeResults: 1
+[2]  writeResults: Missing
+[2]  Function AutoFiring: Function { functionState = [2,999999999] }
+[2]  writeResults: 2
+[2]  Take 5 "impipe1" >>> "output" --- Amending: [1]
+[3]  Function Firing: Function { functionState = [1] }
+[3]  Function state: [1]
+[3]  Function newstate: [0]
+[3]  Function results: [Missing,2]
+[3]  writeResults: Missing
+[3]  writeResults: 2
+[3]  Function AutoFiring: Function { functionState = [3,999999999] }
+[3]  writeResults: 3
+[4]  Function Firing: Function { functionState = [0] }
+[4]  Function state: [0]
+[4]  Function newstate: [1]
+[4]  Function results: [3,Missing]
+[4]  writeResults: 3
+[4]  writeResults: Missing
+[4]  Function AutoFiring: Function { functionState = [4,999999999] }
+[4]  writeResults: 4
+[4]  Take 5 "impipe1" >>> "output" --- Amending: [1,3]
+[5]  Function Firing: Function { functionState = [1] }
+[5]  Function state: [1]
+[5]  Function newstate: [0]
+[5]  Function results: [Missing,4]
+[5]  writeResults: Missing
+[5]  writeResults: 4
+[5]  Function AutoFiring: Function { functionState = [5,999999999] }
+[5]  writeResults: 5
+[6]  Function Firing: Function { functionState = [0] }
+[6]  Function state: [0]
+[6]  Function newstate: [1]
+[6]  Function results: [5,Missing]
+[6]  writeResults: 5
+[6]  writeResults: Missing
+[6]  Function AutoFiring: Function { functionState = [6,999999999] }
+[6]  writeResults: 6
+[6]  Take 5 "impipe1" >>> "output" --- Amending: [1,3,5]
+Ticks: 6
+
+====== Pipes =======
+Pipe[output] []
+Pipe[impipe0] [6]
+Pipe[impipe1] []
+
+====== Acts ======
+Operator[1] Function { functionState = [1] } ....  {impipe1} {wf3ph3seval} <==  {impipe0}
+Operator[2] Function { functionState = [7,999999999] } ....  {impipe0} <== 
+Operator[3] Take {takeN = 5, takeData = [1,3,5]} ....  {output} <==  {impipe1}
+Stepping...
+..."" ticks
+Data for pipe Counter:
+
+State of the entire workflow:
+====== Debug =======
+[1]  Function AutoFiring: Function { functionState = [1,999999999] }
+[1]  writeResults: 1
+[2]  Function Firing: Function { functionState = [] }
+[2]  Function state: []
+[2]  Function newstate: [1]
+[2]  Function results: [1,Missing]
+[2]  writeResults: 1
+[2]  writeResults: Missing
+[2]  Function AutoFiring: Function { functionState = [2,999999999] }
+[2]  writeResults: 2
+[2]  Take 5 "impipe1" >>> "output" --- Amending: [1]
+[3]  Function Firing: Function { functionState = [1] }
+[3]  Function state: [1]
+[3]  Function newstate: [0]
+[3]  Function results: [Missing,2]
+[3]  writeResults: Missing
+[3]  writeResults: 2
+[3]  Function AutoFiring: Function { functionState = [3,999999999] }
+[3]  writeResults: 3
+[4]  Function Firing: Function { functionState = [0] }
+[4]  Function state: [0]
+[4]  Function newstate: [1]
+[4]  Function results: [3,Missing]
+[4]  writeResults: 3
+[4]  writeResults: Missing
+[4]  Function AutoFiring: Function { functionState = [4,999999999] }
+[4]  writeResults: 4
+[4]  Take 5 "impipe1" >>> "output" --- Amending: [1,3]
+[5]  Function Firing: Function { functionState = [1] }
+[5]  Function state: [1]
+[5]  Function newstate: [0]
+[5]  Function results: [Missing,4]
+[5]  writeResults: Missing
+[5]  writeResults: 4
+[5]  Function AutoFiring: Function { functionState = [5,999999999] }
+[5]  writeResults: 5
+[6]  Function Firing: Function { functionState = [0] }
+[6]  Function state: [0]
+[6]  Function newstate: [1]
+[6]  Function results: [5,Missing]
+[6]  writeResults: 5
+[6]  writeResults: Missing
+[6]  Function AutoFiring: Function { functionState = [6,999999999] }
+[6]  writeResults: 6
+[6]  Take 5 "impipe1" >>> "output" --- Amending: [1,3,5]
+[7]  Function Firing: Function { functionState = [1] }
+[7]  Function state: [1]
+[7]  Function newstate: [0]
+[7]  Function results: [Missing,6]
+[7]  writeResults: Missing
+[7]  writeResults: 6
+[7]  Function AutoFiring: Function { functionState = [7,999999999] }
+[7]  writeResults: 7
+Ticks: 7
+
+====== Pipes =======
+Pipe[output] []
+Pipe[impipe0] [7]
+Pipe[impipe1] []
+
+====== Acts ======
+Operator[1] Function { functionState = [0] } ....  {impipe1} {wf3ph3seval} <==  {impipe0}
+Operator[2] Function { functionState = [8,999999999] } ....  {impipe0} <== 
+Operator[3] Take {takeN = 5, takeData = [1,3,5]} ....  {output} <==  {impipe1}
+Stepping...
+..."" ticks
+Data for pipe Counter:
+
+State of the entire workflow:
+====== Debug =======
+[1]  Function AutoFiring: Function { functionState = [1,999999999] }
+[1]  writeResults: 1
+[2]  Function Firing: Function { functionState = [] }
+[2]  Function state: []
+[2]  Function newstate: [1]
+[2]  Function results: [1,Missing]
+[2]  writeResults: 1
+[2]  writeResults: Missing
+[2]  Function AutoFiring: Function { functionState = [2,999999999] }
+[2]  writeResults: 2
+[2]  Take 5 "impipe1" >>> "output" --- Amending: [1]
+[3]  Function Firing: Function { functionState = [1] }
+[3]  Function state: [1]
+[3]  Function newstate: [0]
+[3]  Function results: [Missing,2]
+[3]  writeResults: Missing
+[3]  writeResults: 2
+[3]  Function AutoFiring: Function { functionState = [3,999999999] }
+[3]  writeResults: 3
+[4]  Function Firing: Function { functionState = [0] }
+[4]  Function state: [0]
+[4]  Function newstate: [1]
+[4]  Function results: [3,Missing]
+[4]  writeResults: 3
+[4]  writeResults: Missing
+[4]  Function AutoFiring: Function { functionState = [4,999999999] }
+[4]  writeResults: 4
+[4]  Take 5 "impipe1" >>> "output" --- Amending: [1,3]
+[5]  Function Firing: Function { functionState = [1] }
+[5]  Function state: [1]
+[5]  Function newstate: [0]
+[5]  Function results: [Missing,4]
+[5]  writeResults: Missing
+[5]  writeResults: 4
+[5]  Function AutoFiring: Function { functionState = [5,999999999] }
+[5]  writeResults: 5
+[6]  Function Firing: Function { functionState = [0] }
+[6]  Function state: [0]
+[6]  Function newstate: [1]
+[6]  Function results: [5,Missing]
+[6]  writeResults: 5
+[6]  writeResults: Missing
+[6]  Function AutoFiring: Function { functionState = [6,999999999] }
+[6]  writeResults: 6
+[6]  Take 5 "impipe1" >>> "output" --- Amending: [1,3,5]
+[7]  Function Firing: Function { functionState = [1] }
+[7]  Function state: [1]
+[7]  Function newstate: [0]
+[7]  Function results: [Missing,6]
+[7]  writeResults: Missing
+[7]  writeResults: 6
+[7]  Function AutoFiring: Function { functionState = [7,999999999] }
+[7]  writeResults: 7
+[8]  Function Firing: Function { functionState = [0] }
+[8]  Function state: [0]
+[8]  Function newstate: [1]
+[8]  Function results: [7,Missing]
+[8]  writeResults: 7
+[8]  writeResults: Missing
+[8]  Function AutoFiring: Function { functionState = [8,999999999] }
+[8]  writeResults: 8
+[8]  Take 5 "impipe1" >>> "output" --- Amending: [1,3,5,7]
+Ticks: 8
+
+====== Pipes =======
+Pipe[output] []
+Pipe[impipe0] [8]
+Pipe[impipe1] []
+
+====== Acts ======
+Operator[1] Function { functionState = [1] } ....  {impipe1} {wf3ph3seval} <==  {impipe0}
+Operator[2] Function { functionState = [9,999999999] } ....  {impipe0} <== 
+Operator[3] Take {takeN = 5, takeData = [1,3,5,7]} ....  {output} <==  {impipe1}
+Stepping...
+..."" ticks
+Data for pipe Counter:
+
+State of the entire workflow:
+====== Debug =======
+[1]  Function AutoFiring: Function { functionState = [1,999999999] }
+[1]  writeResults: 1
+[2]  Function Firing: Function { functionState = [] }
+[2]  Function state: []
+[2]  Function newstate: [1]
+[2]  Function results: [1,Missing]
+[2]  writeResults: 1
+[2]  writeResults: Missing
+[2]  Function AutoFiring: Function { functionState = [2,999999999] }
+[2]  writeResults: 2
+[2]  Take 5 "impipe1" >>> "output" --- Amending: [1]
+[3]  Function Firing: Function { functionState = [1] }
+[3]  Function state: [1]
+[3]  Function newstate: [0]
+[3]  Function results: [Missing,2]
+[3]  writeResults: Missing
+[3]  writeResults: 2
+[3]  Function AutoFiring: Function { functionState = [3,999999999] }
+[3]  writeResults: 3
+[4]  Function Firing: Function { functionState = [0] }
+[4]  Function state: [0]
+[4]  Function newstate: [1]
+[4]  Function results: [3,Missing]
+[4]  writeResults: 3
+[4]  writeResults: Missing
+[4]  Function AutoFiring: Function { functionState = [4,999999999] }
+[4]  writeResults: 4
+[4]  Take 5 "impipe1" >>> "output" --- Amending: [1,3]
+[5]  Function Firing: Function { functionState = [1] }
+[5]  Function state: [1]
+[5]  Function newstate: [0]
+[5]  Function results: [Missing,4]
+[5]  writeResults: Missing
+[5]  writeResults: 4
+[5]  Function AutoFiring: Function { functionState = [5,999999999] }
+[5]  writeResults: 5
+[6]  Function Firing: Function { functionState = [0] }
+[6]  Function state: [0]
+[6]  Function newstate: [1]
+[6]  Function results: [5,Missing]
+[6]  writeResults: 5
+[6]  writeResults: Missing
+[6]  Function AutoFiring: Function { functionState = [6,999999999] }
+[6]  writeResults: 6
+[6]  Take 5 "impipe1" >>> "output" --- Amending: [1,3,5]
+[7]  Function Firing: Function { functionState = [1] }
+[7]  Function state: [1]
+[7]  Function newstate: [0]
+[7]  Function results: [Missing,6]
+[7]  writeResults: Missing
+[7]  writeResults: 6
+[7]  Function AutoFiring: Function { functionState = [7,999999999] }
+[7]  writeResults: 7
+[8]  Function Firing: Function { functionState = [0] }
+[8]  Function state: [0]
+[8]  Function newstate: [1]
+[8]  Function results: [7,Missing]
+[8]  writeResults: 7
+[8]  writeResults: Missing
+[8]  Function AutoFiring: Function { functionState = [8,999999999] }
+[8]  writeResults: 8
+[8]  Take 5 "impipe1" >>> "output" --- Amending: [1,3,5,7]
+[9]  Function Firing: Function { functionState = [1] }
+[9]  Function state: [1]
+[9]  Function newstate: [0]
+[9]  Function results: [Missing,8]
+[9]  writeResults: Missing
+[9]  writeResults: 8
+[9]  Function AutoFiring: Function { functionState = [9,999999999] }
+[9]  writeResults: 9
+Ticks: 9
+
+====== Pipes =======
+Pipe[output] []
+Pipe[impipe0] [9]
+Pipe[impipe1] []
+
+====== Acts ======
+Operator[1] Function { functionState = [0] } ....  {impipe1} {wf3ph3seval} <==  {impipe0}
+Operator[2] Function { functionState = [10,999999999] } ....  {impipe0} <== 
+Operator[3] Take {takeN = 5, takeData = [1,3,5,7]} ....  {output} <==  {impipe1}
+Stepping...
+..."" ticks
+Data for pipe Counter:
+
+State of the entire workflow:
+====== Debug =======
+[1]  Function AutoFiring: Function { functionState = [1,999999999] }
+[1]  writeResults: 1
+[2]  Function Firing: Function { functionState = [] }
+[2]  Function state: []
+[2]  Function newstate: [1]
+[2]  Function results: [1,Missing]
+[2]  writeResults: 1
+[2]  writeResults: Missing
+[2]  Function AutoFiring: Function { functionState = [2,999999999] }
+[2]  writeResults: 2
+[2]  Take 5 "impipe1" >>> "output" --- Amending: [1]
+[3]  Function Firing: Function { functionState = [1] }
+[3]  Function state: [1]
+[3]  Function newstate: [0]
+[3]  Function results: [Missing,2]
+[3]  writeResults: Missing
+[3]  writeResults: 2
+[3]  Function AutoFiring: Function { functionState = [3,999999999] }
+[3]  writeResults: 3
+[4]  Function Firing: Function { functionState = [0] }
+[4]  Function state: [0]
+[4]  Function newstate: [1]
+[4]  Function results: [3,Missing]
+[4]  writeResults: 3
+[4]  writeResults: Missing
+[4]  Function AutoFiring: Function { functionState = [4,999999999] }
+[4]  writeResults: 4
+[4]  Take 5 "impipe1" >>> "output" --- Amending: [1,3]
+[5]  Function Firing: Function { functionState = [1] }
+[5]  Function state: [1]
+[5]  Function newstate: [0]
+[5]  Function results: [Missing,4]
+[5]  writeResults: Missing
+[5]  writeResults: 4
+[5]  Function AutoFiring: Function { functionState = [5,999999999] }
+[5]  writeResults: 5
+[6]  Function Firing: Function { functionState = [0] }
+[6]  Function state: [0]
+[6]  Function newstate: [1]
+[6]  Function results: [5,Missing]
+[6]  writeResults: 5
+[6]  writeResults: Missing
+[6]  Function AutoFiring: Function { functionState = [6,999999999] }
+[6]  writeResults: 6
+[6]  Take 5 "impipe1" >>> "output" --- Amending: [1,3,5]
+[7]  Function Firing: Function { functionState = [1] }
+[7]  Function state: [1]
+[7]  Function newstate: [0]
+[7]  Function results: [Missing,6]
+[7]  writeResults: Missing
+[7]  writeResults: 6
+[7]  Function AutoFiring: Function { functionState = [7,999999999] }
+[7]  writeResults: 7
+[8]  Function Firing: Function { functionState = [0] }
+[8]  Function state: [0]
+[8]  Function newstate: [1]
+[8]  Function results: [7,Missing]
+[8]  writeResults: 7
+[8]  writeResults: Missing
+[8]  Function AutoFiring: Function { functionState = [8,999999999] }
+[8]  writeResults: 8
+[8]  Take 5 "impipe1" >>> "output" --- Amending: [1,3,5,7]
+[9]  Function Firing: Function { functionState = [1] }
+[9]  Function state: [1]
+[9]  Function newstate: [0]
+[9]  Function results: [Missing,8]
+[9]  writeResults: Missing
+[9]  writeResults: 8
+[9]  Function AutoFiring: Function { functionState = [9,999999999] }
+[9]  writeResults: 9
+[10]  Function Firing: Function { functionState = [0] }
+[10]  Function state: [0]
+[10]  Function newstate: [1]
+[10]  Function results: [9,Missing]
+[10]  writeResults: 9
+[10]  writeResults: Missing
+[10]  Function AutoFiring: Function { functionState = [10,999999999] }
+[10]  writeResults: 10
+[10]  Take 5 "impipe1" >>> "output" --- Flushing: [1,3,5,7,9]
+Ticks: 10
+
+====== Pipes =======
+Pipe[output] [[1,3,5,7,9]]
+Pipe[impipe0] [10]
+Pipe[impipe1] []
+
+====== Acts ======
+Operator[1] Function { functionState = [1] } ....  {impipe1} {wf3ph3seval} <==  {impipe0}
+Operator[2] Function { functionState = [11,999999999] } ....  {impipe0} <== 
+Operator[3] Take {takeN = 5, takeData = []} ....  {output} <==  {impipe1}
+creating checkpoint: 
+time: Wed Sep  9 14:36:26 PDT 2009
+shutting down system: 
+time: Wed Sep  9 14:36:26 PDT 2009
+exiting: 
+time: Wed Sep  9 14:36:26 PDT 2009

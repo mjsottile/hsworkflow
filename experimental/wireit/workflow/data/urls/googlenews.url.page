@@ -1,0 +1,1188 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><noscript><meta http-equiv="refresh" content="900"></noscript><title>Google News</title><link href="http://www.gstatic.com/news/img/favicon.ico" rel="icon" type="image/x-icon"><link rel="alternate" type="application/rss+xml" href="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;topic=h&amp;num=3&amp;output=rss"><script type="text/javascript">function Timer(b){this.t={};this.tick=function(c,d,a){a=a?a:(new Date).getTime();this.t[c]=[a,d]};this.tick("start",null,b)}var loadTimer=new Timer;window.jstiming={Timer:Timer,load:loadTimer};try{window.jstiming.pt=window.external.pageT}catch(e){};
+</script><script type="text/javascript">var a=window,b="substring";if(a.location.hash=="#changed"){var c=a.location.href;c=c.substr(0,c.indexOf("#"));var d=[];if(c.indexOf("?")>-1)for(var e=c[b](c.indexOf("?")+1).split("&"),f=0;f<e.length;f++)e[f][b](0,3)!="zx="&&e[f][b](0,3)!="pz="&&e[f][b](0,5)!="shid="&&d.push(e[f]);d.push("pz=1");d.push("zx="+Math.random());a.location=a.location.pathname+"?"+d.join("&")};
+</script><script type="text/javascript">
+    NEWS_logErrors = true
+  </script>
+<script type="text/javascript"></script>
+<style type="text/css">.r{clear:both;padding:0}.bottom-section .blended-section2 .r,.left .r{clear:left}.ff-hack{overflow:auto}.maincontents .centered{text-align:left;width:expression(document.body.clientWidth < 765 ? "765px" : "auto");min-width:765px}.story{zoom:1}.small-story .title a{padding-right:5px}.small-story .moreLinks .more-coverage-text{float:none}.source{white-space:nowrap;color:#666}body{padding:0;margin:0;background-color:#fff}#main-wrapper{_width:100%}#gbar{margin-top:1px}table{font-size:100%;line-height:1.3em}body{font-family:arial;font-size:.81em;_font-size:80%;line-height:1.3em}html>body{font-size:13px}td{vertical-align:top}h1{font-size:1.8em;line-height:1.2em;padding:0;margin:0}h2{font-size:1.23em;line-height:1.2em;padding:0;margin:0}h3{font-size:1.1em;line-height:1.3em;padding:0;margin:0}form{padding:0;margin:0}input{margin:0}.lt{float:left}.rt{float:right}.f{width:100%}.sel{font-weight:bold}.secondary-link a,.secondary-link a:visited{color:#77c}.spacer{border:none;width:1px;height:1px}.underline{text-decoration:underline}.headline-story .sub-title{font-weight:bold}.thumbnail img,.picture-story img{border:1px solid #00c}#main-table{width:100%}.main{z-index:100}.bottom-section{margin-top:8px}.bottom-section .blended-section2 .column1{margin-right:288px}.bottom-section .blended-section2 .column2{width:288px;float:right;zoom:1}.blended-section2 .column1 .wrapper{padding-right:12px}.bottom-section .blended-section2 .column2{padding-top:12px}.bottom-section{clear:both}.section{padding-bottom:8px}.bottom-section .section{padding-bottom:22px;zoom:1}.section .contents{padding-top:4px}.thumbnail{text-align:center}.headline-story .additional-article a{padding-right:5px}.headline-story .additional-video .aa-inner a{padding-right:0}.headline-story .aa-inner{width:100%}.author-link{font-weight:normal}.author-link a{color:#77c;white-space:nowrap}.headline-story{padding:8px 0 8px 4px}.small-story{padding:4px}.small-section .basic-title{margin-bottom:4px}.nav .basic-title{font-size:85%;padding:2px 0 2px 13px}.basic-title .small{font-size:83%;font-weight:normal}.basic-title .small .time,.picture-story .title{font-weight:bold}.basic-title .text,.basic-title .edit-arrow{z-index:3}.sub-title{padding-bottom:2px}.headline-story .source{white-space:normal}.headline-story .thumbnail .source{font-size:.8em;line-height:1.3em;overflow:hidden;padding:0}.headline-story .thumbnail{padding-bottom:4px}.sub-title .source{padding-left:0}.short-snippet-story .sub-title{display:inline}.bottom-section .section-left{float:left;width:60%;padding-right:10px}.source-query{color:#6f6f6f}.related-story{float:left;padding-right:10px;white-space:nowrap}.small-story .related-story{float:none}.related-story a,.related-story a:visited{color:green}.date-unit{display:none}.offscreen{left:-1000em;position:absolute}body a:visited{color:#551a8b}.new{color:red;height:0}.nav-one-col-hp{position:absolute;left:0}.nav-one-col-hp .edition-picker select{width:95%}#timestamp-wrapper{width:40%;text-align:right;white-space:nowrap;padding-left:6px}.invisible{visibility:hidden}.hidden{display:none}.vspace{height:1em}.modal-dialog-bg{background-color:#999999;left:0;position:absolute;top:0}.modal-dialog{background-color:#6b90da;border:1px solid #3a5774;color:#000;padding:8px;position:absolute;width:475px;overflow:auto}.modal-dialog-title{background-color:#ebeff9;color:#000;cursor:pointer;font-size:120%;font-weight:bold;padding:8px 15px 8px 18px;position:relative;vertical-align:middle}.modal-dialog-title-close{background-position:-160px top;background-repeat:no-repeat;width:16px;height:16px;cursor:default;position:absolute;right:10px;top:8px}.modal-dialog-content{background-color:#fff;padding:12px 18px 50px}.modal-dialog-buttons{background-color:#fff;padding:12px 18px}.ac-renderer{position:absolute;border:1px solid #666;background-color:#fff;width:208px}.searchField{width:208px}.ac-renderer div{position:relative;background-color:#fff;margin:3px 0;padding:1px 4px;font:normal 12px verdana;cursor:pointer;font-weight:bold}.ac-renderer div b{font-weight:normal}.ac-renderer div.active{background-color:#d5e2ff}.footer{text-align:center;padding:11px 0;margin-bottom:1px;line-height:normal}.footer .personalized-edition-links a:visited{color:#00c}.footer .personalized-edition-links{margin-bottom:1em}.footer{padding-left:8px}.footer-disclaimer{padding:16px;font-size:10px}.footer .bottom-search{background-color:#ebeff9;padding:1.4em 0;border-top:1px solid #6b90da;clear:both}.footer .bottom{border-top:1px solid #6b90da}.footer .search-form{padding:0;float:none}.footer .links,.footer .bottom{padding:1.2em 0 0}.footer .copyright{color:#666}.footer .header{font-size:110%;padding:4px 16px}.footer td{padding:0 4px}#gbar{font-family:arial}body #gbar{padding-left:10px}.maincontents #gbar,.maincontents #guser{padding-top:0!important}.maincontents #gbh{margin-top:-2px}.gaiaNav{float:right;padding:4px 8px 0 0;font-size:13px;white-space:nowrap}.gaiaNav .email{font-weight:bold}.search{clear:both;text-align:left}.search img{border:none}.search .searchField{margin:10px 1px 0 5px}.edition-picker select,.edition-select{font-size:13px;height:25px;overflow:hidden}.icon{background-repeat:no-repeat}.more-zippy-toggle .icon{width:10px;height:16px;background-position:-60px 0;float:left;margin-right:3px;_margin:1px 0 0 0}.additional-video .more-zippy-toggle .icon{background-position:-31px -53px;width:12px}.additional-video .goog-zippy-expanded .icon{background-position:-46px -53px;width:12px}.quote-story .speaker-nub,.quote-story .info-nub{background-position:-1px -37px;height:15px;width:23px;position:relative;margin-bottom:0}.feed-icon{width:15px;height:15px;background-position:-95px 0;margin:0 2px 0 0;border:0 none;vertical-align:text-bottom}.email-icon{background-position:-61px -53px;margin:0 2px 0 0;border:0 none;vertical-align:text-bottom}.comment-icon{cursor:pointer;width:16px;height:16px;background-position:-104px -37px;float:left;margin-right:3px;overflow:hidden}.close-icon{cursor:pointer;width:11px;height:11px;background-position:-90px -37px;float:right;margin-top:3px;overflow:hidden}.close-blue-big-icon{cursor:pointer;width:16px;height:16px;background-position:-160px 0;float:right;overflow:hidden}.permalink-icon{cursor:pointer;width:16px;height:10px;background-position:-141px -2px;overflow:hidden}.finance-icon{width:14px;height:12px;background-position:-31px -16px;float:left;margin-top:3px;margin-right:2px}.video-icon{padding-right:3px;padding-top:4px;display:block;float:left;position:relative;border:0}.youtube-icon{padding-left:3px;margin-bottom:-3px;border:0}.quote-story .speaker-nub{right:20px;float:right}.quote-story{margin-left:4px}.left .quote-story .r{clear:both}.basic-title a,.basic-title a:visited{color:#000;text-decoration:none}.basic-title a:hover,#headline-gadgets .basic-title a{text-decoration:underline}.large-section .basic-title{zoom:1}.section-itn .contents{padding:4px}.section-itn .column{float:left}.section-fail{padding:8px}.local-input{color:#666}.l-ko a{text-decoration:none}.l-ko a:hover{text-decoration:underline}.zippy-snippet,.snippet{line-height:1.1em!important}.large-section{width:50%;_width:49.8%}.large-section .blended-section2 .column1{margin-right:0}.gadget .edit-arrow{display:none}.ls-left,#twocol-left{float:left}.ls-right,#twocol-right{float:right}.ls-left .ls-wrapper{padding-right:8px}.ls-right .ls-wrapper{padding-left:8px}#twocol-left,#twocol-right{width:50%;_width:49.8%}#twocol-right #local-promo,#twocol-left #recommended-promo,#twocol-left .large-section,#twocol-right .large-section{width:100%}.min-icon{display:none}.headline-story .giant-thumbnail{padding-left:7px}.large-section .column1 .wrapper{padding-right:0}.small-story .title a{font-weight:bold}.small-story .moreLinks{display:inline}.thumbnail .source{width:80px}.gadget{padding-bottom:8px!important}.headlines-gadget-col{width:42%}.main .column1 .wrapper{padding-right:16px!important}#rpromo_h,#lpromo_h{padding-bottom:3px;_padding-bottom:5px}.section-title .new{font-size:.7em;_font-size:.8em;font-weight:normal;vertical-align:top}.no-nearby-local{padding:10px 4px;height:1.8em;_height:3.8em}#pagination{padding:20px 0 0;font-size:125%}#pagination div{background-repeat:no-repeat;background-position:0 50%;background-attachment:scroll;height:26px;overflow:hidden}#pagination .next,#pagination .prev{font-weight:bold;white-space:nowrap}#pagination a,#pagination a:visited{color:#000}#pagination .current{color:#a90a08;font-weight:bold}#pagination #start{background-position:-26px 0;width:18px}#pagination #start-prev{width:44px}#pagination #end{background-position:-76px 0;width:46px}#pagination #end-next{background-position:-76px 0;margin-right:34px;width:66px}#pagination .o{background-position:-60px 0;width:16px}#pagination #current{background-position:-44px 0;width:16px}#pagination .num{margin:0 1px;font-size:13px}.small-story .more-coverage-text{font-weight:normal}.search{padding-top:0}#page-header img{margin:4px 0 0}#page-header .search-form{white-space:nowrap}#page-header .searchField{margin:0 4px 0 0;_margin:2px 4px 0 0}#page-header .search-form input{float:left}#page-header{padding:5px 0 0;white-space:nowrap}.search-in-header{padding:12px 0 0 2px}#page-header{position:relative;_height:1px}.search-form input{margin-right:0}.search-box-links{float:left;font-size:80%;margin-left:6px;line-height:1.25em;_float:none}.search .search-label{color:#ac0021;font-weight:bold;line-height:1.2em;padding-bottom:15px}.basic-title{background-color:#ebeff9;padding:2px 4px;zoom:1}.bt-border{border-top:1px solid #6b90da}.browse-sidebar{text-align:center}.browse-sidebar .link{margin-bottom:1em}#main-wrapper{padding-right:8px}.ls-left .ls-wrapper{padding-left:8px}.small-story .source{float:left}#headline-wrapper{padding-left:8px}#headline-wrapper #top-stories{padding-bottom:0}.mail-icon{padding:0!important}.large-section .delete-section{display:none!important}.large-section .section-title a,.large-section .section-title a:visited{text-decoration:underline}.thumbnail .source{cursor:pointer}.large-section .bar{height:1px;width:100%;margin-top:4px;overflow:hidden}.headline-story .thumbnail{padding-top:4px}.headline-story .thumbnail .source{width:80px}.headline-story .giant-thumbnail .source{width:120px;margin:auto}.versions{padding-left:4px;font-weight:bold}.browse-sidebar .top-highlight{display:none}.rank-sorting-nfe{_padding-bottom:16px;padding-bottom:0}.sidebar .back-to-frontpage{padding:7px 0 11px 4px;font-weight:bold}.nav .sidebar{padding:0 0 40px;line-height:1.3em;margin-top:0;border-color:#c9d7f1}.nav .sidebar .new{line-height:1.5em}.sidebar .filter-label,.sidebar .clustersearch-label{margin:0 0 5px;padding:2px 3px;background-color:#ebeff9}.clustersearch-box .clustersearch-label{white-space:nowrap}.sidebar .links{padding-left:8px}.more-link a:visited,.fewer-link a:visited,.back-to-frontpage a:visited,.js-link:visited{color:#00c!important}a,.sub-header .lt a,.sub-header .lt a:visited,.rank-sorting-nfe a:visited,.thumbnail .source,#pagination .next a,#pagination .prev a,#pagination .next a:visited,#pagination .prev a:visited,#advanced-search .basic-title a,#personalize a:visited,.footer .links a,.notify a:visited{color:#00c}.more-coverage-text,a.more-coverage-text:visited,.more-zippy-toggle a,.even-more a,.even-more a:visited,.additional-source .source a,.source-link a,.quote-story .info a,.source-link a:visited{color:#008000}.no-results{font-size:110%;padding:16px}#page-header .query-notification{color:#6f6f6f;margin:0;white-space:normal}.no-local{background-color:#eff8ff;border:1px solid #e0e6f1;margin:16px}.no-local .heading{padding:8px}.no-local .suggestions{border-top:1px solid #e0e6f1;padding:8px 8px 16px}.no-local li{padding-left:16px}.no-local form{display:inline}.stock-tckrs{white-space:nowrap;float:left;padding-right:10px}.stock-tckrs a{color:#77c}.stock-tckr{background-repeat:no-repeat;background-position:0 2px;padding-left:17px;zoom:1}.thumbnail-true .title,.thumbnail-true .sub-title,.thumbnail-true .sources,.thumbnail-true .additional-article{margin-right:0}.thumbnail-true .snippet{margin-right:80px}.thumbnail{float:right;padding-left:4px}.serp .thumbnail-false .body,.slp .thumbnail-false .body{margin-right:90px}.more-coverage-text{font-weight:bold;float:left;padding-right:10px;white-space:nowrap}.headline-story .video-curtain,.headline-story .additional-video .video-inner{border-top:2px solid white;border-right:2px solid white;background-color:black}.additional-video .video-box{height:1;width:1px;display:none}.video-box,.video-embed-object{height:100%;width:100%}.small .video-box,.small .video-embed-object{width:261px}.email-link,a.email-link:visited{color:#77c;white-space:nowrap}#notify-box{width:90%;position:absolute;bottom:4px;text-align:center}#notify-box .notify{background-color:#ff8;white-space:nowrap;padding:3px 5px;font-weight:bold}.story .thumbnail .source a,.story .thumbnail .source a:visited{color:#666;text-decoration:none}.no-shareablesection{margin:16px 0;font-size:16px;text-align:left}#local-promo .bt-border{border-color:#0086b3;background-color:#ebeff9}#local-promo,#recommended-promo,#custom-section-promo{padding-top:4px;_padding:4px 0 8px;padding-bottom:8px}#local-promo .contents,#recommended-promo .contents,#custom-section-promo .contents{padding:10px 4px 10px;height:2em;_height:4em;_overflow:hidden}.custom-promo-example{color:#666;font-size:86%}.custom-promo-td{vertical-align:middle}.custom-promo-input{white-space:nowrap}.browse-directory-link{vertical-align:top;padding:2px 0 0 4px}#local-promo form,#custom-section-promo form{display:inline}#twocol-section .promo-section-wrapper{width:49.9%}#twocol-section .r{clear:both}#twocol-left .promo-section-wrapper,#twocol-right .promo-section-wrapper,.promo-section-wrapper #recommended-promo,.promo-section-wrapper #local-promo,.promo-section-wrapper #custom-section-promo,.promo-section-wrapper .section{width:100%}.no-more-sections{font-weight:normal}.large-section .edit-standard-inner,.large-section .edit-custom-inner,.large-section .edit-local-inner,.large-section .edit-recommended-inner,.large-section .edit-shareable-inner{padding:2px 16px 16px}.large-section .edit-standard-inner,.large-section .edit-custom-inner,.large-section .edit-local-inner,.large-section .edit-recommended-inner,.large-section .edit-shareable-inner{border-bottom:1px solid #e0e6f1}.edit-panel .item{padding:4px 0 4px 12px}.edit-panel{margin-top:-2px;zoom:1}.t-IN_THE_NEWS,.t-HOT_QUERY,.t-BREAKING_NEWS{float:left;border-top:1px solid #e0e6f1;padding-top:5px}.t-IN_THE_NEWS .basic-title,.t-BREAKING_NEWS_BOX .basic-title{float:left}.t-BREAKING_NEWS_BOX{padding:0!important}.t-BREAKING_NEWS_BOX .contents{padding-bottom:0}.large-section .delete-section{display:none!important}.section-itn .column{padding-right:12px}.itn-promos{margin-top:8px;padding-top:8px;border-top:1px solid #e0e6f1}.more-link,.fewer-link{font-weight:bold;padding:4px 8px;margin-right:8px;float:left;background-color:#ebeff9}.notifybox-title{font-weight:bold;float:left;width:70%}.notifybox-content{float:left;padding:8px 0;clear:both;width:95%}.notifybox-options{float:right;padding-right:1px;width:25%;text-align:right}.hp #headline-wrapper .basic-title{padding-top:0;padding-bottom:0}#headline-wrapper .column2{padding-top:4px}.related-editions img{border:none}.read-news-in{_margin-left:4px;color:#6f6f6f}.related-editions a,.related-editions a:visited{color:#00c;text-decoration:underline}.hp #headline-gadgets .bt-border{border-top:none}#headline-gadgets .t-DEVELOPING h2,#headline-gadgets .t-BREAKING_NEWS_BOX h2{display:none}.large-section .edit-link,.large-section .edit-link-close{font-size:.75em;font-weight:normal;line-height:1.4em;padding-right:6px;text-decoration:underline!important}#edition-picker-wrapper{white-space:nowrap;width:60%}.edition-picker input{margin-left:4px}#hp-sub-header{width:100%}#edition-picker-form{display:inline}.ie-hack{width:100px;height:1px;overflow:hidden}.nav .selected a{color:#fff!important}.nav{width:9.1em}.nav .item{line-height:1.45em}.nub-selector{font-size:120%}.nav .item .title{margin:0 4px}.nav .item .clickable{cursor:pointer;white-space:nowrap}.nav .sections{text-align:left;width:100%}.nav .nub{font-size:80%}.nav .sections a{color:#000;cursor:pointer}.browse_sidebar{padding-left:12px}.browse_sidebar .links{padding-right:5px;width:100%}.nav .sections a:visited{color:#000}.nav .item a{font-weight:normal;text-decoration:none}.nav .item a:hover{text-decoration:underline}.nav .selected .nub{background-color:#fff}.nav .selected a{font-weight:bold}.nav .sections .selected a:visited{font-weight:bold;color:#fff}.nav .nub{margin:2px 4px 2px 2px}.nav .clickable{vertical-align:middle}.nav .nav-items{width:100%}.nav .nub-item{padding:0;vertical-align:middle;border-bottom:1px solid #e0e6f1}.nav #t_FRONTPAGE .nub-item{border-top:1px solid #e0e6f1}.nav .nub{width:5px;height:1.7em;float:left}#headline-wrapper{border-left:1px solid #e0e6f1}.edition-picker{width:100%}#ned{text-align:left;margin-bottom:7px;width:100%}#recommended-promo .bt-border{border-color:#fb416d;background-color:#f9e9e9}.b-b,.sp-b .basic-title{background-color:#eaf7ea}.c-b{background-color:#007300}.sp-b .basic-title{border-color:#007300}.b-ir,.sp-ir .basic-title{background-color:#effff8}.c-ir{background-color:#00a65e}.sp-ir .basic-title{border-color:#00a65e}.b-1,.sp-1 .basic-title{background-color:#ebeff9}.c-1{background-color:#0086b3}.sp-1 .basic-title{border-color:#0086b3}.b-t,.sp-t .basic-title,.b-2,.sp-2 .basic-title{background-color:#ffeeee}.c-t,.c-2{background-color:#c00}.sp-t .basic-title,.sp-2 .basic-title{border-color:#c00}.b-w,.sp-w .basic-title,.b-3,.sp-3 .basic-title,.b-ds,.sp-ds .basic-title{background-color:#fff7db}.c-w,.c-3,.c-ds{background-color:#ffc300}.sp-w .basic-title,.sp-3 .basic-title,.sp-ds .basic-title{border-color:#ffc300}.b-n,.sp-n .basic-title,.b-4,.sp-4 .basic-title,.b-p,.sp-p .basic-title,.b-ed,.sp-ed .basic-title,.b-ietn,.sp-ietn .basic-title,.b-iekl,.sp-iekl .basic-title,.b-awkl,.sp-awkl .basic-title,.b-ieap,.sp-ieap .basic-title{background-color:#eef}.c-n,.c-ms,.c-4,.c-p,.c-ed,.c-ietn,.c-iekl,.c-awkl,.c-ieap{background-color:#3c3ca4}.sp-n .basic-title,.sp-4 .basic-title,.sp-p .basic-title,.sp-ed .basic-title,.sp-ietn .basic-title,.sp-iekl .basic-title,.sp-awkl .basic-title,.sp-ieap .basic-title{border-color:#3c3ca4}.b-c-pe,.b-pe,.sp-pe .basic-title,.b-5,.sp-5 .basic-title{background-color:#f9e9e9}.c-pe,.c-5{background-color:#fb416d}.sp-pe .basic-title,.sp-5 .basic-title{border-color:#fb416d}.b-af,.sp-af .basic-title,.b-6,.sp-6 .basic-title,.b-se,.sp-se .basic-title{background-color:#e9efee}.c-af,.c-6,.c-se{background-color:#9ac1ba}.sp-af .basic-title,.sp-6 .basic-title,.sp-se .basic-title{border-color:#9ac1ba}.b-y,.sp-y .basic-title,.b-7,.sp-7 .basic-title{background-color:#fff1e3}.c-y,.c-7{background-color:#f93}.sp-y .basic-title,.sp-7 .basic-title{border-color:#f93}.b-l,.sp-l .basic-title,.b-8,.sp-8 .basic-title,.b-c,.sp-c .basic-title,.b-a,.sp-a .basic-title{background-color:#e9f9ff}.c-l,.c-8,.c-c,.c-a{background-color:#0086b3}.sp-l .basic-title,.sp-8 .basic-title,.sp-c .basic-title,.sp-a .basic-title{border-color:#0086b3}.b-el,.sp-el .basic-title,.b-9,.sp-9 .basic-title,.b-cel,.sp-cel .basic-title,.b-erc,.sp-erc .basic-title,.b-i,.sp-i .basic-title{background-color:#efefef}.c-el,.c-9,.c-cel,.c-erc,.c-i{background-color:#696969}.sp-el .basic-title,.sp-9 .basic-title,.sp-cel .basic-title,.sp-erc .basic-title,.sp-i .basic-title{border-color:#696969}.b-m,.sp-m .basic-title,.b-10,.sp-10 .basic-title,.b-es,.sp-es .basic-title{background-color:#e9f7f7}.c-m,.c-10,.c-es{background-color:#438988}.sp-m .basic-title,.sp-10 .basic-title,.sp-es .basic-title{border-color:#438988}.b-s,.sp-s .basic-title,.b-11,.sp-11 .basic-title{background-color:#fff1ec}.c-s,.c-11{background-color:#f60}.sp-s .basic-title,.sp-11 .basic-title{border-color:#f60}.b-po,.sp-po .basic-title{background-color:#fcebf0}.c-po{background-color:#bc1748}.sp-po .basic-title{border-color:#bc1748}.b-e,.sp-e .basic-title,.b-12,.sp-12 .basic-title{background-color:#f5eaff}.c-e,.c-12{background-color:#8a60b3}.sp-e .basic-title,.sp-12 .basic-title{border-color:#8a60b3}.b-tn,.sp-tn .basic-title,.b-kl,.sp-kl .basic-title,.b-ap,.sp-ap .basic-title{background-color:#eef}.c-tn,.c-kl,.c-ap{background-color:#3c3ca4}.sp-tn .basic-title,.sp-kl .basic-title,.sp-ap .basic-title{border-color:#3c3ca4}.b-sn,.sp-sn .basic-title{background-color:#e9efee}.c-sn{background-color:#9ac1ba}.sp-sn .basic-title{border-color:#9ac1ba}.b-0,.sp-0 .basic-title,.b-h,.sp-h .basic-title{background-color:#ebeff9}.c-0,.c-h{background-color:#6b90da}.sp-0 .basic-title{border-color:#6b90da}#personalize{text-align:right;float:right;position:relative}#personalize-open .top-stories{background-color:#ebeff9;border-top:3px solid #6b90da}#personalize-open{position:absolute;width:300px;right:0;white-space:normal}#personalize-defer{position:relative}#personalize-open{border:1px solid #6b90da;padding:8px 3px}#personalize-open .save{margin-top:15px}#personalize-open{background-color:#fff;text-align:left;zoom:1}.edit-this-page a{text-decoration:none}#personalize-open .column .ph{border-bottom:none;height:1px;cursor:default;overflow:hidden}#personalize-open .column{border-top:1px solid #e0e6f1;margin-right:8px}#personalize-open .top-stories{padding:8px;text-align:center;color:#666;margin:4px}#personalize-open .save{text-align:center}.mod .bar{height:3px;width:100%;overflow:hidden}.personalize-center{text-align:center;padding:4px 0;font-size:85%}#personalize-open .top-stories{font-size:110%}#personalize-open .inner{text-align:center;font-weight:bold;float:left}#personalize-open .edit-standard-inner,#personalize-open .edit-custom-inner,#personalize-open .edit-local-inner,#personalize-open .edit-recommended-inner,#personalize-open .edit-shareable-inner{clear:both;margin:30px;_margin:15px 30px 30px}#personalize-open .edit-panel{clear:both}.drag-mod,#personalize-open .mod{margin:4px 0;line-height:1.5em;height:1.7em;_height:2em;width:100%;float:left;cursor:move;overflow:hidden}.drag-mod .bar,.drag-mod .text{visibility:visible!important}#personalize-open .mod,.drag-mod{border:1px solid #fff}.drag-mod .text,.mod .text{padding-left:2px;background:url(http://news.google.com/images/grip.gif) no-repeat scroll right -1px;text-decoration:underline;color:#00c;font-weight:bold;font-size:90%;text-align:left}#personalize-open .column .ph{border:none!important}#personalize-advanced{border:1px solid #e0e6f1;border-top:none;margin-bottom:8px;padding:0 4px 4px 4px}#personalize-open .small{font-size:80%}#personalize-open .detail{font-weight:normal}#base-edit-panels,.edit-panel .r,.large-section .r{height:1px;overflow:hidden}#personalize-open table{width:100%}#personalize-open .add-sect-link{font-size:85%;width:50%}body #personalize-open .column{width:50%;padding-right:2px;border:none;_margin:0}#headline-gadgets .basic-title{background-color:#fff;font-size:.9em}</style>
+<style type="text/css">#gbar{padding-left:1px;height:22px}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}#guser{padding-bottom:7px !important;text-align:right}#gbar,#guser{font-size:13px;padding-right:1px;padding-top:2px !important}@media all{.gb1,.gb3{height:22px;margin-right:.5em;vertical-align:top}#gbar{float:left}}a.gb1,a.gb3{color:#00c !important}.gb3{text-decoration:none}</style><style type="text/css">
+        
+        .icon {
+          background-image: url("http://www.gstatic.com/news/img/4112288883-news-icons.gif");
+        }
+        
+        
+        
+        
+        
+          
+          .modal-dialog-title-close {
+            background-image: url("http://www.gstatic.com/news/img/4112288883-news-icons.gif");
+          }
+        
+      </style></head>
+<body dir="ltr" class="hp" onbeforeunload="window[&#39;NEWS_beforeOnloadFired&#39;] = true;" onload="try { var t = window[&#39;jstiming&#39;][&#39;load&#39;]; t.tick(&quot;ol&quot;); t[&quot;name&quot;] = &quot;hp&quot;; grabJsBundle(&quot;http://www.gstatic.com/news/js/3894492630-en-twocoljslib.js&quot;); } catch (e) { NEWS_logError(e, &quot;Error on onload handler&quot;); }">
+
+<noscript><style type="text/css">
+            .yesscript {
+              display: none;
+            }
+          </style></noscript>
+<div id=gbar><nobr><a href="http://www.google.com/webhp?hl=en&tab=nw" class=gb1>Web</a> <a href="http://images.google.com/imghp?hl=en&tab=ni" class=gb1>Images</a> <a href="http://video.google.com/?hl=en&tab=nv" class=gb1>Videos</a> <a href="http://maps.google.com/maps?hl=en&tab=nl" class=gb1>Maps</a> <b class=gb1>News</b> <a href="http://www.google.com/prdhp?hl=en&tab=nf" class=gb1>Shopping</a> <a href="http://mail.google.com/mail/?tab=nm" class=gb1>Gmail</a> <a href="http://www.google.com/intl/en/options/" class=gb3><u>more</u> &raquo;</a></nobr></div><div class=gbh style=left:0></div><div class=gbh style=right:0></div>
+<div class="gaiaNav"><a href="http://www.google.com/accounts/Login?hl=en&amp;skipvpage=true&amp;sendvemail=false&amp;continue=http%3A%2F%2Fnews.google.com%2Fnews%3Fpz%3D1%26ned%3Dus%26hl%3Den%26q">Sign in</a></div>
+<div class="r"></div>
+<div id="main-wrapper"><div class="maincontents sp-null" id="main"><div class="background"><div class="centered"><div class="search"><div id="page-header"><table><tr><td><a href="/news?pz=1&amp;ned=us"><img src="http://www.gstatic.com/news/img/bluelogo/en_us/news.gif" width="170" height="40" alt="Google News"></a></td>
+<td class="search-in-header"><form class="search-form" action="/news/search?pz=1&amp;ned=us&amp;hl=en" method="get"><input type="hidden" name="pz" value="1"> <input type="hidden" name="ned" value="us"> <input type="hidden" name="hl" value="en"><input class="searchField" type="text" size="30" maxlength="2048" name="q" value="" tabindex="1" autocomplete="off" title="Search News"> <input type="submit" tabindex="2" value="Search News"> <input type="submit" name="btnmeta=search=search" tabindex="3" value="Search the Web"> <div class="search-box-links"><a href="/news/advanced_news_search?pz=1&amp;ned=us&amp;hl=en">Advanced news search</a><br><a href="http://www.google.com/preferences?hl=en&amp;prev=http%3A%2F%2Fnews.google.com%2Fnews%3Fpz%3D1%26ned%3Dus%26hl%3Den%26q">Preferences</a></div></form></td></tr></table>
+<div class="r"></div>
+<div id="notify-box" style="visibility: hidden;"><span class="notify"><span id="notify-text"></span>&nbsp;&nbsp;
+<span class="undo-text"><a href="javascript:void(0)" id="notify-undo-link">Undo</a></span>&nbsp;&nbsp;
+</span></div>
+<span class="yesscript"><div id="personalize" class="in-header"><span class="edit-this-page"><a href="javascript:void(0);" id="personalize-link" onclick="return false;"><span class="sel underline">Edit this page</span>
+<small>&#9660;</small></a></span>
+
+<div id="personalize-defer"></div></div></span>
+<div class="r"></div></div><div class="r"></div></div><table id="main-table" cellpadding="0" cellspacing="0"><tr><td class="nav"><div class="browse-sidebar"><div class="wrapper"><span class="edition-picker"><form method="GET" action="/news" name="edition_picker_form" id="edition-picker-form" autocomplete="off"><select onchange="document.edition_picker_form.submit();" id="ned" name="ned" title="Other News Editions">
+
+<option value="es_ar">
+Argentina
+</option> <option value="au">
+Australia
+</option> <option value="nl_be">
+Belgi&euml;
+</option> <option value="fr_be">
+Belgique
+</option> <option value="en_bw">
+Botswana
+</option> <option value="pt-BR_br">
+Brasil
+</option> <option value="ca">
+Canada English
+</option> <option value="fr_ca">
+Canada Fran&ccedil;ais
+</option> <option value="cs_cz">
+&#268;esk&aacute; republika
+</option> <option value="es_cl">
+Chile
+</option> <option value="es_co">
+Colombia
+</option> <option value="es_cu">
+Cuba
+</option> <option value="de">
+Deutschland
+</option> <option value="es">
+Espa&ntilde;a
+</option> <option value="es_us">
+Estados Unidos
+</option> <option value="en_et">
+Ethiopia
+</option> <option value="fr">
+France
+</option> <option value="en_gh">
+Ghana
+</option> <option value="in">
+India
+</option> <option value="en_ie">
+Ireland
+</option> <option value="en_il">
+Israel English
+</option> <option value="it">
+Italia
+</option> <option value="en_ke">
+Kenya
+</option> <option value="hu_hu">
+Magyarorsz&aacute;g
+</option> <option value="en_my">
+Malaysia
+</option> <option value="es_mx">
+M&eacute;xico
+</option> <option value="en_na">
+Namibia
+</option> <option value="nl_nl">
+Nederland
+</option> <option value="nz">
+New Zealand
+</option> <option value="en_ng">
+Nigeria
+</option> <option value="no_no">
+Norge
+</option> <option value="de_at">
+&Ouml;sterreich
+</option> <option value="en_pk">
+Pakistan
+</option> <option value="es_pe">
+Per&uacute;
+</option> <option value="en_ph">
+Philippines
+</option> <option value="pl_pl">
+Polska
+</option> <option value="pt-PT_pt">
+Portugal
+</option> <option value="de_ch">
+Schweiz
+</option> <option value="fr_sn">
+S&eacute;n&eacute;gal
+</option> <option value="en_sg">
+Singapore
+</option> <option value="en_za">
+South Africa
+</option> <option value="fr_ch">
+Suisse
+</option> <option value="sv_se">
+Sverige
+</option> <option value="en_tz">
+Tanzania
+</option> <option value="tr_tr">
+T&uuml;rkiye
+</option> <option value="uk">
+U.K.
+</option> <option value="us" selected>
+U.S.
+</option> <option value="en_ug">
+Uganda
+</option> <option value="es_ve">
+Venezuela
+</option> <option value="vi_vn">
+Vi&#7879;t Nam (Vietnam)
+</option> <option value="en_zw">
+Zimbabwe
+</option> <option value="el_gr">
+&Epsilon;&lambda;&lambda;&#940;&delta;&alpha; (Greece)
+</option> <option value="ru_ru">
+&#1056;&#1086;&#1089;&#1089;&#1080;&#1103; (Russia)
+</option> <option value="ru_ua">
+&#1059;&#1082;&#1088;&#1072;&#1080;&#1085;&#1072; (Ukraine)
+</option> <option value="uk_ua">
+&#1059;&#1082;&#1088;&#1072;&#1111;&#1085;&#1072; (Ukraine)
+</option> <option value="iw_il">
+&#1497;&#1513;&#1512;&#1488;&#1500; (Israel)
+</option> <option value="ar_ae">
+&#1575;&#1604;&#1573;&#1605;&#1575;&#1585;&#1575;&#1578; (UAE)
+</option> <option value="ar_sa">
+&#1575;&#1604;&#1587;&#1593;&#1608;&#1583;&#1610;&#1577; (KSA)
+</option> <option value="ar_me">
+&#1575;&#1604;&#1593;&#1575;&#1604;&#1605; &#1575;&#1604;&#1593;&#1585;&#1576;&#1610; (Arabic)
+</option> <option value="ar_lb">
+&#1604;&#1576;&#1606;&#1575;&#1606; (Lebanon)
+</option> <option value="ar_eg">
+&#1605;&#1589;&#1585; (Egypt)
+</option> <option value="hi_in">
+&#2361;&#2367;&#2344;&#2381;&#2342;&#2368; (India)
+</option> <option value="ta_in">
+&#2980;&#2990;&#3007;&#2996;&#3021;(India)
+</option> <option value="te_in">
+&#3108;&#3142;&#3122;&#3137;&#3095;&#3137; (India)
+</option> <option value="ml_in">
+&#3374;&#3378;&#3375;&#3390;&#3379;&#3330; (India)
+</option> <option value="kr">
+&#54620;&#44397; (Korea)
+</option> <option value="cn">
+&#20013;&#22269;&#29256; (China)
+</option> <option value="tw">
+&#21488;&#28771;&#29256; (Taiwan)
+</option> <option value="jp">
+&#26085;&#26412; (Japan)
+</option> <option value="hk">
+&#39321;&#28207;&#29256; (Hong Kong)
+</option></select><br><noscript><input type="submit" value="Go"></noscript></form></span>
+<span class="small"></span>
+<div id="left-nav-sections" class="sections"><div class="ie-hack"></div>
+<table class="nav-items" cellspacing="0" cellpadding="0" border="0" id="highlighting-left-nav"><tr class="nub-item item selected c-0" id="t_FRONTPAGE"><td class="nub-item c-0"><a href="/news?pz=1&amp;ned=us&amp;ict=ln"><div class="nub"><img src="http://www.gstatic.com/news/img/cleardot.gif" alt="" class="spacer"></div></a></td><td width="100%" class="nub-item clickable"><a href="/news?pz=1&amp;ned=us&amp;ict=ln"><div class="title">Top Stories</div></a></td></tr><tr class="item nub-item" id="t_en_us:w"><td class="nub-item"><a href="/news/section?pz=1&amp;ned=us&amp;topic=w&amp;ict=ln"><div class="nub c-w"><img src="http://www.gstatic.com/news/img/cleardot.gif" alt="" class="spacer"></div></a></td><td width="100%" class="nub-item clickable"><a href="/news/section?pz=1&amp;ned=us&amp;topic=w&amp;ict=ln"><div class="title">World</div></a></td></tr><tr class="item nub-item" id="t_en_us:n"><td class="nub-item"><a href="/news/section?pz=1&amp;ned=us&amp;topic=n&amp;ict=ln"><div class="nub c-n"><img src="http://www.gstatic.com/news/img/cleardot.gif" alt="" class="spacer"></div></a></td><td width="100%" class="nub-item clickable"><a href="/news/section?pz=1&amp;ned=us&amp;topic=n&amp;ict=ln"><div class="title">U.S.</div></a></td></tr><tr class="item nub-item" id="t_en_us:b"><td class="nub-item"><a href="/news/section?pz=1&amp;ned=us&amp;topic=b&amp;ict=ln"><div class="nub c-b"><img src="http://www.gstatic.com/news/img/cleardot.gif" alt="" class="spacer"></div></a></td><td width="100%" class="nub-item clickable"><a href="/news/section?pz=1&amp;ned=us&amp;topic=b&amp;ict=ln"><div class="title">Business</div></a></td></tr><tr class="item nub-item" id="t_en_us:t"><td class="nub-item"><a href="/news/section?pz=1&amp;ned=us&amp;topic=t&amp;ict=ln"><div class="nub c-t"><img src="http://www.gstatic.com/news/img/cleardot.gif" alt="" class="spacer"></div></a></td><td width="100%" class="nub-item clickable"><a href="/news/section?pz=1&amp;ned=us&amp;topic=t&amp;ict=ln"><div class="title">Sci/Tech</div></a></td></tr><tr class="item nub-item" id="t_en_us:e"><td class="nub-item"><a href="/news/section?pz=1&amp;ned=us&amp;topic=e&amp;ict=ln"><div class="nub c-e"><img src="http://www.gstatic.com/news/img/cleardot.gif" alt="" class="spacer"></div></a></td><td width="100%" class="nub-item clickable"><a href="/news/section?pz=1&amp;ned=us&amp;topic=e&amp;ict=ln"><div class="title">Entertainment</div></a></td></tr><tr class="item nub-item" id="t_en_us:s"><td class="nub-item"><a href="/news/section?pz=1&amp;ned=us&amp;topic=s&amp;ict=ln"><div class="nub c-s"><img src="http://www.gstatic.com/news/img/cleardot.gif" alt="" class="spacer"></div></a></td><td width="100%" class="nub-item clickable"><a href="/news/section?pz=1&amp;ned=us&amp;topic=s&amp;ict=ln"><div class="title">Sports</div></a></td></tr><tr class="item nub-item" id="t_en_us:m"><td class="nub-item"><a href="/news/section?pz=1&amp;ned=us&amp;topic=m&amp;ict=ln"><div class="nub c-m"><img src="http://www.gstatic.com/news/img/cleardot.gif" alt="" class="spacer"></div></a></td><td width="100%" class="nub-item clickable"><a href="/news/section?pz=1&amp;ned=us&amp;topic=m&amp;ict=ln"><div class="title">Health</div></a></td></tr><tr class="item nub-item" id="t_en_us:ir"><td class="nub-item"><a href="/news/section?pz=1&amp;ned=us&amp;topic=ir&amp;ict=ln"><div class="nub c-ir"><img src="http://www.gstatic.com/news/img/cleardot.gif" alt="" class="spacer"></div></a></td><td width="100%" class="nub-item clickable"><a href="/news/section?pz=1&amp;ned=us&amp;topic=ir&amp;ict=ln"><div class="title">Spotlight</div></a></td></tr><tr class="item nub-item" id="t_en_us:po"><td class="nub-item"><a href="/news/section?pz=1&amp;ned=us&amp;topic=po&amp;ict=ln"><div class="nub c-po"><img src="http://www.gstatic.com/news/img/cleardot.gif" alt="" class="spacer"></div></a></td><td width="100%" class="nub-item clickable"><a href="/news/section?pz=1&amp;ned=us&amp;topic=po&amp;ict=ln"><div class="title">Most Popular</div></a></td></tr></table></div>
+<div class="links"><br>
+<div class="link"><a href="/news?ned=tus&amp;hl=en&amp;rec=0">Text Version</a></div>
+<div class="link">Standard Version</div>
+<div class="link"><a href="/news/image?pz=1&amp;ned=us&amp;hl=en&amp;imv=1">Image Version</a></div>
+<div class="link"><a href="http://www.youtube.com/news">YouTube News</a></div></div></div></div></td><td><div class="main"><div id="headline-wrapper" class="wrapper"><div id="_h" class="basic-title bt-border">
+<h2 class=" text"><table id="hp-sub-header" cellspacing="0" cellpadding="0" width="100%"><tr valign="middle"><td id="edition-picker-wrapper" class="sel">Top Stories
+</td>
+<td id="timestamp-wrapper"><div class="small modes">Updated <span class="sel">8 minutes ago</span>
+<div class="r"></div></div></td></tr></table>
+</h2>
+
+
+
+<div class="r"></div></div>
+<div class="r"></div>
+<div class="blended-section2"><table cellspacing="0" cellpadding="0"><tr><td class="headlines-story-col"><div class="column1 no-gad"><div id="top-stories" class="section wrapper">
+<div class="story cid-1306331253 l-en  headline-story thumbnail-true"><div class="thumbnail " style=""><a target="_blank" href="http://www.telegraph.co.uk/technology/apple/6155656/Apple-special-event-rumours-will-Steve-Jobs-make-an-appearance.html" class="usg-AFQjCNGF9P3dtTu1eHPEVUKJY6wYnXDlUQ " title="Telegraph.co.uk"><img src="http://nt3.ggpht.com/news/tbn/c3zb7wDiuqgSWM/6.jpg" alt="" width="80" height="80"></a><div class="source"><a target="_blank" href="http://www.telegraph.co.uk/technology/apple/6155656/Apple-special-event-rumours-will-Steve-Jobs-make-an-appearance.html">Telegraph.co.uk</a></div></div>
+<h2 class="title"><a target="_blank" class="usg-AFQjCNFjm6ncRGz9qO-Va4URW1Id2JLIiQ " href="http://www.macworld.com/article/142707/rocknrollevent_ipod.html">Summary: Camera-equipped nano highlights Apple&#39;s iPod changes</a></h2>
+
+<div class="sub-title"><span class="source">Macworld</span>&nbsp;- <span class="author-link"><a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=author%3A%22Philip+Michaels%22&amp;scoring=n">Philip Michaels</a></span>&nbsp;- <span class="date">&lrm;21 minutes ago&lrm;</span></div>
+<div class="body"><div class="snippet">The iPod nano will now feature a built-in camera, as Apple updated its iPod line as part of a music-focused press event in San Francisco on Wednesday.</div>
+<div class="additional-article additional-video"><input type="hidden" class="video-url" value="http://www.youtube.com/watch?v=-1sOMMEKUjo">
+<input type="hidden" class="video-usg" value="AFQjCNEjYS9xeQiDhPawjhXIAD18m1yDwA">
+<div class="aa-inner"><span class="yesscript"><a class="js-link toggle more-zippy-toggle" id="-1sOMMEKUjo" href="javascript:void(0);" onclick="return false;"><div class="icon"></div>Video:&nbsp;Stocks In Focus - Apple - Bloomberg<img class="youtube-icon" src="http://www.gstatic.com/news/img/2326415520-video-youtube.gif" alt="" width="16" height="16"></a>
+<span class="source">Bloomberg</span></span>
+<noscript><a href="http://www.youtube.com/watch?v=-1sOMMEKUjo">Video:&nbsp;
+Stocks In Focus - Apple - Bloomberg
+<img class="youtube-icon" src="http://www.gstatic.com/news/img/2326415520-video-youtube.gif" alt="" width="16" height="16"></a>
+<span class="source">Bloomberg</span></noscript>
+<div class="video-box"></div></div></div> <div class="additional-article"><div class="aa-inner"><a href="http://www.usatoday.com/tech/news/2009-09-09-steve-jobs_N.htm" target="_blank" class="usg-AFQjCNFxuNYeMXrRT8SxMFaZCdy7VSwg5g ">Apple CEO Steve Jobs back in the spotlight</a> <span class="source">USA Today</span>
+
+</div></div>
+
+<div class="sources"><span class="source-link"><span><a target="_blank" class="usg-AFQjCNHTPAR2_r5AJ9YrYwG9hak0GMdJhQ " href="http://online.wsj.com/article/BT-CO-20090909-713000.html">Wall&nbsp;Street&nbsp;Journal</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNEZEPXQRE6tsBsMa4o1IQOOa-DnWg " href="http://arstechnica.com/apple/news/2009/09/apple-rocks-and-rolls-with-new-ipods-itunes-lps.ars">Ars&nbsp;Technica</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNEUSe7Q2Xaw6J4YrayoJJeHCVDMIA " href="http://www.pcworld.com/businesscenter/article/171672/itunes_9_introduces_genius_mixes.html">PC&nbsp;World</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNFj1Zbj0XLlwK2ZAbgqC5Y6opqy6g " href="http://www.nytimes.com/2009/09/10/technology/companies/10apple.html?hpw">New&nbsp;York&nbsp;Times</a></span>
+</span>
+
+<div class="moreLinks" id="1306331253"><a class="more-coverage-text" href="/news/more?pz=1&amp;ned=us&amp;ncl=dPEiDutvfyYKtLMOPFPamu6LUox6M&amp;topic=h">all 1,579 news articles&nbsp;&raquo;</a></div>
+
+
+<div class="yesscript lt"><a href="javascript:void(0)" class="email-link"><img class="icon email-icon" width="15" height="15" alt="" src="http://www.gstatic.com/news/img/cleardot.gif">Email this story</a></div>
+
+<div class="r"></div></div>
+</div>
+<div class="r"></div></div><div class="story cid-1309743074 l-en  headline-story thumbnail-true"><div class="thumbnail " style=""><a target="_blank" href="http://www.reuters.com/article/GCA-HealthcareReform/idUSTRE5876A220090909" class="usg-AFQjCNEvMvy2ZldfUqKedpQrJv2IZdKm6A " title="Reuters"><img src="http://nt1.ggpht.com/news/tbn/vU8-TJRTY0t0mM/6.jpg" alt="" width="80" height="80"></a><div class="source"><a target="_blank" href="http://www.reuters.com/article/GCA-HealthcareReform/idUSTRE5876A220090909">Reuters</a></div></div>
+<h2 class="title"><a target="_blank" class="usg-AFQjCNEvMvy2ZldfUqKedpQrJv2IZdKm6A " href="http://www.reuters.com/article/GCA-HealthcareReform/idUSTRE5876A220090909">Baucus may move health bill without Republicans</a></h2>
+
+<div class="sub-title"><span class="source">Reuters</span>&nbsp;- <span class="author-link"><a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=author%3A%22Donna+Smith%22&amp;scoring=n">Donna Smith</a>, <a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=author%3A%22David+Alexander%22&amp;scoring=n">David Alexander</a></span>&nbsp;- <span class="date">&lrm;20 minutes ago&lrm;</span></div>
+<div class="body"><div class="snippet">WASHINGTON (Reuters) - The Democratic US senator leading an effort to write a bipartisan healthcare reform bill said on Wednesday he was ready to move forward without Republican support, but still hoped for a deal.</div>
+<div class="additional-article"><div class="aa-inner"><a href="http://www.nytimes.com/2009/09/10/us/politics/10obama.html" target="_blank" class="usg-AFQjCNHSJ5EYj8QtyV2Lx5ghS2hRH___uQ ">Key Senator Says &#39;Time Has Come&#39; to Act on Health Care</a> <span class="source">New York Times</span>
+
+</div></div> <div class="additional-article"><div class="aa-inner"><a href="http://www.google.com/hostednews/ap/article/ALeqM5hWN4sVXUztCoryLFyamgznKH0rBgD9AJVAB00" target="_blank" class="usg-AFQjCNFFKn-HaQh8xlfrxncUQEatba0zLA ">Last Senate panel sets timetable for health care</a> <span class="source">The Associated Press</span>
+
+</div></div>
+
+<div class="sources"><span class="source-link"><span><a target="_blank" class="usg-AFQjCNEYes8f-NB2cOre7rr0ZmTiZcqIcQ " href="http://online.wsj.com/article/SB125251148557696003.html">Wall&nbsp;Street&nbsp;Journal</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNEmaZeoW4iUCqL6v6UN9cvNgvmvRw " href="http://www.bloomberg.com/apps/news?pid=20601087&amp;sid=aWXC3Ebc96sY">Bloomberg</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNHWMRhCtB-5VD_sutpybynAHyenxA " href="http://www.foxbusiness.com/story/markets/market-overview/baucus-healthcare-bill-week-source/">FOXBusiness</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNHO9r2nCBesIhgjpKEnU0SAC3isWA " href="http://edition.cnn.com/2009/POLITICS/09/09/health.care/">CNN&nbsp;International</a></span>
+</span>
+
+<div class="moreLinks" id="1309743074"><a class="more-coverage-text" href="/news/more?pz=1&amp;ned=us&amp;ncl=ddTjbO79KQ35StMnkOFSVRvQUMOpM&amp;topic=h">all 999 news articles&nbsp;&raquo;</a></div>
+
+
+<div class="yesscript lt"><a href="javascript:void(0)" class="email-link"><img class="icon email-icon" width="15" height="15" alt="" src="http://www.gstatic.com/news/img/cleardot.gif">Email this story</a></div>
+
+<div class="r"></div></div>
+</div>
+<div class="r"></div></div><div class="story cid-1306628570 l-en  headline-story thumbnail-true"><div class="thumbnail " style=""><a target="_blank" href="http://www.foxnews.com/politics/2009/09/08/obama-schoolchildren-stay-school-responsibility/" class="usg-AFQjCNHnTBcdWYXTKBGuPbtt3BaxxjOv0g " title="FOXNews"><img src="http://nt0.ggpht.com/news/tbn/UE-9yKOHkwbdhM/6.jpg" alt="" width="80" height="80"></a><div class="source"><a target="_blank" href="http://www.foxnews.com/politics/2009/09/08/obama-schoolchildren-stay-school-responsibility/">FOXNews</a></div></div>
+<h2 class="title"><a target="_blank" class="usg-AFQjCNGbcLuMI4cH8tHPv8tTWzn2sZ2FAA " href="http://business.theatlantic.com/2009/09/can_obama_revive_the_dead_public_option.php">Can Obama Revive the Dead Public Option?</a></h2>
+
+<div class="sub-title"><span class="source">Atlantic Online</span>&nbsp;- <span class="author-link"><a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=author%3A%22Derek+Thompson%22&amp;scoring=n">Derek Thompson</a></span>&nbsp;- <span class="date">&lrm;20 minutes ago&lrm;</span></div>
+<div class="body"><div class="snippet">There are at least three important points to make about a government-run insurance plan -- or public option -- before President Obama&#39;s primetime speech on health care reform tonight.</div>
+<div class="additional-article additional-video"><input type="hidden" class="video-url" value="http://www.youtube.com/watch?v=UCK7XAFZEUs">
+<input type="hidden" class="video-usg" value="AFQjCNHsfJPM9WqiFWgWMedpQXDJ2hJHuQ">
+<div class="aa-inner"><span class="yesscript"><a class="js-link toggle more-zippy-toggle" id="UCK7XAFZEUs" href="javascript:void(0);" onclick="return false;"><div class="icon"></div>Video:&nbsp;Obama looks for support on healthcare reform - 09 Sep 09<img class="youtube-icon" src="http://www.gstatic.com/news/img/2326415520-video-youtube.gif" alt="" width="16" height="16"></a>
+<span class="source">Al Jazeera</span></span>
+<noscript><a href="http://www.youtube.com/watch?v=UCK7XAFZEUs">Video:&nbsp;
+Obama looks for support on healthcare reform - 09 Sep 09
+<img class="youtube-icon" src="http://www.gstatic.com/news/img/2326415520-video-youtube.gif" alt="" width="16" height="16"></a>
+<span class="source">Al Jazeera</span></noscript>
+<div class="video-box"></div></div></div> <div class="additional-article"><div class="aa-inner"><a href="http://www.washingtonpost.com/wp-dyn/content/article/2009/09/09/AR2009090901771.html?hpid=topnews" target="_blank" class="usg-AFQjCNEUrt5Ipc322VzXADnQ9QJZKa7BRQ ">Obama to Tout &#39;Public Option&#39; in Speech to Congress</a> <span class="source">Washington Post</span>
+
+</div></div>
+
+<div class="sources"><span class="source-link"><span><a target="_blank" class="usg-AFQjCNE9QFYGgpYsaVw7MaUu05-IAaaT1g " href="http://www.google.com/hostednews/ap/article/ALeqM5jlMpJGn28kqCcgU-aGcYE_ZHW-ywD9AJUUKG0">The&nbsp;Associated&nbsp;Press</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNF_ddKrNwFjFXLwE5tBybzjoaelzQ " href="http://news.bbc.co.uk/2/hi/americas/8247207.stm">BBC&nbsp;News</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNEgLO0QnIPXpWVoThgrMBbs55qDnA " href="http://www.bizjournals.com/baltimore/stories/2009/09/07/daily24.html">Bizjournals.com</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNEptPU1ox4D0dSJq_1UFXzGaWInyg " href="http://features.csmonitor.com/politics/2009/09/09/obamas-push-for-health-reform-what-are-the-hurdles/">Christian&nbsp;Science&nbsp;Monitor</a></span>
+</span>
+
+<div class="moreLinks" id="1306628570"><a class="more-coverage-text" href="/news/more?pz=1&amp;ned=us&amp;ncl=dwt1RT1czEPjU2MffTHd9EO8eKa7M&amp;topic=h">all 10,318 news articles&nbsp;&raquo;</a></div>
+
+
+<div class="yesscript lt"><a href="javascript:void(0)" class="email-link"><img class="icon email-icon" width="15" height="15" alt="" src="http://www.gstatic.com/news/img/cleardot.gif">Email this story</a></div>
+
+<div class="r"></div></div>
+</div>
+<div class="r"></div></div></div></div></td>
+<td class="headlines-gadget-col"><div class="column2"><div id="headline-gadgets" class="wrapper"><div id=":DEVELOPING" class="gadget t-DEVELOPING"><a name="DEVELOPING"></a>
+<div id=":DEVELOPING_h" class="basic-title bt-border">
+<h2 class=" text">Breaking News
+</h2>
+
+
+
+<div class="r"></div></div>
+<div class="r"></div>
+<div class="small-section" id="s_BREAKING"><div class="contents"><div class="story cid-1309805439 l-en  small-story"><div class="title"><a target="_blank" class="usg-AFQjCNFT9U-5YelTOV9HqA59yhxAnk_rNQ " href="http://www.bloomberg.com/apps/news?pid=20601068&amp;sid=adO.FvqQxB2c">Fed Says Economy Stable or Improving in Most of US</a></div> <div class="source">Bloomberg&nbsp;-</div>&nbsp;<span class="timestamp ">&lrm;24 minutes ago&lrm;</span>&nbsp;-
+<div class="moreLinks" id="1309805439"><a class="more-coverage-text" href="/news/more?pz=1&amp;ned=us&amp;ncl=dVNOZHjffUAmqmM8Iyl2SRR2hCrlM&amp;topic=b">all 327 articles&nbsp;&raquo;</a></div><div class="r"></div></div>
+<div class="r"></div> <div class="story cid-1309505625 l-en  small-story"><div class="title"><a target="_blank" class="usg-AFQjCNEFuMWv6oRgc9540NgKwaC4expShQ " href="http://www.washingtonpost.com/wp-dyn/content/gallery/2009/09/09/GA2009090901997.html">NASA Unveils New Hubble Photos</a></div> <div class="source">Washington Post&nbsp;-</div>&nbsp;<span class="timestamp ">&lrm;20 minutes ago&lrm;</span>&nbsp;-
+<div class="moreLinks" id="1309505625"><a class="more-coverage-text" href="/news/more?pz=1&amp;ned=us&amp;ncl=dX5Hgducj0mqKLMIwiovEf9bfahPM&amp;topic=t">all 294 articles&nbsp;&raquo;</a></div><div class="r"></div></div>
+<div class="r"></div> <div class="story cid-1309881623 l-en  small-story"><div class="title"><a target="_blank" class="usg-AFQjCNE5qgpKgQfaIZJnMRxiBEzoUgIylg " href="http://goldderby.latimes.com/awards_goldderby/2009/09/brad-paisley-leads-with-6-cma-nominations-entertainment-news-1357908.html">Brad Paisley leads with six CMA nominations</a></div> <div class="source">Los Angeles Times&nbsp;-</div>&nbsp;<span class="timestamp ">&lrm;1 hour ago&lrm;</span>&nbsp;-
+<div class="moreLinks" id="1309881623"><a class="more-coverage-text" href="/news/more?pz=1&amp;ned=us&amp;ncl=dEdRCJr4aC6bmzMu_l24ajeCQ9sSM&amp;topic=e">all 661 articles&nbsp;&raquo;</a></div><div class="r"></div></div>
+<div class="r"></div> <div class="story cid-1308589991 l-en  small-story"><div class="title"><a target="_blank" class="usg-AFQjCNH4aA27r8clXL46DsWtUcxbFYr82Q " href="http://www.suntimes.com/news/cityhall/1761087,chicago-olympics-2016-funding-090909.article">City council backs Olympics funding pledge</a></div> <div class="source">Chicago Sun-Times&nbsp;-</div>&nbsp;<span class="timestamp ">&lrm;38 minutes ago&lrm;</span>&nbsp;-
+<div class="moreLinks" id="1308589991"><a class="more-coverage-text" href="/news/more?pz=1&amp;ned=us&amp;ncl=dhJ_yfs0aRUv-MMw1kK0qVMk2b_IM&amp;topic=s">all 85 articles&nbsp;&raquo;</a></div><div class="r"></div></div>
+<div class="r"></div> <div class="story cid-1308496336 l-en  small-story"><div class="title"><a target="_blank" class="usg-AFQjCNGAzQHbJ1UEqvuV9Vkfm7uV3LSuaA " href="http://www.abcnews.go.com/Health/SwineFluNews/swine-flu/story?id=8525109">Had the Flu? It Was Probably Swine Flu</a></div> <div class="source">ABC News&nbsp;-</div>&nbsp;<span class="timestamp ">&lrm;56 minutes ago&lrm;</span>&nbsp;-
+<div class="moreLinks" id="1308496336"><a class="more-coverage-text" href="/news/more?pz=1&amp;ned=us&amp;ncl=dS1a70Qjkz-A3AMkDqYXn1kHKxpLM&amp;topic=m">all 2,599 articles&nbsp;&raquo;</a></div><div class="r"></div></div>
+<div class="r"></div> <div class="story cid-0 l-en  small-story"><div class="title"><a target="_blank" class="usg-AFQjCNEOKkUreP7MzgwozIVHM0hXGiW56A " href="http://www.nytimes.com/2009/09/06/fashion/06love.html">Modern Love Giving Myself Consent to Let Go</a></div> <div class="source">New York Times&nbsp;-</div>&nbsp;<span class="timestamp ">&lrm;Sep 4, 2009&lrm;</span><div class="r"></div></div>
+<div class="r"></div> <div class="story cid-1309669231 l-en  small-story"><div class="title"><a target="_blank" class="usg-AFQjCNHzw3eXh-78Rzm54Jvt8Dz3zwY2Rw " href="http://news.bbc.co.uk/2/hi/south_asia/8245693.stm">UK reporter freed in Afghanistan</a></div> <div class="source">BBC News&nbsp;-</div>&nbsp;<span class="timestamp ">&lrm;21 minutes ago&lrm;</span>&nbsp;-
+<div class="moreLinks" id="1309669231"><a class="more-coverage-text" href="/news/more?pz=1&amp;ned=us&amp;ncl=dp4k_cx6Sgp0EdMOUvWGzmqNlrgIM&amp;topic=w">all 1,907 articles&nbsp;&raquo;</a></div><div class="r"></div></div>
+<div class="r"></div> <div class="story cid-1309251903 l-en  small-story"><div class="title"><a target="_blank" class="usg-AFQjCNGYFK5v9tOq_Iocp3yz7lEUA4rthA " href="http://www.reuters.com/article/vcCandidateFeed1/idUSN09412513">US court questions company campaign spending limits</a></div> <div class="source">Reuters&nbsp;-</div>&nbsp;<span class="timestamp ">&lrm;22 minutes ago&lrm;</span>&nbsp;-
+<div class="moreLinks" id="1309251903"><a class="more-coverage-text" href="/news/more?pz=1&amp;ned=us&amp;ncl=dIjMgUvl5ZTyepMqgMMfzD4zURbQM&amp;topic=n">all 1,086 articles&nbsp;&raquo;</a></div><div class="r"></div></div>
+<div class="r"></div></div></div></div> <div id=":IN_THE_NEWS" class="gadget t-IN_THE_NEWS"><a name="IN_THE_NEWS"></a>
+<div id=":IN_THE_NEWS_h" class="basic-title bt-border">
+<h2 class=" text">In The News
+</h2>
+
+
+
+<div class="r"></div></div>
+<div class="r"></div>
+<div class="small-section section-itn" id="s_1"><div class="contents"><div class="column"><div><a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=Andy+Murray&amp;num=30&amp;ict=itn0">Andy Murray</a></div> <div><a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=Palm+Pixi&amp;num=30&amp;ict=itn1">Palm Pixi</a></div> <div><a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=Marin+Cilic&amp;num=30&amp;ict=itn2">Marin Cilic</a></div> <div><a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=Palm+Pre&amp;num=30&amp;ict=itn3">Palm Pre</a></div> <div><a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=Steve+Jobs&amp;num=30&amp;ict=itn4">Steve Jobs</a></div></div> <div class="column"><div><a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=Jon+Gosselin&amp;num=30&amp;ict=itn5">Jon Gosselin</a></div> <div><a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=JRR+Tolkien&amp;num=30&amp;ict=itn6">JRR Tolkien</a></div> <div><a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=Tyra+Banks&amp;num=30&amp;ict=itn7">Tyra Banks</a></div> <div><a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=Army+Archerd&amp;num=30&amp;ict=itn8">Army Archerd</a></div> <div><a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=Gael+Monfils&amp;num=30&amp;ict=itn9">Gael Monfils</a></div></div><div class="r"></div></div></div></div></div></div></td></tr></table>
+<div class="r"></div></div></div>
+</div>
+<div style="r"></div></td></tr></table><div class="r"></div><div class="r"></div>
+
+<div id="twocol-section"><div class="ls-left promo-section-wrapper"><span class="yesscript"><div id="recommended-promo" class="ls-left"><div class="ls-wrapper"><div id="rpromo_h" class="basic-title bt-border"><div id="close-icon-rpromo" class="close-icon icon"></div>
+<h2 class=" text">Recommended for you &raquo;
+</h2>
+
+
+
+<div class="r"></div></div>
+<div class="r"></div>
+<div class="contents"> <a href="http://www.google.com/accounts/Login?hl=en&amp;skipvpage=true&amp;sendvemail=false&amp;continue=http%3A%2F%2Fnews.google.com%2Fnews%3Fpz%3D1%26ned%3Dus%26hl%3Den%26q">Sign in</a>  to add a section with stories recommended for you, by using search history.
+<div class="r"></div></div></div></div></span>
+<a name="en_us:w"></a>
+<div class="section large-section ls-left" id="s-en_us:w"><div class="ls-wrapper"><div class="bar c-w"></div>
+<div id="en_us:w_h" class="basic-title b-w ">
+<h2 class=" text"><span class="yesscript"><div class="min-icon icon" style=""></div></span>
+<div class="lt section-title"><a href="/news/section?pz=1&amp;ned=us&amp;topic=w">World&nbsp;&raquo;</a>
+</div>
+
+<span class="yesscript"><div class="close-icon icon"></div></span>
+<span class="yesscript"><div class="mod"><input type="hidden" class="edition" value="us">
+<input type="hidden" class="topic" value="w">
+<input type="hidden" class="name" value="World">
+
+
+<input type="hidden" class="lang" value="en">
+<input type="hidden" class="num" value="3">
+<input type="hidden" class="id" value="en_us:w">
+<a class="edit-link rt" href="javascript:void(0);">edit</a>
+<a class="edit-link-close rt" href="javascript:void(0);" style="display: none;">close edit</a></div></span>
+</h2>
+
+
+
+<div class="r"></div></div>
+<div class="r"></div>
+<div class="b-w"><div class="edit-panel-stub"></div></div>
+<div class="blended-section2" style=""><div class="column1"><div class="wrapper"><div class="story cid-1309846155 l-en  headline-story thumbnail-true"><div class="thumbnail " style=""><a target="_blank" href="http://www.miamiherald.com/news/world/AP/story/1224348.html" class="usg-AFQjCNGivc4JWO8sA9QHKAtNpSz4Pp8ltQ " title="MiamiHerald.com"><img src="http://nt3.ggpht.com/news/tbn/V63ES_N608uz1M/6.jpg" alt="" width="80" height="80"></a><div class="source"><a target="_blank" href="http://www.miamiherald.com/news/world/AP/story/1224348.html">MiamiHerald.com</a></div></div>
+<h2 class="title"><a target="_blank" class="usg-AFQjCNGeuOkppFxuUCoXLzPm_Sbu56WprA " href="http://www.voanews.com/english/2009-09-09-voa49.cfm">US Envoy Expresses Concern Over Iran&#39;s Nuclear Program</a></h2>
+
+<div class="sub-title"><span class="source">Voice of America</span>&nbsp;- <span class="author-link"><a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=author%3A%22Lisa+Bryant%22&amp;scoring=n">Lisa Bryant</a></span>&nbsp;- <span class="date">&lrm;13 minutes ago&lrm;</span></div>
+<div class="body"><div class="snippet">The United States said Wednesday that Iran could be close to having enough enriched uranium to make a nuclear bomb - if it hadn&#39;t already reached that point.</div>
+<div class="additional-article"><div class="aa-inner"><a href="http://news.xinhuanet.com/english/2009-09/10/content_12024005.htm" target="_blank" class="usg-AFQjCNGhe5tK48O0v0_JmH9ptotA7Di7kg ">Iran submits package of proposals to major powers to initiate talks</a> <span class="source">Xinhua</span>
+
+</div></div> <div class="additional-article"><div class="aa-inner"><a href="http://www.presstv.ir/detail.aspx?id=105765&amp;sectionid=351020104" target="_blank" class="usg-AFQjCNE3CBJT0DGdFMSp1IncICCH1UUn8w ">ElBaradei wants Iran to accept US offer for talks</a> <span class="source">PRESS TV</span>
+
+</div></div>
+
+<div class="sources"><span class="source-link"><span><a target="_blank" class="usg-AFQjCNFwYxmP_e8rTPN8iqYelRSXN9ixpQ " href="http://www.reuters.com/article/newsMaps/idUSTRE5884LS20090909">Reuters</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNFrCaSEtumYMBKsSqAExklub3zYoQ " href="http://www.cnn.com/2009/WORLD/meast/09/09/iran.nuclear.proposals/">CNN</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNFu1Hlu3vR5pQ7poyxX3ZI2lvgb5w " href="http://www.washingtonpost.com/wp-dyn/content/article/2009/09/09/AR2009090901701.html?hpid=moreheadlines">Washington&nbsp;Post</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNEILTMy2bjNWCbMp65JPFVY0Pyrbg " href="http://english.aljazeera.net/news/middleeast/2009/09/200999164037841716.html">Aljazeera.net</a></span>
+</span>
+
+<div class="moreLinks" id="1309846155"><a class="more-coverage-text" href="/news/more?pz=1&amp;ned=us&amp;ncl=dL5QKgTrwmAuHbM2q7IYyrneOZATM&amp;topic=w">all 753 news articles&nbsp;&raquo;</a></div>
+
+
+<div class="yesscript lt"><a href="javascript:void(0)" class="email-link"><img class="icon email-icon" width="15" height="15" alt="" src="http://www.gstatic.com/news/img/cleardot.gif">Email this story</a></div>
+
+<div class="r"></div></div>
+</div>
+<div class="r"></div></div><div class="story cid-1309669231 l-en  headline-story thumbnail-true"><div class="thumbnail " style=""><a target="_blank" href="http://news.bbc.co.uk/2/hi/south_asia/8245693.stm" class="usg-AFQjCNHzw3eXh-78Rzm54Jvt8Dz3zwY2Rw " title="BBC News"><img src="http://nt3.ggpht.com/news/tbn/P-IxzHftr1fWFM/6.jpg" alt="" width="80" height="80"></a><div class="source"><a target="_blank" href="http://news.bbc.co.uk/2/hi/south_asia/8245693.stm">BBC News</a></div></div>
+<h2 class="title"><a target="_blank" class="usg-AFQjCNHzw3eXh-78Rzm54Jvt8Dz3zwY2Rw " href="http://news.bbc.co.uk/2/hi/south_asia/8245693.stm">UK reporter freed in Afghanistan</a></h2>
+
+<div class="sub-title"><span class="source">BBC News</span>&nbsp;- <span class="date">&lrm;21 minutes ago&lrm;</span></div>
+<div class="body"><div class="snippet">A UK journalist abducted in Afghanistan has been freed by Nato troops in a dramatic pre-dawn raid. New York Times reporter Stephen Farrell was kidnapped on Saturday along with Afghan interpreter Sultan Munadi while investigating a Nato air strike.</div>
+<div class="additional-article"><div class="aa-inner"><a href="http://www.timesonline.co.uk/tol/news/world/Afghanistan/article6827634.ece" target="_blank" class="usg-AFQjCNHlFUK4FASrbifGHcxaBXH3UytoTA ">Gordon Brown ordered mission to free kidnapped reporter Stephen <b>...</b></a> <span class="source">Times Online</span>
+
+</div></div> <div class="additional-article"><div class="aa-inner"><a href="http://www.google.com/hostednews/ap/article/ALeqM5gHTVZ6nrNIzXeoMnh238SjzDDa9AD9AJUIJG0" target="_blank" class="usg-AFQjCNG8ZBcfSsdpSESq8a3F6LY9dQGBKQ ">Recent kidnappings of foreigners in Afghanistan</a> <span class="source">The Associated Press</span>
+
+</div></div>
+
+<div class="sources"><span class="source-link"><span><a target="_blank" class="usg-AFQjCNFNFSHj_SKHXjikO1LJFPluzqTLlA " href="http://www.guardian.co.uk/media/2009/sep/09/afghanistan-stephen-farrell-news-risks">guardian.co.uk</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNEZLgOTUrpMv_66ELxa3Z7SNVYuaA " href="http://www.miamiherald.com/news/world/AP/story/1224781.html">MiamiHerald.com</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNELhvXLyvzeQvPwqeSN_exponmS2g " href="http://edition.cnn.com/2009/WORLD/asiapcf/09/09/afghan.reporter/">CNN&nbsp;International</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNGvZGiL5VJmWKfqQ15zJid3jwI4tQ " href="http://www.thestar.com/news/world/article/693048">Toronto&nbsp;Star</a></span>
+</span>
+
+<div class="moreLinks" id="1309669231"><a class="more-coverage-text" href="/news/more?pz=1&amp;ned=us&amp;ncl=dp4k_cx6Sgp0EdMOUvWGzmqNlrgIM&amp;topic=w">all 1,907 news articles&nbsp;&raquo;</a></div>
+
+
+<div class="yesscript lt"><a href="javascript:void(0)" class="email-link"><img class="icon email-icon" width="15" height="15" alt="" src="http://www.gstatic.com/news/img/cleardot.gif">Email this story</a></div>
+
+<div class="r"></div></div>
+</div>
+<div class="r"></div></div><div class="story cid-1307890857 l-en  headline-story thumbnail-true"><div class="thumbnail " style=""><a target="_blank" href="http://www.guardian.co.uk/world/2009/sep/08/afghanistan-election-partial-recount" class="usg-AFQjCNEDqudub-xer8h-0AmpIIRB_InX_Q " title="guardian.co.uk"><img src="http://nt0.ggpht.com/news/tbn/3G4_9x79kmJvhM/6.jpg" alt="" width="80" height="80"></a><div class="source"><a target="_blank" href="http://www.guardian.co.uk/world/2009/sep/08/afghanistan-election-partial-recount">guardian.co.uk</a></div></div>
+<h2 class="title"><a target="_blank" class="usg-AFQjCNFGqEyi1A9Janwm4GtSaM0qdgaWmw " href="http://www.reuters.com/article/asiaCrisis/idUSL9270936">ANALYSIS-Afghan election fraud dispute does Obama no good</a></h2>
+
+<div class="sub-title"><span class="source">Reuters</span>&nbsp;- <span class="author-link"><a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=author%3A%22Peter+Graff%22&amp;scoring=n">Peter Graff</a></span>&nbsp;- <span class="date">&lrm;2 hours ago&lrm;</span></div>
+<div class="body"><div class="snippet">KABUL, Sept 9 (Reuters) - Can President Barack Obama ask Americans to send more of their sons and daughters to die in Afghanistan to defend a government willing to steal an election?</div>
+<div class="additional-article additional-video"><input type="hidden" class="video-url" value="http://www.youtube.com/watch?v=fYsjGJbQqB0">
+<input type="hidden" class="video-usg" value="AFQjCNHMMxzqMHgso2lsXtAt-G3tq3kJgg">
+<div class="aa-inner"><span class="yesscript"><a class="js-link toggle more-zippy-toggle" id="fYsjGJbQqB0" href="javascript:void(0);" onclick="return false;"><div class="icon"></div>Video:&nbsp;Fraud, threats and lack of women mark Afghan elections<img class="youtube-icon" src="http://www.gstatic.com/news/img/2326415520-video-youtube.gif" alt="" width="16" height="16"></a>
+<span class="source">worldfocusonline</span></span>
+<noscript><a href="http://www.youtube.com/watch?v=fYsjGJbQqB0">Video:&nbsp;
+Fraud, threats and lack of women mark Afghan elections
+<img class="youtube-icon" src="http://www.gstatic.com/news/img/2326415520-video-youtube.gif" alt="" width="16" height="16"></a>
+<span class="source">worldfocusonline</span></noscript>
+<div class="video-box"></div></div></div> <div class="additional-article"><div class="aa-inner"><a href="http://www.voanews.com/english/2009-09-09-voa27.cfm" target="_blank" class="usg-AFQjCNEjWod8GY6abu000jw0jyWaS79BBQ ">Afghan Election Commission Defends Release of Tainted Votes</a> <span class="source">Voice of America</span>
+
+</div></div>
+
+<div class="sources"><span class="source-link"><span><a target="_blank" class="usg-AFQjCNGJRa-pLDQUy6zR8ARU3K_IloOHuw " href="http://www.nytimes.com/2009/09/09/world/asia/09policy.html?em">New&nbsp;York&nbsp;Times</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNEeNzmDubiyPpkGe5PkqUVx_j0EEQ " href="http://www.newsweek.com/id/215074">Newsweek</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNF36asCz24DyLLZEjIFczH4N4jp4w " href="http://www.google.com/hostednews/ap/article/ALeqM5gH6zTk0ZvJGljIu7bpEh3P2uECEwD9AJT0I00">The&nbsp;Associated&nbsp;Press</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNGU860ciujF7WjFnBHLtdK4oEXeYg " href="http://www.guardian.co.uk/politics/2009/sep/09/cameron-condemns-naked-corruption-afghan">guardian.co.uk</a></span>
+</span>
+
+<div class="moreLinks" id="1307890857"><a class="more-coverage-text" href="/news/more?pz=1&amp;ned=us&amp;ncl=dR_8LWatK7kEJLM7hxIXmEF-dQ-EM&amp;topic=w">all 2,759 news articles&nbsp;&raquo;</a></div>
+
+
+<div class="yesscript lt"><a href="javascript:void(0)" class="email-link"><img class="icon email-icon" width="15" height="15" alt="" src="http://www.gstatic.com/news/img/cleardot.gif">Email this story</a></div>
+
+<div class="r"></div></div>
+</div>
+<div class="r"></div></div></div></div>
+<span class="yesscript"><div class="more-link"><a href="javascript:void(0);" onclick="return false;">Show more stories</a></div>
+<div class="fewer-link"><a href="javascript:void(0);" onclick="return false;">Show fewer stories</a></div>
+<div class="r"></div></span></div>
+<div class="r"></div></div></div></div>
+<div class="ls-right promo-section-wrapper"><span class="yesscript"><div id="local-promo" class="ls-right"><div class="ls-wrapper"><div id="lpromo_h" class="basic-title bt-border"><div id="close-icon-lpromo" class="close-icon icon"></div>
+<h2 class=" text">Local News &raquo;
+</h2>
+
+
+
+<div class="r"></div></div>
+<div class="r"></div>
+<div class="contents">View stories near:
+<form id="local-promo-form" action=""><input type="hidden" name="section" value="local">
+<input type="hidden" name="idx" value="0">
+<input type="hidden" name="col" value="1">
+<input type="text" name="localQuery" class="local-input example-text" maxlength="256" onfocus="resetLocalValue(this);" value="City, State, or Zip Code" onblur="resetLocalExampleText(this, &quot;City, State, or Zip Code&quot;);">
+<input type="submit" id="local-promo-add" value="Add"></form>
+<div class="r"></div></div></div></div></span>
+<a name="en_us:n"></a>
+<div class="section large-section ls-right" id="s-en_us:n"><div class="ls-wrapper"><div class="bar c-n"></div>
+<div id="en_us:n_h" class="basic-title b-n ">
+<h2 class=" text"><span class="yesscript"><div class="min-icon icon" style=""></div></span>
+<div class="lt section-title"><a href="/news/section?pz=1&amp;ned=us&amp;topic=n">U.S.&nbsp;&raquo;</a>
+</div>
+
+<span class="yesscript"><div class="close-icon icon"></div></span>
+<span class="yesscript"><div class="mod"><input type="hidden" class="edition" value="us">
+<input type="hidden" class="topic" value="n">
+<input type="hidden" class="name" value="U.S.">
+
+
+<input type="hidden" class="lang" value="en">
+<input type="hidden" class="num" value="3">
+<input type="hidden" class="id" value="en_us:n">
+<a class="edit-link rt" href="javascript:void(0);">edit</a>
+<a class="edit-link-close rt" href="javascript:void(0);" style="display: none;">close edit</a></div></span>
+</h2>
+
+
+
+<div class="r"></div></div>
+<div class="r"></div>
+<div class="b-n"><div class="edit-panel-stub"></div></div>
+<div class="blended-section2" style=""><div class="column1"><div class="wrapper"><div class="story cid-1308686596 l-en  headline-story thumbnail-true"><div class="thumbnail " style=""><a target="_blank" href="http://www.wane.com/dpp/health/healthy_living/wwlp_ap_health_sendodddeclineshealthpanelchair_200909837_2849814" class="usg-AFQjCNF3AZATydibfuZy3TOFNuFu7okYlg " title="WANE"><img src="http://nt1.ggpht.com/news/tbn/edRm8Xfwp_7PqM/6.jpg" alt="" width="80" height="80"></a><div class="source"><a target="_blank" href="http://www.wane.com/dpp/health/healthy_living/wwlp_ap_health_sendodddeclineshealthpanelchair_200909837_2849814">WANE</a></div></div>
+<h2 class="title"><a target="_blank" class="usg-AFQjCNEJ3HTWJp_DwshZduteMchHyTieuQ " href="http://online.wsj.com/article/SB125251631735296283.html">Harkin to Take Over Senate Health Committee</a></h2>
+
+<div class="sub-title"><span class="source">Wall Street Journal</span>&nbsp;- <span class="author-link"><a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=author%3A%22Martin+Vaughan%22&amp;scoring=n">Martin Vaughan</a></span>&nbsp;- <span class="date">&lrm;1 hour ago&lrm;</span></div>
+<div class="body"><div class="snippet">WASHINGTON -- Sen. Blanche Lincoln (D., Ark.), is expected to be named chair of the Senate Agriculture Committee, and Sen. Tom Harkin (D.</div>
+<div class="additional-article additional-video"><input type="hidden" class="video-url" value="http://www.youtube.com/watch?v=NGw6ycOxFxI">
+<input type="hidden" class="video-usg" value="AFQjCNGLAl1gieag3Ly6UCVqK-P94zvYJQ">
+<div class="aa-inner"><span class="yesscript"><a class="js-link toggle more-zippy-toggle" id="NGw6ycOxFxI" href="javascript:void(0);" onclick="return false;"><div class="icon"></div>Video:&nbsp;Sen. Dodd To Keep Chairmanship - Bloomberg<img class="youtube-icon" src="http://www.gstatic.com/news/img/2326415520-video-youtube.gif" alt="" width="16" height="16"></a>
+<span class="source">Bloomberg</span></span>
+<noscript><a href="http://www.youtube.com/watch?v=NGw6ycOxFxI">Video:&nbsp;
+Sen. Dodd To Keep Chairmanship - Bloomberg
+<img class="youtube-icon" src="http://www.gstatic.com/news/img/2326415520-video-youtube.gif" alt="" width="16" height="16"></a>
+<span class="source">Bloomberg</span></noscript>
+<div class="video-box"></div></div></div> <div class="additional-article"><div class="aa-inner"><a href="http://www.reuters.com/article/latestCrisis/idUSWBT013130" target="_blank" class="usg-AFQjCNFxh6qUUYnN0vXafys3CTLSVbGo5A ">US Senate reshuffles leaders of key committees</a> <span class="source">Reuters</span>
+
+</div></div>
+
+<div class="sources"><span class="source-link"><span><a target="_blank" class="usg-AFQjCNHD4rLnYIhmTp1TZbJhTMcrcVl_sA " href="http://firstread.msnbc.msn.com/archive/2009/09/09/2060182.aspx">msnbc.com</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNFhFTiHHMr2aA_ddg7RR-975rcu8g " href="http://www.foxbusiness.com/story/markets/industries/finance/dodd-remains-senate-banking-committee-chairman/">FOXBusiness</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNG6wV89HFjPeNH5Fadne98m6oBfOw " href="http://www.nbcconnecticut.com/news/politics/Dodd-Says-Hell-Keep-Banking-Role-58135342.html">NBC&nbsp;Connecticut</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNHYCYrrx_xFnoJTpdB9-_tmsUSPmw " href="http://www.arkansasbusiness.com/article.aspx?aid=117161.54928.129290">ArkansasSports360.com</a></span>
+</span>
+
+<div class="moreLinks" id="1308686596"><a class="more-coverage-text" href="/news/more?pz=1&amp;ned=us&amp;ncl=dFhfiJwr5bc2ThMcPke92Z2GdARKM&amp;topic=n">all 470 news articles&nbsp;&raquo;</a></div>
+
+
+<div class="yesscript lt"><a href="javascript:void(0)" class="email-link"><img class="icon email-icon" width="15" height="15" alt="" src="http://www.gstatic.com/news/img/cleardot.gif">Email this story</a></div>
+
+<div class="r"></div></div>
+</div>
+<div class="r"></div></div><div class="story cid-1309251903 l-en  headline-story thumbnail-true"><div class="thumbnail " style=""><a target="_blank" href="http://www.foxnews.com/politics/2009/09/08/sotomayor-gets-judicial-robes/" class="usg-AFQjCNFxLQeJcXUhf9iyvQBkdkiXX5jlBQ " title="FOXNews"><img src="http://nt0.ggpht.com/news/tbn/oADZaS7pPbVqtM/6.jpg" alt="" width="80" height="80"></a><div class="source"><a target="_blank" href="http://www.foxnews.com/politics/2009/09/08/sotomayor-gets-judicial-robes/">FOXNews</a></div></div>
+<h2 class="title"><a target="_blank" class="usg-AFQjCNGYFK5v9tOq_Iocp3yz7lEUA4rthA " href="http://www.reuters.com/article/vcCandidateFeed1/idUSN09412513">US court questions company campaign spending limits</a></h2>
+
+<div class="sub-title"><span class="source">Reuters</span>&nbsp;- <span class="author-link"><a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=author%3A%22James+Vicini%22&amp;scoring=n">James Vicini</a>, <a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=author%3A%22Deborah+Charles%22&amp;scoring=n">Deborah Charles</a></span>&nbsp;- <span class="date">&lrm;22 minutes ago&lrm;</span></div>
+<div class="body"><div class="snippet">WASHINGTON, Sept 9 (Reuters) - Corporate spending limits in US political campaigns may be too broad and silence free-speech rights of small businesses like a local hairdresser, Supreme Court conservatives said on Wednesday.</div>
+<div class="additional-article additional-video"><input type="hidden" class="video-url" value="http://www.youtube.com/watch?v=HoaPwASvE_w">
+<input type="hidden" class="video-usg" value="AFQjCNGjS2CzEIOf7EL7O4aDa4jylkK5Og">
+<div class="aa-inner"><span class="yesscript"><a class="js-link toggle more-zippy-toggle" id="HoaPwASvE_w" href="javascript:void(0);" onclick="return false;"><div class="icon"></div>Video:&nbsp;High Court To Hear 'Hillary Movie' Case - Bloomberg<img class="youtube-icon" src="http://www.gstatic.com/news/img/2326415520-video-youtube.gif" alt="" width="16" height="16"></a>
+<span class="source">Bloomberg</span></span>
+<noscript><a href="http://www.youtube.com/watch?v=HoaPwASvE_w">Video:&nbsp;
+High Court To Hear 'Hillary Movie' Case - Bloomberg
+<img class="youtube-icon" src="http://www.gstatic.com/news/img/2326415520-video-youtube.gif" alt="" width="16" height="16"></a>
+<span class="source">Bloomberg</span></noscript>
+<div class="video-box"></div></div></div> <div class="additional-article"><div class="aa-inner"><a href="http://www.nytimes.com/2009/09/10/us/politics/10scotus.html" target="_blank" class="usg-AFQjCNGLiPrAyDpFMGsw4mmcPktrbFUIxA ">Justices Pressed for Broad Ruling in Campaign Finance Case</a> <span class="source">New York Times</span>
+
+</div></div>
+
+<div class="sources"><span class="source-link"><span><a target="_blank" class="usg-AFQjCNEjFDcAawx6QgbteGxJg0TV3AMdBw " href="http://www.washingtonpost.com/wp-dyn/content/article/2009/09/09/AR2009090900170.html?hpid=topnews">Washington&nbsp;Post</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNHyVItwr2TPnDeCJS19ahlxvD8eng " href="http://www.cnn.com/2009/POLITICS/09/09/scotus.campaign.finance/">CNN</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNHp8TkB7o4DJEmDhyNKa6WWy51Acw " href="http://www.chicagotribune.com/news/nationworld/sns-dc-court-contributions,0,2613959.story">Chicago&nbsp;Tribune</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNHDHNyaOCliDbDq-ay5w1pqBydQuw " href="http://www.google.com/hostednews/ap/article/ALeqM5jm_6cAeFTeeZgHFLy1Eq3ovPgm_wD9AJUQU80">The&nbsp;Associated&nbsp;Press</a></span>
+</span>
+
+<div class="moreLinks" id="1309251903"><a class="more-coverage-text" href="/news/more?pz=1&amp;ned=us&amp;ncl=dIjMgUvl5ZTyepMqgMMfzD4zURbQM&amp;topic=n">all 1,086 news articles&nbsp;&raquo;</a></div>
+
+
+<div class="yesscript lt"><a href="javascript:void(0)" class="email-link"><img class="icon email-icon" width="15" height="15" alt="" src="http://www.gstatic.com/news/img/cleardot.gif">Email this story</a></div>
+
+<div class="r"></div></div>
+</div>
+<div class="r"></div></div><div class="story cid-1308531442 l-en  headline-story thumbnail-true"><div class="thumbnail " style=""><a target="_blank" href="http://www.nydailynews.com/news/2009/09/09/2009-09-09_power_players_from_from_bill_clinton_to_brian_williams_pay_homage_at_walter_cron.html" class="usg-AFQjCNGv-7Og-4I01CwzLccCBxxeIQrmyQ " title="New York Daily News"><img src="http://nt3.ggpht.com/news/tbn/s8ywwxsqYuB6RM/6.jpg" alt="" width="80" height="80"></a><div class="source"><a target="_blank" href="http://www.nydailynews.com/news/2009/09/09/2009-09-09_power_players_from_from_bill_clinton_to_brian_williams_pay_homage_at_walter_cron.html">New York Daily News</a></div></div>
+<h2 class="title"><a target="_blank" class="usg-AFQjCNHrrAwQg6tUBEuSO4_z2T398HWP6w " href="http://edition.cnn.com/2009/US/09/09/cronkite.memorial/">Friends, colleagues honor Walter Cronkite</a></h2>
+
+<div class="sub-title"><span class="source">CNN International</span>&nbsp;- <span class="date">&lrm;1 hour ago&lrm;</span></div>
+<div class="body"><div class="snippet">NEW YORK (CNN) -- Friends and colleagues of legendary CBS anchorman Walter Cronkite gathered Wednesday in New York&#39;s Lincoln Center to remember &quot;the most trusted man in America.</div>
+<div class="additional-article additional-video"><input type="hidden" class="video-url" value="http://www.youtube.com/watch?v=U8oauFqw--k">
+<input type="hidden" class="video-usg" value="AFQjCNEAHMW5cl2pwI0kOqGibCU_aIPblg">
+<div class="aa-inner"><span class="yesscript"><a class="js-link toggle more-zippy-toggle" id="U8oauFqw--k" href="javascript:void(0);" onclick="return false;"><div class="icon"></div>Video:&nbsp;Obama's Tribute to Cronkite<img class="youtube-icon" src="http://www.gstatic.com/news/img/2326415520-video-youtube.gif" alt="" width="16" height="16"></a>
+<span class="source">CBSNewsOnline</span></span>
+<noscript><a href="http://www.youtube.com/watch?v=U8oauFqw--k">Video:&nbsp;
+Obama's Tribute to Cronkite
+<img class="youtube-icon" src="http://www.gstatic.com/news/img/2326415520-video-youtube.gif" alt="" width="16" height="16"></a>
+<span class="source">CBSNewsOnline</span></noscript>
+<div class="video-box"></div></div></div> <div class="additional-article"><div class="aa-inner"><a href="http://latimesblogs.latimes.com/showtracker/2009/09/president-obama-calls-on-journalists-to-live-up-to-walter-cronkites-example.html" target="_blank" class="usg-AFQjCNHgJnARjuVi4QSD6TzXjh7JomlT9w ">President Obama calls on journalists to live up to Walter <b>...</b></a> <span class="source">Los Angeles Times</span>
+
+</div></div>
+
+<div class="sources"><span class="source-link"><span><a target="_blank" class="usg-AFQjCNGkiykwt4C08vSLh6GMXSWvbGff8w " href="http://www.google.com/hostednews/afp/article/ALeqM5hxF7n9o3xlMNM5y0n2saz_Vz4EnA">AFP</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNHfZLgDec4isu5eIpRiLw3wRGzkkA " href="http://mediadecoder.blogs.nytimes.com/2009/09/09/at-cronkite-memorial-talk-of-traditions/">New&nbsp;York&nbsp;Times</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNHegjiHXCvWoBGCmGj7AjgqoNQz7A " href="http://voices.washingtonpost.com/44/2009/09/09/obama_speaks_at_memorial_for_c.html?wprss=44">Washington&nbsp;Post</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNGV3mnBkll80PE-dtERd_DdFKNV9g " href="http://www.cbsnews.com/blogs/2009/09/09/politics/politicalhotsheet/entry5297844.shtml">CBS&nbsp;News</a></span>
+</span>
+
+<div class="moreLinks" id="1308531442"><a class="more-coverage-text" href="/news/more?pz=1&amp;ned=us&amp;ncl=d3fQcJcy7p_2qFMHpl-WA7uohHMvM&amp;topic=n">all 620 news articles&nbsp;&raquo;</a></div>
+
+
+<div class="yesscript lt"><a href="javascript:void(0)" class="email-link"><img class="icon email-icon" width="15" height="15" alt="" src="http://www.gstatic.com/news/img/cleardot.gif">Email this story</a></div>
+
+<div class="r"></div></div>
+</div>
+<div class="r"></div></div></div></div>
+<span class="yesscript"><div class="more-link"><a href="javascript:void(0);" onclick="return false;">Show more stories</a></div>
+<div class="fewer-link"><a href="javascript:void(0);" onclick="return false;">Show fewer stories</a></div>
+<div class="r"></div></span></div>
+<div class="r"></div></div></div></div>
+<div class="r row"></div> <a name="en_us:b"></a>
+<div class="section large-section ls-left" id="s-en_us:b"><div class="ls-wrapper"><div class="bar c-b"></div>
+<div id="en_us:b_h" class="basic-title b-b ">
+<h2 class=" text"><span class="yesscript"><div class="min-icon icon" style=""></div></span>
+<div class="lt section-title"><a href="/news/section?pz=1&amp;ned=us&amp;topic=b">Business&nbsp;&raquo;</a>
+</div>
+
+<span class="yesscript"><div class="close-icon icon"></div></span>
+<span class="yesscript"><div class="mod"><input type="hidden" class="edition" value="us">
+<input type="hidden" class="topic" value="b">
+<input type="hidden" class="name" value="Business">
+
+
+<input type="hidden" class="lang" value="en">
+<input type="hidden" class="num" value="3">
+<input type="hidden" class="id" value="en_us:b">
+<a class="edit-link rt" href="javascript:void(0);">edit</a>
+<a class="edit-link-close rt" href="javascript:void(0);" style="display: none;">close edit</a></div></span>
+</h2>
+
+
+
+<div class="r"></div></div>
+<div class="r"></div>
+<div class="b-b"><div class="edit-panel-stub"></div></div>
+<div class="blended-section2" style=""><div class="column1"><div class="wrapper"><div class="story cid-1309805439 l-en  headline-story thumbnail-true"><div class="thumbnail " style=""><a target="_blank" href="http://www.rte.ie/business/2009/0909/fed.html" class="usg-AFQjCNHbgraouJ_JonDGCdXCBS3goDeglA " title="RTE.ie"><img src="http://nt2.ggpht.com/news/tbn/bmYlZvnYTCL-eM/6.jpg" alt="" width="80" height="80"></a><div class="source"><a target="_blank" href="http://www.rte.ie/business/2009/0909/fed.html">RTE.ie</a></div></div>
+<h2 class="title"><a target="_blank" class="usg-AFQjCNFT9U-5YelTOV9HqA59yhxAnk_rNQ " href="http://www.bloomberg.com/apps/news?pid=20601068&amp;sid=adO.FvqQxB2c">Fed Says Economy Stable or Improving in Most of US</a></h2>
+
+<div class="sub-title"><span class="source">Bloomberg</span>&nbsp;- <span class="author-link"><a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=author%3A%22Scott+Lanman%22&amp;scoring=n">Scott Lanman</a></span>&nbsp;- <span class="date">&lrm;24 minutes ago&lrm;</span></div>
+<div class="body"><div class="snippet">Sept. 9 (Bloomberg) -- The Federal Reserve said 11 of its 12 regional banks reported signs of a stable or improving economy in July and August, adding anecdotal evidence that the worst US recession in seven decades is over.</div>
+<div class="additional-article"><div class="aa-inner"><a href="http://www.forbes.com/2009/09/09/briefing-americas-afternoon-markets-economy-federal-reserve.html" target="_blank" class="usg-AFQjCNFZqJRLhHanVvmF0m0ZQiywg4DC9A ">Fed&#39;s Beige Book: Signs Of Improvement</a> <span class="source">Forbes</span>
+
+</div></div> <div class="additional-article"><div class="aa-inner"><a href="http://www.washingtonpost.com/wp-dyn/content/article/2009/09/09/AR2009090902003.html" target="_blank" class="usg-AFQjCNGM54alxi_J9cWxvMAPW4-W1wex4g ">Fed Report Finds Tentative Economic Healing</a> <span class="source">Washington Post</span>
+
+</div></div>
+
+<div class="sources"><span class="source-link"><span><a target="_blank" class="usg-AFQjCNG-77wZ-kNnUCxKB4XcE4Lo3bj__Q " href="http://www.marketwatch.com/news/story.asp?guid=%7B5E82B8EA-2B9A-4455-A4AF-6B904558E3C0%7D">MarketWatch</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNGFYShsGBxKOtyDO6tLVOUqradGCA " href="http://www.foxbusiness.com/story/markets/futures-flat-beige-book-tech-events/">FOXBusiness</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNELPn9F7wqXQZVBmXZGva15DKia_Q " href="http://www.google.com/hostednews/ap/article/ALeqM5gNiyJ905Ho0Ur96V2TQhsBX19lGwD9AJVAT81">The&nbsp;Associated&nbsp;Press</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNH33pt8sYsSWh4EiJJzd-D9FrPZUg " href="http://online.wsj.com/article/SB125251848881396401.html">Wall&nbsp;Street&nbsp;Journal</a></span>
+</span>
+
+<div class="moreLinks" id="1309805439"><a class="more-coverage-text" href="/news/more?pz=1&amp;ned=us&amp;ncl=dVNOZHjffUAmqmM8Iyl2SRR2hCrlM&amp;topic=b">all 327 news articles&nbsp;&raquo;</a></div>
+
+
+<div class="yesscript lt"><a href="javascript:void(0)" class="email-link"><img class="icon email-icon" width="15" height="15" alt="" src="http://www.gstatic.com/news/img/cleardot.gif">Email this story</a></div>
+
+<div class="r"></div></div>
+</div>
+<div class="r"></div></div><div class="story cid-1308248047 l-en  headline-story thumbnail-true"><div class="thumbnail " style=""><a target="_blank" href="http://www.telegraph.co.uk/finance/newsbysector/banksandfinance/6164121/Andrew-Cuomo-may-charge-BoA-over-Merrill-deal.html" class="usg-AFQjCNGyvA5f6FIXojnCl3YGrLsz2L-reA " title="Telegraph.co.uk"><img src="http://nt0.ggpht.com/news/tbn/NP_9xHwZnLspGM/6.jpg" alt="" width="80" height="80"></a><div class="source"><a target="_blank" href="http://www.telegraph.co.uk/finance/newsbysector/banksandfinance/6164121/Andrew-Cuomo-may-charge-BoA-over-Merrill-deal.html">Telegraph.co.uk</a></div></div>
+<h2 class="title"><a target="_blank" class="usg-AFQjCNGnLaeneMNqlWQehk4zi7V2nujE2A " href="http://www.reuters.com/article/domesticNews/idUSTRE5885DD20090909">BofA letter rejects charges by Cuomo</a></h2>
+
+<div class="sub-title"><span class="source">Reuters</span>&nbsp;- <span class="author-link"><a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=author%3A%22Joe+Rauch%22&amp;scoring=n">Joe Rauch</a>, <a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=author%3A%22Matthew+Lewis%22&amp;scoring=n">Matthew Lewis</a></span>&nbsp;- <span class="date">&lrm;22 minutes ago&lrm;</span></div>
+<div class="body"><div class="snippet">NEW YORK (Reuters) - Bank of America Corp shot back at New York Attorney General Andrew Cuomo, saying he is &quot;simply wrong&quot; to claim that the bank is hindering an investigation into its takeover of Merrill Lynch &amp; Co.</div>
+<div class="additional-article additional-video"><input type="hidden" class="video-url" value="http://www.youtube.com/watch?v=CAknlh7RLbU">
+<input type="hidden" class="video-usg" value="AFQjCNF5q54VVQxYS97G0-czX0JSloxBXQ">
+<div class="aa-inner"><span class="yesscript"><a class="js-link toggle more-zippy-toggle" id="CAknlh7RLbU" href="javascript:void(0);" onclick="return false;"><div class="icon"></div>Video:&nbsp;BAC Settles Cases, Still May Face Suit - Bloomberg<img class="youtube-icon" src="http://www.gstatic.com/news/img/2326415520-video-youtube.gif" alt="" width="16" height="16"></a>
+<span class="source">Bloomberg</span></span>
+<noscript><a href="http://www.youtube.com/watch?v=CAknlh7RLbU">Video:&nbsp;
+BAC Settles Cases, Still May Face Suit - Bloomberg
+<img class="youtube-icon" src="http://www.gstatic.com/news/img/2326415520-video-youtube.gif" alt="" width="16" height="16"></a>
+<span class="source">Bloomberg</span></noscript>
+<div class="video-box"></div></div></div> <div class="additional-article"><div class="aa-inner"><a href="http://www.bloomberg.com/apps/news?pid=20601087&amp;sid=aFQl2sbxzen0" target="_blank" class="usg-AFQjCNGwX96s34y13xtCYJDp8xHMwNfaig ">Bank of America Calls Cuomo&#39;s Allegations &#39;Spurious&#39;</a> <span class="source">Bloomberg</span>
+
+</div></div>
+
+<div class="sources"><span class="source-link"><span><a target="_blank" class="usg-AFQjCNFvSdxBVfHh9lk4hUtNRi4TenRx6g " href="http://www.google.com/hostednews/ap/article/ALeqM5hRIgZPkKY4Ia0ET6g7t5N0b387TQD9AJVG9G1">The&nbsp;Associated&nbsp;Press</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNG_akjWl4m-kQhJga49NshapTrHeQ " href="http://online.wsj.com/article/SB125251011295295909.html?mod=googlenews_wsj">Wall&nbsp;Street&nbsp;Journal</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNHqCGhCvxpCorAqNcVkGKhK29U_pQ " href="http://money.cnn.com/news/newsfeeds/articles/djf500/200909091055DOWJONESDJONLINE000444_FORTUNE5.htm">CNNMoney.com</a></span>
+</span>
+
+<div class="moreLinks" id="1308248047"><a class="more-coverage-text" href="/news/more?pz=1&amp;ned=us&amp;ncl=dRzTxcKdq8Uvg5MX-zQa_Wu5I-eJM&amp;topic=b">all 323 news articles&nbsp;&raquo;</a></div>
+
+<div class="stock-tckrs"><a href="http://www.google.com/finance?client=news&amp;gl=us&amp;q=BAC&amp;hl=en" style="background-image: url(&quot;http://www.gstatic.com/news/img/2023891182-stock-ticker.gif&quot;);" class="stock-tckr">BAC</a>
+- <a href="http://www.google.com/finance?client=news&amp;gl=us&amp;q=CS&amp;hl=en">CS</a>
+</div>
+<div class="yesscript lt"><a href="javascript:void(0)" class="email-link"><img class="icon email-icon" width="15" height="15" alt="" src="http://www.gstatic.com/news/img/cleardot.gif">Email this story</a></div>
+
+<div class="r"></div></div>
+</div>
+<div class="r"></div></div><div class="story cid-1309885247 l-en  headline-story thumbnail-true"><div class="thumbnail " style=""><a target="_blank" href="http://www.nj.com/business/nj-real-estate/index.ssf/2009/09/obamas_mortgage_relief_program.html" class="usg-AFQjCNGNocJb_g2fwb5vdmdih3SvkQneQQ " title="The Star-Ledger - NJ.com"><img src="http://nt1.ggpht.com/news/tbn/0al8xdg7_oqLXM/6.jpg" alt="" width="80" height="80"></a><div class="source"><a target="_blank" href="http://www.nj.com/business/nj-real-estate/index.ssf/2009/09/obamas_mortgage_relief_program.html">The Star-Ledger - NJ.com</a></div></div>
+<h2 class="title"><a target="_blank" class="usg-AFQjCNHpobNuJtmbDpdzAq9jC_nCtywDBA " href="http://online.wsj.com/article/SB125250943110595845.html">Foreclosure Effort Made Modest Strides in August</a></h2>
+
+<div class="sub-title"><span class="source">Wall Street Journal</span>&nbsp;- <span class="author-link"><a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=author%3A%22Jessica+Holzer%22&amp;scoring=n">Jessica Holzer</a></span>&nbsp;- <span class="date">&lrm;3 hours ago&lrm;</span></div>
+<div class="body"><div class="snippet">WASHINGTON -- Some 12% of eligible borrowers have started trial loan modifications under the Obama administration&#39;s $75 billion mortgage foreclosure-prevention plan, according to a Treasury report released Wednesday.</div>
+<div class="additional-article"><div class="aa-inner"><a href="http://www.washingtonpost.com/wp-dyn/content/article/2009/09/09/AR2009090901697.html?hpid=moreheadlines" target="_blank" class="usg-AFQjCNEI8IGcf_FwKtWqY7rQ-h69kly9KA ">Over 350000 Homeowners Aided by Federal Mortgage Program</a> <span class="source">Washington Post</span>
+
+</div></div> <div class="additional-article"><div class="aa-inner"><a href="http://money.cnn.com/2009/09/09/news/economy/Obama_foreclosure_rescue/?postversion=2009090910" target="_blank" class="usg-AFQjCNG9-V11zY-UO5rUi8RoWrk6CP9RQA ">12% of eligible borrowers helped by Obama plan</a> <span class="source">CNNMoney.com</span>
+
+</div></div>
+
+<div class="sources"><span class="source-link"><span><a target="_blank" class="usg-AFQjCNFb0xQTDjpDE8tCtHqrYpN1RPomnQ " href="http://www.forbes.com/afxnewslimited/feeds/afx/2009/09/09/afx6863970.html">Forbes</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNGghPkCyg2oJZu23b71-RDftpueMw " href="http://seattletimes.nwsource.com/html/soundeconomywithjontalton/2009832276_guess_who_got_left_out_of_the.html">Seattle&nbsp;Times</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNHZ-PGnxsJq3_yhXiWm0waPOXVoSA " href="http://www.mortgageorb.com/e107_plugins/content/content.php?content.4265">Mortgageorb</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNHnhMEyOCKmpskkBlIrVgmDkCMDxA " href="http://www.businessinsider.com/treasury-expect-millions-of-more-foreclosures-2009-9">The&nbsp;Business&nbsp;Insider</a></span>
+</span>
+
+<div class="moreLinks" id="1309885247"><a class="more-coverage-text" href="/news/more?pz=1&amp;ned=us&amp;ncl=dTpjS2vKLIwZNTM5aIvP2Ax-S9TAM&amp;topic=b">all 467 news articles&nbsp;&raquo;</a></div>
+
+
+<div class="yesscript lt"><a href="javascript:void(0)" class="email-link"><img class="icon email-icon" width="15" height="15" alt="" src="http://www.gstatic.com/news/img/cleardot.gif">Email this story</a></div>
+
+<div class="r"></div></div>
+</div>
+<div class="r"></div></div></div></div>
+<span class="yesscript"><div class="more-link"><a href="javascript:void(0);" onclick="return false;">Show more stories</a></div>
+<div class="fewer-link"><a href="javascript:void(0);" onclick="return false;">Show fewer stories</a></div>
+<div class="r"></div></span></div>
+<div class="r"></div></div></div>
+<a name="en_us:t"></a>
+<div class="section large-section ls-right" id="s-en_us:t"><div class="ls-wrapper"><div class="bar c-t"></div>
+<div id="en_us:t_h" class="basic-title b-t ">
+<h2 class=" text"><span class="yesscript"><div class="min-icon icon" style=""></div></span>
+<div class="lt section-title"><a href="/news/section?pz=1&amp;ned=us&amp;topic=t">Sci/Tech&nbsp;&raquo;</a>
+</div>
+
+<span class="yesscript"><div class="close-icon icon"></div></span>
+<span class="yesscript"><div class="mod"><input type="hidden" class="edition" value="us">
+<input type="hidden" class="topic" value="t">
+<input type="hidden" class="name" value="Sci/Tech">
+
+
+<input type="hidden" class="lang" value="en">
+<input type="hidden" class="num" value="3">
+<input type="hidden" class="id" value="en_us:t">
+<a class="edit-link rt" href="javascript:void(0);">edit</a>
+<a class="edit-link-close rt" href="javascript:void(0);" style="display: none;">close edit</a></div></span>
+</h2>
+
+
+
+<div class="r"></div></div>
+<div class="r"></div>
+<div class="b-t"><div class="edit-panel-stub"></div></div>
+<div class="blended-section2" style=""><div class="column1"><div class="wrapper"><div class="story cid-1309505625 l-en  headline-story thumbnail-true"><div class="thumbnail " style=""><a target="_blank" href="http://news.bbc.co.uk/2/hi/science/nature/8246556.stm" class="usg-AFQjCNFqlAaD4zkdjWJMSiJRIdgr8UbBaQ " title="BBC News"><img src="http://nt2.ggpht.com/news/tbn/GjG6u02ojZpgOM/6.jpg" alt="" width="80" height="80"></a><div class="source"><a target="_blank" href="http://news.bbc.co.uk/2/hi/science/nature/8246556.stm">BBC News</a></div></div>
+<h2 class="title"><a target="_blank" class="usg-AFQjCNEFuMWv6oRgc9540NgKwaC4expShQ " href="http://www.washingtonpost.com/wp-dyn/content/gallery/2009/09/09/GA2009090901997.html">NASA Unveils New Hubble Photos</a></h2>
+
+<div class="sub-title"><span class="source">Washington Post</span>&nbsp;- <span class="date">&lrm;20 minutes ago&lrm;</span></div>
+<div class="body"><div class="snippet">New images captured by NASA&#39;s Hubble Space Telescope allow astronomers to glimpse celestial objects never seen before in great detail.</div>
+<div class="additional-article additional-video"><input type="hidden" class="video-url" value="http://www.youtube.com/watch?v=dml0TwTEzlo">
+<input type="hidden" class="video-usg" value="AFQjCNEGV66V_oEX5T_SmDBOtFs4oCX6zA">
+<div class="aa-inner"><span class="yesscript"><a class="js-link toggle more-zippy-toggle" id="dml0TwTEzlo" href="javascript:void(0);" onclick="return false;"><div class="icon"></div>Video:&nbsp;First Images From Refreshed Hubble Telescope<img class="youtube-icon" src="http://www.gstatic.com/news/img/2326415520-video-youtube.gif" alt="" width="16" height="16"></a>
+<span class="source">The Associated Press</span></span>
+<noscript><a href="http://www.youtube.com/watch?v=dml0TwTEzlo">Video:&nbsp;
+First Images From Refreshed Hubble Telescope
+<img class="youtube-icon" src="http://www.gstatic.com/news/img/2326415520-video-youtube.gif" alt="" width="16" height="16"></a>
+<span class="source">The Associated Press</span></noscript>
+<div class="video-box"></div></div></div> <div class="additional-article"><div class="aa-inner"><a href="http://www.wired.com/wiredscience/2009/09/hubble_gallery/" target="_blank" class="usg-AFQjCNEVSxjqY_zDwandg9EXx4c8_TQRKg ">Hubble Is Back! With New Stunning Images</a> <span class="source">Wired News</span>
+
+</div></div>
+
+<div class="sources"><span class="source-link"><span><a target="_blank" class="usg-AFQjCNH4SFRCNxE6ZVZFmY3zlpTij5Yzcw " href="http://www.google.com/hostednews/ap/article/ALeqM5iGNUG44zROYVePVMCHXC40Wfa1MgD9AJUPE00">The&nbsp;Associated&nbsp;Press</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNFa0-T_6mblBK0u0GaIuHetK88Viw " href="http://www.msnbc.msn.com/id/32757086/ns/technology_and_science-space/">msnbc.com</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNFqlAaD4zkdjWJMSiJRIdgr8UbBaQ " href="http://news.bbc.co.uk/2/hi/science/nature/8246556.stm">BBC&nbsp;News</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNF2kvuPUOdnKcRBAnJi1eSNhCx48Q " href="http://www.usatoday.com/tech/science/space/2009-09-09-hubble_N.htm">USA&nbsp;Today</a></span>
+</span>
+
+<div class="moreLinks" id="1309505625"><a class="more-coverage-text" href="/news/more?pz=1&amp;ned=us&amp;ncl=dX5Hgducj0mqKLMIwiovEf9bfahPM&amp;topic=t">all 294 news articles&nbsp;&raquo;</a></div>
+
+
+<div class="yesscript lt"><a href="javascript:void(0)" class="email-link"><img class="icon email-icon" width="15" height="15" alt="" src="http://www.gstatic.com/news/img/cleardot.gif">Email this story</a></div>
+
+<div class="r"></div></div>
+</div>
+<div class="r"></div></div><div class="story cid-1309864424 l-en  headline-story thumbnail-true"><div class="thumbnail " style=""><a target="_blank" href="http://www.chicagobusiness.com/cgi-bin/news.pl?id=35393" class="usg-AFQjCNHc8OY5Sy_6rquIrcGx445024VV2g " title="Crain&#39;s Chicago Business"><img src="http://nt2.ggpht.com/news/tbn/4tDwsqILuFMIuM/6.jpg" alt="" width="80" height="80"></a><div class="source"><a target="_blank" href="http://www.chicagobusiness.com/cgi-bin/news.pl?id=35393">Crain&#39;s Chicago Business</a></div></div>
+<h2 class="title"><a target="_blank" class="usg-AFQjCNHH7EZXnQ_wrP77YzHB1ovG4gYjxw " href="http://www.crn.com/mobile/219700323">AT&amp;T To Jack Up 3G Speeds With HSPA 7.2</a></h2>
+
+<div class="sub-title"><span class="source">ChannelWeb</span>&nbsp;- <span class="author-link"><a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=author%3A%22Andrew+R+Hickey%22&amp;scoring=n">Andrew R Hickey</a></span>&nbsp;- <span class="date">&lrm;51 minutes ago&lrm;</span></div>
+<div class="body"><div class="snippet">By Andrew R Hickey, channelweb AT&amp;T is feeling the need for speed and said it will boost 3G performance in six major cities this year as it rolls out new High Speed Packet Access (HSPA) 7.2 technology.</div>
+<div class="additional-article"><div class="aa-inner"><a href="http://www.informationweek.com/news/mobility/business/showArticle.jhtml?articleID=219700317" target="_blank" class="usg-AFQjCNHMHYVtUe7IAsRqQSTa2mzjEnCaJw ">AT&amp;T Details 3G Upgrade Plans</a> <span class="source">InformationWeek</span>
+
+</div></div> <div class="additional-article"><div class="aa-inner"><a href="http://online.wsj.com/article/BT-CO-20090909-712412.html" target="_blank" class="usg-AFQjCNFUWpsL6XYgWVtw783gmUWJKqAOzw ">AT&amp;T To Boost Network Speeds In Six Major Markets</a> <span class="source">Wall Street Journal</span>
+
+</div></div>
+
+<div class="sources"><span class="source-link"><span><a target="_blank" class="usg-AFQjCNEjTXPqMgdZbwZkNTnfUzV8qN69WA " href="http://www.theregister.co.uk/2009/09/09/att_hspa_upgrade/">Register</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNHJb73YUzF4rUXsZv5kVcCMmLys6Q " href="http://venturebeat.com/2009/09/09/att-to-upgrade-network-but-san-francisco-iphone-users-are-out-of-luck/">VentureBeat</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNH1oXcKj0bfZthFtQ86wUF6RLx7RA " href="http://www.google.com/hostednews/ap/article/ALeqM5i5cOei7L4nKwikwzZtBAi5hYQC_gD9AJST6G0">The&nbsp;Associated&nbsp;Press</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNF9EacKxfeixe2xuEiCPDULdudZpA " href="http://www.foxbusiness.com/story/markets/industries/telecom/att-announces-cities-faster-g-technology/">FOXBusiness</a></span>
+</span>
+
+<div class="moreLinks" id="1309864424"><a class="more-coverage-text" href="/news/more?pz=1&amp;ned=us&amp;ncl=dbVVHWYuV6E5JVMwI1qiReUWX3kbM&amp;topic=t">all 217 news articles&nbsp;&raquo;</a></div>
+
+
+<div class="yesscript lt"><a href="javascript:void(0)" class="email-link"><img class="icon email-icon" width="15" height="15" alt="" src="http://www.gstatic.com/news/img/cleardot.gif">Email this story</a></div>
+
+<div class="r"></div></div>
+</div>
+<div class="r"></div></div><div class="story cid-1309262776 l-en  headline-story thumbnail-true"><div class="thumbnail " style=""><a target="_blank" href="http://news.bbc.co.uk/2/hi/technology/8245725.stm" class="usg-AFQjCNEP5hqTs8e4bSUKG1Tpy0V53rq64g " title="BBC News"><img src="http://nt3.ggpht.com/news/tbn/a7zpSKhQVf5_2M/6.jpg" alt="" width="80" height="80"></a><div class="source"><a target="_blank" href="http://news.bbc.co.uk/2/hi/technology/8245725.stm">BBC News</a></div></div>
+<h2 class="title"><a target="_blank" class="usg-AFQjCNHIfcL8qat76LLW7ooWjxvIifjPxQ " href="http://www.informationweek.com/news/mobility/smart_phones/showArticle.jhtml?articleID=219700310&amp;subSection=All+Stories">Palm &#39;Pixi&#39; Extends WebOS Lineup</a></h2>
+
+<div class="sub-title"><span class="source">InformationWeek</span>&nbsp;- <span class="author-link"><a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=author%3A%22Marin+Perez%22&amp;scoring=n">Marin Perez</a></span>&nbsp;- <span class="date">&lrm;9 minutes ago&lrm;</span></div>
+<div class="body"><div class="snippet">The second webOS handset will be thinner and cheaper than the Pre, and will be exclusive to Sprint until at least the end of the year.</div>
+<div class="additional-article"><div class="aa-inner"><a href="http://www.computerworld.com/s/article/9137756/Palm_debuts_Pixi_smartphone_its_second_using_webOS_?taxonomyId=75" target="_blank" class="usg-AFQjCNHAad6PrdY29Fx6eXILgi1uIfROAg ">Palm debuts Pixi smartphone, its second using webOS</a> <span class="source">Computerworld</span>
+
+</div></div> <div class="additional-article"><div class="aa-inner"><a href="http://www.cnet.com/8301-13952_1-10347738-81.html" target="_blank" class="usg-AFQjCNH7-S7aKwvjcN0JHbbENFEwR3-11A ">The 404 421: Where Palm sprinkles Pixi dust on the new Apple ipods</a> <span class="source">CNET News</span>
+
+</div></div>
+
+<div class="sources"><span class="source-link"><span><a target="_blank" class="usg-AFQjCNE72D9Gm5-dWewfkOovAudRzSzWdw " href="http://www.mediapost.com/publications/?fa=Articles.showArticle&amp;art_aid=113227">Mediapost.com</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNGcMSyRiB7fSh2jYTSJmQ5iJkMl0Q " href="http://www.google.com/hostednews/ap/article/ALeqM5jKiPbXzY4LhygmnwqWmVv-1cl0rwD9AJT3203">The&nbsp;Associated&nbsp;Press</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNF4ukVUVc8pWTuOrXXWaujZjnSOHg " href="http://www.businessweek.com/investor/content/sep2009/pi2009099_707153.htm">BusinessWeek</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNFbLz339PRJLLjGH-XDQCTF7T5SlA " href="http://online.barrons.com/article/SB125244955075693853.html">Barron's</a></span>
+</span>
+
+<div class="moreLinks" id="1309262776"><a class="more-coverage-text" href="/news/more?pz=1&amp;ned=us&amp;ncl=ds9X20yFpq7LPXMp9YlM52mfdpiGM&amp;topic=t">all 748 news articles&nbsp;&raquo;</a></div>
+
+
+<div class="yesscript lt"><a href="javascript:void(0)" class="email-link"><img class="icon email-icon" width="15" height="15" alt="" src="http://www.gstatic.com/news/img/cleardot.gif">Email this story</a></div>
+
+<div class="r"></div></div>
+</div>
+<div class="r"></div></div></div></div>
+<span class="yesscript"><div class="more-link"><a href="javascript:void(0);" onclick="return false;">Show more stories</a></div>
+<div class="fewer-link"><a href="javascript:void(0);" onclick="return false;">Show fewer stories</a></div>
+<div class="r"></div></span></div>
+<div class="r"></div></div></div>
+<div class="r row"></div> <a name="en_us:e"></a>
+<div class="section large-section ls-left" id="s-en_us:e"><div class="ls-wrapper"><div class="bar c-e"></div>
+<div id="en_us:e_h" class="basic-title b-e ">
+<h2 class=" text"><span class="yesscript"><div class="min-icon icon" style=""></div></span>
+<div class="lt section-title"><a href="/news/section?pz=1&amp;ned=us&amp;topic=e">Entertainment&nbsp;&raquo;</a>
+</div>
+
+<span class="yesscript"><div class="close-icon icon"></div></span>
+<span class="yesscript"><div class="mod"><input type="hidden" class="edition" value="us">
+<input type="hidden" class="topic" value="e">
+<input type="hidden" class="name" value="Entertainment">
+
+
+<input type="hidden" class="lang" value="en">
+<input type="hidden" class="num" value="3">
+<input type="hidden" class="id" value="en_us:e">
+<a class="edit-link rt" href="javascript:void(0);">edit</a>
+<a class="edit-link-close rt" href="javascript:void(0);" style="display: none;">close edit</a></div></span>
+</h2>
+
+
+
+<div class="r"></div></div>
+<div class="r"></div>
+<div class="b-e"><div class="edit-panel-stub"></div></div>
+<div class="blended-section2" style=""><div class="column1"><div class="wrapper"><div class="story cid-1309881623 l-en  headline-story thumbnail-true"><div class="thumbnail " style=""><a target="_blank" href="http://www.cbc.ca/arts/music/story/2009/09/09/cma-awards.html" class="usg-AFQjCNFkEuWddlTFB76p0PjnqthCfFviDQ " title="CBC.ca"><img src="http://nt0.ggpht.com/news/tbn/5FRD_H2nbWq35M/6.jpg" alt="" width="80" height="80"></a><div class="source"><a target="_blank" href="http://www.cbc.ca/arts/music/story/2009/09/09/cma-awards.html">CBC.ca</a></div></div>
+<h2 class="title"><a target="_blank" class="usg-AFQjCNE5qgpKgQfaIZJnMRxiBEzoUgIylg " href="http://goldderby.latimes.com/awards_goldderby/2009/09/brad-paisley-leads-with-6-cma-nominations-entertainment-news-1357908.html">Brad Paisley leads with six CMA nominations</a></h2>
+
+<div class="sub-title"><span class="source">Los Angeles Times</span>&nbsp;- <span class="date">&lrm;1 hour ago&lrm;</span></div>
+<div class="body"><div class="snippet">Brad Paisley will sure be busy at this year&#39;s Country Music Association Awards, airing live on ABC on Nov. 11. Not only is Paisley hosting the kudocast for the second year in a row with Carrie Underwood, but he is contending for six awards.</div>
+<div class="additional-article"><div class="aa-inner"><a href="http://music-mix.ew.com/2009/09/09/cma-nominees-2009/" target="_blank" class="usg-AFQjCNHhC0cWdwngHlPgnBEidcbjcidoJA ">Brad Paisley leads CMA nominees. Did your favorite get a nod?</a> <span class="source">Entertainment Weekly</span>
+
+</div></div> <div class="additional-article"><div class="aa-inner"><a href="http://www.people.com/people/article/0,,20303264,00.html" target="_blank" class="usg-AFQjCNE5D047HmQmoX5ysSbAh8fU4WlCMg ">Taylor Swift Likens Four CMA Nods to Christmas</a> <span class="source">People Magazine</span>
+
+</div></div>
+
+<div class="sources"><span class="source-link"><span><a target="_blank" class="usg-AFQjCNEr53mf1ToSy-3S8_PAC46Jv_MoeQ " href="http://www.google.com/hostednews/ap/article/ALeqM5hIBcQEUk8E8sRSF6zFMZ1_aOE2OwD9AJV0MG0">The&nbsp;Associated&nbsp;Press</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNECuI-e-_FjpW2z0evKsamh4MoxUg " href="http://abcnews.go.com/Entertainment/wireStory?id=8527557">ABC&nbsp;News</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNEiIRnF8jwJFwRI7l1u8tcjofTByw " href="http://www.billboard.com/news/brad-paisley-taylor-swift-keith-urban-lead-1004010531.story">Billboard</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNHW-s3Kw_LMfrtzc8w0sM4qLfn1xQ " href="http://www.eonline.com/uberblog/b143204_can_taylor_swift_crack_cma_awards_glass.html">E!&nbsp;Online</a></span>
+</span>
+
+<div class="moreLinks" id="1309881623"><a class="more-coverage-text" href="/news/more?pz=1&amp;ned=us&amp;ncl=dEdRCJr4aC6bmzMu_l24ajeCQ9sSM&amp;topic=e">all 661 news articles&nbsp;&raquo;</a></div>
+
+
+<div class="yesscript lt"><a href="javascript:void(0)" class="email-link"><img class="icon email-icon" width="15" height="15" alt="" src="http://www.gstatic.com/news/img/cleardot.gif">Email this story</a></div>
+
+<div class="r"></div></div>
+</div>
+<div class="r"></div></div><div class="story cid-1309231468 l-en  headline-story thumbnail-true"><div class="thumbnail " style=""><a target="_blank" href="http://www.telegraph.co.uk/news/newstopics/debates/6161750/Am-I-the-only-person-who-doesnt-own-a-Beatles-album.html" class="usg-AFQjCNGSxEH5gcj6ZmZ6oKASPIZcEu80Jw " title="Telegraph.co.uk"><img src="http://nt3.ggpht.com/news/tbn/w2pvZeDPqazl7M/6.jpg" alt="" width="80" height="80"></a><div class="source"><a target="_blank" href="http://www.telegraph.co.uk/news/newstopics/debates/6161750/Am-I-the-only-person-who-doesnt-own-a-Beatles-album.html">Telegraph.co.uk</a></div></div>
+<h2 class="title"><a target="_blank" class="usg-AFQjCNEI0cHwSOZbMJhWMpvB8iprXFsO4g " href="http://newsroom.mtv.com/2009/09/09/pearl-jams-mike-mccready-beatles-fan-stones-guy/">Pearl Jam&#39;s Mike McCready: Beatles Fan, Stones Guy</a></h2>
+
+<div class="sub-title"><span class="source">MTV.com</span>&nbsp;- <span class="author-link"><a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=author%3A%22Kyle+Anderson%22&amp;scoring=n">Kyle Anderson</a></span>&nbsp;- <span class="date">&lrm;2 hours ago&lrm;</span></div>
+<div class="body"><div class="snippet">According to Uma Thurman&#39;s character in &quot;Pulp Fiction,&quot; there are only two types of people in the world: Beatles people and Elvis people.</div>
+<div class="additional-article additional-video"><input type="hidden" class="video-url" value="http://www.youtube.com/watch?v=z5LUodTTwOo">
+<input type="hidden" class="video-usg" value="AFQjCNFQrOErcfQ4vfsxS0MGloNZ8kSSpw">
+<div class="aa-inner"><span class="yesscript"><a class="js-link toggle more-zippy-toggle" id="z5LUodTTwOo" href="javascript:void(0);" onclick="return false;"><div class="icon"></div>Video:&nbsp;Early Backstage: Beatles Rock Band<img class="youtube-icon" src="http://www.gstatic.com/news/img/2326415520-video-youtube.gif" alt="" width="16" height="16"></a>
+<span class="source">CBSNewsOnline</span></span>
+<noscript><a href="http://www.youtube.com/watch?v=z5LUodTTwOo">Video:&nbsp;
+Early Backstage: Beatles Rock Band
+<img class="youtube-icon" src="http://www.gstatic.com/news/img/2326415520-video-youtube.gif" alt="" width="16" height="16"></a>
+<span class="source">CBSNewsOnline</span></noscript>
+<div class="video-box"></div></div></div> <div class="additional-article"><div class="aa-inner"><a href="http://music-mix.ew.com/2009/09/09/the-beatles-rock-band-paul-yoko-rolling-stone/" target="_blank" class="usg-AFQjCNFP7sXLrzVOHxxyvwMBK4F9G5tZAA ">&#39;The Beatles: Rock Band&#39; is out today: Harmonix boss Alex <b>...</b></a> <span class="source">Entertainment Weekly</span>
+
+</div></div>
+
+<div class="sources"><span class="source-link"><span><a target="_blank" class="usg-AFQjCNGXIqv-Q_ETX0awvjADnWxWVwngHg " href="http://www.newsday.com/long-island/nassau/9-9-09-has-its-draw-on-long-island-1.1433128">Newsday</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNHTs_gGP-a1MD1ywW1bC3HW0XvfwA " href="http://www.latimes.com/entertainment/news/la-et-beatles9-2009sep09,0,1897312.story">Los&nbsp;Angeles&nbsp;Times</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNFtVeZtYk3MH2f9pjomPt9Zl7_cfQ " href="http://www.google.com/hostednews/ap/article/ALeqM5jVpHNhom5BSGvnMnA756828lirFgD9AJROM81">The&nbsp;Associated&nbsp;Press</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNFZfic7Ecy0w06vz92-BMHZxl_yeg " href="http://www.voanews.com/english/2009-09-09-voa26.cfm">Voice&nbsp;of&nbsp;America</a></span>
+</span>
+
+<div class="moreLinks" id="1309231468"><a class="more-coverage-text" href="/news/more?pz=1&amp;ned=us&amp;ncl=dETiPf9y-BQ5HdM479WFGMIClPccM&amp;topic=e">all 1,440 news articles&nbsp;&raquo;</a></div>
+
+
+<div class="yesscript lt"><a href="javascript:void(0)" class="email-link"><img class="icon email-icon" width="15" height="15" alt="" src="http://www.gstatic.com/news/img/cleardot.gif">Email this story</a></div>
+
+<div class="r"></div></div>
+</div>
+<div class="r"></div></div><div class="story cid-1309856145 l-en  headline-story thumbnail-true"><div class="thumbnail " style=""><a target="_blank" href="http://www.sfgate.com/cgi-bin/blogs/crime/detail?&amp;entry_id=47082" class="usg-AFQjCNG2QHwqwfFD0TYvo_VZ90wzNPQ9ZA " title="San Francisco Chronicle"><img src="http://nt2.ggpht.com/news/tbn/7i4EdVQnIzWdyM/6.jpg" alt="" width="80" height="80"></a><div class="source"><a target="_blank" href="http://www.sfgate.com/cgi-bin/blogs/crime/detail?&amp;entry_id=47082">San Francisco Chronicle</a></div></div>
+<h2 class="title"><a target="_blank" class="usg-AFQjCNHcjAHJeHiGJ81vqV7xtCHnj5bSyA " href="http://today.msnbc.msn.com/id/32753594/ns/today-today_people/?ns=today-today_people">Chilling songs by accused kidnapper surface</a></h2>
+
+<div class="sub-title"><span class="source">msnbc.com</span>&nbsp;- <span class="date">&lrm;28 minutes ago&lrm;</span></div>
+<div class="body"><div class="snippet">Songs written and performed decades ago by Phillip Garrido may reveal obsessions that led to the kidnapping and 18-year captivity of Jaycee Dugard, of which he is accused.</div>
+<div class="additional-article additional-video"><input type="hidden" class="video-url" value="http://www.youtube.com/watch?v=6fEPTnU56cM">
+<input type="hidden" class="video-usg" value="AFQjCNEe7cKr2Ntph-pBCQ4xOFbguaVIbg">
+<div class="aa-inner"><span class="yesscript"><a class="js-link toggle more-zippy-toggle" id="6fEPTnU56cM" href="javascript:void(0);" onclick="return false;"><div class="icon"></div>Video:&nbsp;Bone Near Garrido's Home Likely Human<img class="youtube-icon" src="http://www.gstatic.com/news/img/2326415520-video-youtube.gif" alt="" width="16" height="16"></a>
+<span class="source">The Associated Press</span></span>
+<noscript><a href="http://www.youtube.com/watch?v=6fEPTnU56cM">Video:&nbsp;
+Bone Near Garrido's Home Likely Human
+<img class="youtube-icon" src="http://www.gstatic.com/news/img/2326415520-video-youtube.gif" alt="" width="16" height="16"></a>
+<span class="source">The Associated Press</span></noscript>
+<div class="video-box"></div></div></div> <div class="additional-article"><div class="aa-inner"><a href="http://www.foxnews.com/story/0,2933,548082,00.html" target="_blank" class="usg-AFQjCNGp7ZQKWhocEJcZujaKMhjhOTmvyQ ">Bone Found Near Garrido Home Likely Human</a> <span class="source">FOXNews</span>
+
+</div></div>
+
+<div class="sources"><span class="source-link"><span><a target="_blank" class="usg-AFQjCNHtrlaRtJpXtfqFV0F9GTPQbzDd-A " href="http://www.people.com/people/article/0,,20303202,00.html">People&nbsp;Magazine</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNFwgDHDO6oUCQ5qxB0Sh9liaYHxVA " href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/09/08/MN3E19KC19.DTL">San&nbsp;Francisco&nbsp;Chronicle</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNGh7kXUDQXy7a2OpuQdZ_KtVYFqmg " href="http://www.latimes.com/news/local/la-me-garrido9-2009sep09,0,2212107.story">Los&nbsp;Angeles&nbsp;Times</a></span>
+<span class="wikisense-link">&nbsp;-&nbsp;<a target="_blank" href="http://en.wikipedia.org/wiki/Kidnapping_of_Jaycee_Lee_Dugard" class="usg-AFQjCNH0Tj6sgfuYCp84buYo3MkU1DGpZg ">Wikipedia:&nbsp;Kidnapping of Jaycee Lee Dugard</a></span></span>
+
+<div class="moreLinks" id="1309856145"><a class="more-coverage-text" href="/news/more?pz=1&amp;ned=us&amp;ncl=d9NI0qbZnf0oJ1MLhHb4Dgbck-_JM&amp;topic=e">all 372 news articles&nbsp;&raquo;</a></div>
+
+
+<div class="yesscript lt"><a href="javascript:void(0)" class="email-link"><img class="icon email-icon" width="15" height="15" alt="" src="http://www.gstatic.com/news/img/cleardot.gif">Email this story</a></div>
+
+<div class="r"></div></div>
+</div>
+<div class="r"></div></div></div></div>
+<span class="yesscript"><div class="more-link"><a href="javascript:void(0);" onclick="return false;">Show more stories</a></div>
+<div class="fewer-link"><a href="javascript:void(0);" onclick="return false;">Show fewer stories</a></div>
+<div class="r"></div></span></div>
+<div class="r"></div></div></div>
+<a name="en_us:s"></a>
+<div class="section large-section ls-right" id="s-en_us:s"><div class="ls-wrapper"><div class="bar c-s"></div>
+<div id="en_us:s_h" class="basic-title b-s ">
+<h2 class=" text"><span class="yesscript"><div class="min-icon icon" style=""></div></span>
+<div class="lt section-title"><a href="/news/section?pz=1&amp;ned=us&amp;topic=s">Sports&nbsp;&raquo;</a>
+</div>
+
+<span class="yesscript"><div class="close-icon icon"></div></span>
+<span class="yesscript"><div class="mod"><input type="hidden" class="edition" value="us">
+<input type="hidden" class="topic" value="s">
+<input type="hidden" class="name" value="Sports">
+
+
+<input type="hidden" class="lang" value="en">
+<input type="hidden" class="num" value="3">
+<input type="hidden" class="id" value="en_us:s">
+<a class="edit-link rt" href="javascript:void(0);">edit</a>
+<a class="edit-link-close rt" href="javascript:void(0);" style="display: none;">close edit</a></div></span>
+</h2>
+
+
+
+<div class="r"></div></div>
+<div class="r"></div>
+<div class="b-s"><div class="edit-panel-stub"></div></div>
+<div class="blended-section2" style=""><div class="column1"><div class="wrapper"><div class="story cid-1308589991 l-en  headline-story thumbnail-true"><div class="thumbnail " style=""><a target="_blank" href="http://news.ph.msn.com/sport/article.aspx?cp-documentid=3573509" class="usg-AFQjCNGCfy0nOpcFhOyw3mMZfZ3AowB_yA " title="MSN Philippines News"><img src="http://nt1.ggpht.com/news/tbn/6ZlmlNu-EsZG9M/6.jpg" alt="" width="80" height="80"></a><div class="source"><a target="_blank" href="http://news.ph.msn.com/sport/article.aspx?cp-documentid=3573509">MSN Philippines News</a></div></div>
+<h2 class="title"><a target="_blank" class="usg-AFQjCNH4aA27r8clXL46DsWtUcxbFYr82Q " href="http://www.suntimes.com/news/cityhall/1761087,chicago-olympics-2016-funding-090909.article">City council backs Olympics funding pledge</a></h2>
+
+<div class="sub-title"><span class="source">Chicago Sun-Times</span>&nbsp;- <span class="author-link"><a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=author%3A%22Fran+Spielman%22&amp;scoring=n">Fran Spielman</a></span>&nbsp;- <span class="date">&lrm;38 minutes ago&lrm;</span></div>
+<div class="body"><div class="snippet">In a historic vote that could transform Chicago or saddle future generations with Olympic debt, the City Council on Wednesday authorized Mayor Daley to sign a host city contract that amounts to an unlimited guarantee <b>...</b></div>
+<div class="additional-article"><div class="aa-inner"><a href="http://trueslant.com/lauraheller/2009/09/09/city-council-kisses-mayors-ass-news-at-10/" target="_blank" class="usg-AFQjCNET-ctq_bdystEGoON6CjZobMInMg ">City council kisses mayor&#39;s ass, news at 10</a> <span class="source">True/Slant</span>
+
+</div></div> <div class="additional-article"><div class="aa-inner"><a href="http://www.environmentalleader.com/2009/09/09/chicago-madrid-rio-de-janeiro-and-tokyo-green-their-cities-for-olympic-bid/" target="_blank" class="usg-AFQjCNELONJek_pbTaOpXSd1R2kbe-zG0Q ">Chicago, Madrid, Rio de Janeiro and Tokyo Green Their Cities for <b>...</b></a> <span class="source">Environmental Leader</span>
+
+</div></div>
+
+<div class="sources"><span class="source-link"><span><a target="_blank" class="usg-AFQjCNGOOedBuQhpADgOR62MzZit0RIxZw " href="http://www.chicagotribune.com/news/local/chi-olympic-finance-committee-09sep09,0,7249540.story">Chicago&nbsp;Tribune</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNGA-7BFSbkpinUN8UUAS_TA0bcBjQ " href="http://www.chicagobreakingnews.com/2009/09/michael-jordan-wont-be-part-of-olympic-bid-delegation.html">Chicago&nbsp;Breaking&nbsp;News&nbsp;-&nbsp;Tribune</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNEEu6YbazCV_PP6ZOcqoY7AlvM29g " href="http://www.chicagobusiness.com/cgi-bin/news.pl?id=35387">Crain's&nbsp;Chicago&nbsp;Business</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNHevDU8pswAeAMGF_CK5KbgrBPlUQ " href="http://georgiandaily.com/index.php?option=com_content&amp;task=view&amp;id=14390&amp;Itemid=72">Georgiandaily</a></span>
+</span>
+
+<div class="moreLinks" id="1308589991"><a class="more-coverage-text" href="/news/more?pz=1&amp;ned=us&amp;ncl=dhJ_yfs0aRUv-MMw1kK0qVMk2b_IM&amp;topic=s">all 85 news articles&nbsp;&raquo;</a></div>
+
+
+<div class="yesscript lt"><a href="javascript:void(0)" class="email-link"><img class="icon email-icon" width="15" height="15" alt="" src="http://www.gstatic.com/news/img/cleardot.gif">Email this story</a></div>
+
+<div class="r"></div></div>
+</div>
+<div class="r"></div></div><div class="story cid-1307677828 l-en  headline-story thumbnail-true"><div class="thumbnail " style=""><a target="_blank" href="http://www.theglobeandmail.com/sports/grizzlies-meet-with-iverson/article1278502/" class="usg-AFQjCNGibgB_zyOYx84-aMryVqJqDJV_uw " title="Globe and Mail"><img src="http://nt1.ggpht.com/news/tbn/EYA4kMIYmcpyQM/6.jpg" alt="" width="80" height="80"></a><div class="source"><a target="_blank" href="http://www.theglobeandmail.com/sports/grizzlies-meet-with-iverson/article1278502/">Globe and Mail</a></div></div>
+<h2 class="title"><a target="_blank" class="usg-AFQjCNEzNxW8WZztOIoxgmfRhC6bJZEbGQ " href="http://www.miamiherald.com/sports/story/1224907.html">Allen Iverson picks Grizzlies</a></h2>
+
+<div class="sub-title"><span class="source">MiamiHerald.com</span>&nbsp;- <span class="author-link"><a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=author%3A%22Michael+Wallace%22&amp;scoring=n">Michael Wallace</a></span>&nbsp;- <span class="date">&lrm;1 hour ago&lrm;</span></div>
+<div class="body"><div class="snippet">Allen Iverson has tweeted that he will be heading to Memphis. The 34-year-old guard tweeted Wednesday that &quot;God Chose Memphis as the place that I will continue my career.</div>
+<div class="additional-article"><div class="aa-inner"><a href="http://www.latimes.com/sports/la-spw-iverson10-link,0,6101848.storylink" target="_blank" class="usg-AFQjCNFWspryf4u27b8vyit-ckzb-Psatg ">Allen Iverson says he&#39;s signing with the Memphis Grizzlies</a> <span class="source">Los Angeles Times</span>
+
+</div></div> <div class="additional-article"><div class="aa-inner"><a href="http://www.seattlepi.com/scorecard/nbanews.asp?articleID=264071" target="_blank" class="usg-AFQjCNFmaBnfru4Q_czUhVRkelJfZ3zycw ">Iverson on his way to Memphis</a> <span class="source">Seattle Post Intelligencer</span>
+
+</div></div>
+
+<div class="sources"><span class="source-link"><span><a target="_blank" class="usg-AFQjCNEIh8xgxv7EI5oqTaKtJWpemof_dg " href="http://myespn.go.com/blogs/truehoop/0-44-29/Allen-Iverson-s-Grizzly-Liaison.html">ESPN</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNER1LFO-oaGHr64Kuol1FrYlBFvQQ " href="http://www.rotowire.com/Allen-Iverson-googid114270-spnba.htm">Rotowire</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNHjbAhjKCdXSJjdWQ1uN-VBSgnGtg " href="http://www.hoopsworld.com/Story.asp?story_id=13772">HoopsWorld</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNHG2nCU_dOtamLjoTuEdN_CnTu1og " href="http://talkhoops.net/2009/09/wrong-answer-in-memphis.html">Talkhoops.net</a></span>
+</span>
+
+<div class="moreLinks" id="1307677828"><a class="more-coverage-text" href="/news/more?pz=1&amp;ned=us&amp;ncl=d9j8XT6eE4DemQM9ontzlcgoCfswM&amp;topic=s">all 526 news articles&nbsp;&raquo;</a></div>
+
+
+<div class="yesscript lt"><a href="javascript:void(0)" class="email-link"><img class="icon email-icon" width="15" height="15" alt="" src="http://www.gstatic.com/news/img/cleardot.gif">Email this story</a></div>
+
+<div class="r"></div></div>
+</div>
+<div class="r"></div></div><div class="story cid-1309825742 l-en  headline-story thumbnail-true"><div class="thumbnail " style=""><a target="_blank" href="http://news.bostonherald.com/blogs/sports/rap_sheet/?p=3604&amp;srvc=home&amp;position=recent" class="usg-AFQjCNGBUqjwwWEMOdTt3NVpvx4bJcusOA " title="Boston Herald"><img src="http://nt2.ggpht.com/news/tbn/Ev6u3sbzFqxs_M/6.jpg" alt="" width="80" height="80"></a><div class="source"><a target="_blank" href="http://news.bostonherald.com/blogs/sports/rap_sheet/?p=3604&amp;srvc=home&amp;position=recent">Boston Herald</a></div></div>
+<h2 class="title"><a target="_blank" class="usg-AFQjCNHt5fGNQJ2IHYcWg4H9u2xUaiEylw " href="http://www.boston.com/sports/football/patriots/reiss_pieces/2009/09/to_i_might_brin.html">TO: &#39;I might bring my spy camera&#39;</a></h2>
+
+<div class="sub-title"><span class="source">Boston Globe</span>&nbsp;- <span class="author-link"><a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=author%3A%22Chris+Forsberg%22&amp;scoring=n">Chris Forsberg</a></span>&nbsp;- <span class="date">&lrm;30 minutes ago&lrm;</span></div>
+<div class="body"><div class="snippet">Buffalo Bills wide receiver Terrell Owens provided the first trash talk with the Patriots leading up to Monday night&#39;s season-opener at Gillette Stadium.</div>
+<div class="additional-article"><div class="aa-inner"><a href="http://profootballtalk.nbcsports.com/2009/09/09/to-doesnt-like-the-no-huddle-jabs-patriots/" target="_blank" class="usg-AFQjCNH2v25ynJQOo8_vgXTe-3bjlgaHYw ">TO doesn&#39;t like the no huddle, jabs Patriots</a> <span class="source">ProFootballTalk</span>
+
+</div></div> <div class="additional-article"><div class="aa-inner"><a href="http://itiswhatitis.weei.com/sports/newengland/football/patriots/2009/09/09/shawn-springs-on-terrell-owens/" target="_blank" class="usg-AFQjCNEAk2eFygumgqULLKuUut3Y7meV9g ">Shawn Springs on Terrell Owens</a> <span class="source">WEEI.com</span>
+
+</div></div>
+
+<div class="sources"><span class="source-link"><span><a target="_blank" class="usg-AFQjCNHgBUKaZbwia_3FFO7e5ELxp4Mn9g " href="http://www.bostonherald.com/blogs/sports/rap_sheet/?p=3605&amp;srvc=home&amp;position=recent">Boston&nbsp;Herald</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNHRFZfR5rdvwCnA-G1aCqdwtAaQ2g " href="http://www.buffalobills.com/news/article-1/81-from-everyone/878ddd71-0d27-4ccb-9ebd-abef7c68ad62">BuffaloBills.com</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNEQFsDGmn7aBcF3ne0z1UcW9TPIsQ " href="http://www.washingtonpost.com/wp-dyn/content/article/2009/09/07/AR2009090701605.html">Washington&nbsp;Post</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNGEiVimKc37eUHZAyPLrK7w2IFkAA " href="http://www.buffalonews.com/home/story/789006.html">Buffalo&nbsp;News</a></span>
+</span>
+
+<div class="moreLinks" id="1309825742"><a class="more-coverage-text" href="/news/more?pz=1&amp;ned=us&amp;ncl=dIwB-ewu_rkL4BM4quHgetLE06drM&amp;topic=s">all 15 news articles&nbsp;&raquo;</a></div>
+
+
+<div class="yesscript lt"><a href="javascript:void(0)" class="email-link"><img class="icon email-icon" width="15" height="15" alt="" src="http://www.gstatic.com/news/img/cleardot.gif">Email this story</a></div>
+
+<div class="r"></div></div>
+</div>
+<div class="r"></div></div></div></div>
+<span class="yesscript"><div class="more-link"><a href="javascript:void(0);" onclick="return false;">Show more stories</a></div>
+<div class="fewer-link"><a href="javascript:void(0);" onclick="return false;">Show fewer stories</a></div>
+<div class="r"></div></span></div>
+<div class="r"></div></div></div>
+<div class="r row"></div> <a name="en_us:m"></a>
+<div class="section large-section ls-left" id="s-en_us:m"><div class="ls-wrapper"><div class="bar c-m"></div>
+<div id="en_us:m_h" class="basic-title b-m ">
+<h2 class=" text"><span class="yesscript"><div class="min-icon icon" style=""></div></span>
+<div class="lt section-title"><a href="/news/section?pz=1&amp;ned=us&amp;topic=m">Health&nbsp;&raquo;</a>
+</div>
+
+<span class="yesscript"><div class="close-icon icon"></div></span>
+<span class="yesscript"><div class="mod"><input type="hidden" class="edition" value="us">
+<input type="hidden" class="topic" value="m">
+<input type="hidden" class="name" value="Health">
+
+
+<input type="hidden" class="lang" value="en">
+<input type="hidden" class="num" value="3">
+<input type="hidden" class="id" value="en_us:m">
+<a class="edit-link rt" href="javascript:void(0);">edit</a>
+<a class="edit-link-close rt" href="javascript:void(0);" style="display: none;">close edit</a></div></span>
+</h2>
+
+
+
+<div class="r"></div></div>
+<div class="r"></div>
+<div class="b-m"><div class="edit-panel-stub"></div></div>
+<div class="blended-section2" style=""><div class="column1"><div class="wrapper"><div class="story cid-1308496336 l-en  headline-story thumbnail-true"><div class="thumbnail " style=""><a target="_blank" href="http://www.abcnews.go.com/Health/SwineFluNews/swine-flu/story?id=8525109" class="usg-AFQjCNGAzQHbJ1UEqvuV9Vkfm7uV3LSuaA " title="ABC News"><img src="http://nt2.ggpht.com/news/tbn/urQAPRWoVY76LM/6.jpg" alt="" width="80" height="80"></a><div class="source"><a target="_blank" href="http://www.abcnews.go.com/Health/SwineFluNews/swine-flu/story?id=8525109">ABC News</a></div></div>
+<h2 class="title"><a target="_blank" class="usg-AFQjCNGAzQHbJ1UEqvuV9Vkfm7uV3LSuaA " href="http://www.abcnews.go.com/Health/SwineFluNews/swine-flu/story?id=8525109">Had the Flu? It Was Probably Swine Flu</a></h2>
+
+<div class="sub-title"><span class="source">ABC News</span>&nbsp;- <span class="author-link"><a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=author%3A%22Lauren+Cox%22&amp;scoring=n">Lauren Cox</a></span>&nbsp;- <span class="date">&lrm;56 minutes ago&lrm;</span></div>
+<div class="body"><div class="snippet">If you&#39;re wondering whether your sniffling co-worker&#39;s bout of flu is indeed the swine flu, then wonder no more. Doctors across the nation are saying people who came down with the flu this summer probably had the new swine flu, <b>...</b></div>
+<div class="additional-article additional-video"><input type="hidden" class="video-url" value="http://www.youtube.com/watch?v=97JXL1oqp1A">
+<input type="hidden" class="video-usg" value="AFQjCNGEUTbLNvWT4lTM06qWuELKIbFi0g">
+<div class="aa-inner"><span class="yesscript"><a class="js-link toggle more-zippy-toggle" id="97JXL1oqp1A" href="javascript:void(0);" onclick="return false;"><div class="icon"></div>Video:&nbsp;CDC offers H1N1 update<img class="youtube-icon" src="http://www.gstatic.com/news/img/2326415520-video-youtube.gif" alt="" width="16" height="16"></a>
+<span class="source">KXAN.com</span></span>
+<noscript><a href="http://www.youtube.com/watch?v=97JXL1oqp1A">Video:&nbsp;
+CDC offers H1N1 update
+<img class="youtube-icon" src="http://www.gstatic.com/news/img/2326415520-video-youtube.gif" alt="" width="16" height="16"></a>
+<span class="source">KXAN.com</span></noscript>
+<div class="video-box"></div></div></div> <div class="additional-article"><div class="aa-inner"><a href="http://www.bizjournals.com/phoenix/stories/2009/09/07/daily24.html" target="_blank" class="usg-AFQjCNETUXuZH-yyN0Q0A55bZr7uBZW3lg ">Arizona universities unsure of flu numbers</a> <span class="source">Bizjournals.com</span>
+
+</div></div>
+
+<div class="sources"><span class="source-link"><span><a target="_blank" class="usg-AFQjCNFtwhU4IyVHZznMhqCwq8-7TOIISg " href="http://edition.cnn.com/2009/HEALTH/09/09/china.swine.flu.vaccine/">CNN&nbsp;International</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNHlzsrNni_8pMpt5vJn6PMYWfIRmQ " href="http://www.thecreswellchronicle.com/news/story.cfm?story_no=7125">Creswell&nbsp;Chronicle</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNF0RqgKJh0_MCpeo9LKReGJa5I79Q " href="http://www.palmbeachpost.com/localnews/content/local_news/epaper/2009/09/09/0910fludeath.html">Palm&nbsp;Beach&nbsp;Post</a></span>
+<span class="wikisense-link">&nbsp;-&nbsp;<a target="_blank" href="http://en.wikipedia.org/wiki/2009_flu_pandemic_by_country" class="usg-AFQjCNH3CFtOoqSR1mXbUxwVGGsWtv6xNQ ">Wikipedia:&nbsp;2009 flu pandemic by country</a></span></span>
+
+<div class="moreLinks" id="1308496336"><a class="more-coverage-text" href="/news/more?pz=1&amp;ned=us&amp;ncl=dS1a70Qjkz-A3AMkDqYXn1kHKxpLM&amp;topic=m">all 2,599 news articles&nbsp;&raquo;</a></div>
+
+
+<div class="yesscript lt"><a href="javascript:void(0)" class="email-link"><img class="icon email-icon" width="15" height="15" alt="" src="http://www.gstatic.com/news/img/cleardot.gif">Email this story</a></div>
+
+<div class="r"></div></div>
+</div>
+<div class="r"></div></div><div class="story cid-1309348544 l-en  headline-story thumbnail-true"><div class="thumbnail " style=""><a target="_blank" href="http://www.klewtv.com/news/health/58132132.html" class="usg-AFQjCNH-VNuV_qmAW-Kue40b9EUeWgnGSg " title="KLEW"><img src="http://nt1.ggpht.com/news/tbn/qXtsuMqqcbd-XM/6.jpg" alt="" width="80" height="80"></a><div class="source"><a target="_blank" href="http://www.klewtv.com/news/health/58132132.html">KLEW</a></div></div>
+<h2 class="title"><a target="_blank" class="usg-AFQjCNF_nFI1FTNN4ArfGfhS28U-6RiZtQ " href="http://www.reuters.com/article/healthNews/idUSTRE5885AF20090909">FDA panel backs Glaxo cervical cancer vaccine</a></h2>
+
+<div class="sub-title"><span class="source">Reuters</span>&nbsp;- <span class="author-link"><a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=author%3A%22Lisa+Richwine%22&amp;scoring=n">Lisa Richwine</a>, <a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=author%3A%22Leslie+Gevirtz%22&amp;scoring=n">Leslie Gevirtz</a></span>&nbsp;- <span class="date">&lrm;28 minutes ago&lrm;</span></div>
+<div class="body"><div class="snippet">GAITHERSBURG, Maryland (Reuters) - GlaxoSmithKline PLC&#39;s proposed cervical cancer vaccine is safe and effective for girls and young women ages 10 to 25, a US advisory panel said on Wednesday.</div>
+<div class="additional-article"><div class="aa-inner"><a href="http://online.wsj.com/article/BT-CO-20090909-712227.html" target="_blank" class="usg-AFQjCNGpMOwVOJviruLP5Avwdvb6pbqn4A ">FDA Panel: Cervarix Effective For HPV Prevention &gt; GSK</a> <span class="source">Wall Street Journal</span>
+
+</div></div> <div class="additional-article"><div class="aa-inner"><a href="http://www.bloomberg.com/apps/news?pid=20601087&amp;sid=afBVRtFfr1aE" target="_blank" class="usg-AFQjCNELQmRJ9-i1C3ln0Sll9H7xUodUgw ">Glaxo Shot Prevents Cervical Cancer in Young Women, Panel Says</a> <span class="source">Bloomberg</span>
+
+</div></div>
+
+<div class="sources"><span class="source-link"><span><a target="_blank" class="usg-AFQjCNFlY2w17j6Mbnn9vBJltQvXgM2JRg " href="http://www.chicagodefender.com/article-6409-us-regulators-say-va.html">Chicago&nbsp;Defender</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNF6GDbG0_bmKorWL7YDqjUy_BH25Q " href="http://www.examiner.com/x-9301-Minneapolis-Healthy-Living-Examiner~y2009m9d9-Healthy-living-101-What-is-the-HPV-vaccine-and-is-it-safe">Examiner.com</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNGQlbOwo7ZVYWNzoORaYLA9L_RHPA " href="http://www.forbes.com/feeds/ap/2009/09/09/business-health-care-us-cancer-vaccines-ahead-of-the-bell_6863151.html">Forbes</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNFISdLKw-qCq14Pm91Ii_4bBs831w " href="http://www.webmd.com/sexual-conditions/hpv-genital-warts/news/20090908/fda-panel-considers-new-hpv-vaccine-cervarix">WebMD</a></span>
+</span>
+
+<div class="moreLinks" id="1309348544"><a class="more-coverage-text" href="/news/more?pz=1&amp;ned=us&amp;ncl=dh0hD81wez-FXxMWBKJyjCM2kI7lM&amp;topic=m">all 200 news articles&nbsp;&raquo;</a></div>
+
+
+<div class="yesscript lt"><a href="javascript:void(0)" class="email-link"><img class="icon email-icon" width="15" height="15" alt="" src="http://www.gstatic.com/news/img/cleardot.gif">Email this story</a></div>
+
+<div class="r"></div></div>
+</div>
+<div class="r"></div></div><div class="story cid-1309982522 l-en  headline-story thumbnail-true"><div class="thumbnail " style=""><a target="_blank" href="http://www.google.com/hostednews/afp/article/ALeqM5jkrXBIdCOBcmHUuYW40Cx9RvzxfA" class="usg-AFQjCNGtshENxkqUVQGuwObm7BV5SsAnPg " title="AFP"><img src="http://nt0.ggpht.com/news/tbn/3DCbK-DLA7uk6M/6.jpg" alt="" width="80" height="80"></a><div class="source"><a target="_blank" href="http://www.google.com/hostednews/afp/article/ALeqM5jkrXBIdCOBcmHUuYW40Cx9RvzxfA">AFP</a></div></div>
+<h2 class="title"><a target="_blank" class="usg-AFQjCNE-374a74NZkIzx6IjpPHxVB0Ycng " href="http://www.foxnews.com/politics/2009/09/09/health-care-terms-phrases-defined-health-care-debate/">Health Care 101: Terms and Phrases That Have Defined the Health <b>...</b></a></h2>
+
+<div class="sub-title"><span class="source">FOXNews</span>&nbsp;- <span class="date">&lrm;47 minutes ago&lrm;</span></div>
+<div class="body"><div class="snippet">Confused by all the health care jargon? FOXNews.com breaks down the terminology in advance of President Obama&#39;s primetime address on health care.</div>
+<div class="additional-article"><div class="aa-inner"><a href="http://www.washingtonpost.com/wp-dyn/content/discussion/2009/09/08/DI2009090802098.html" target="_blank" class="usg-AFQjCNGjYBydi-D_maRZU2uVndPXCCNtFw ">Pearlstein: It&#39;s Time for Obama to Rise Above the Partisan Health <b>...</b></a> <span class="source">Washington Post</span>
+
+</div></div> <div class="additional-article"><div class="aa-inner"><a href="http://www.google.com/hostednews/ap/article/ALeqM5hdgni2jdm4kvnmvjPGs-wL8n6gEwD9AJQJ281" target="_blank" class="usg-AFQjCNGJ6K_wcKoE9S8q3GJgFtmCHw6QAw ">Health care issues: Government spending</a> <span class="source">The Associated Press</span>
+
+</div></div>
+
+<div class="sources"><span class="source-link"><span><a target="_blank" class="usg-AFQjCNF7XQhD5YlI6VA3TnvscvReeX_ipA " href="http://www.charlestonbusiness.com/news/29381-small-business-ceo-says-clarity-needed-on-health-care-reform?rss=0">Charleston&nbsp;Regional&nbsp;Business</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNGtshENxkqUVQGuwObm7BV5SsAnPg " href="http://www.google.com/hostednews/afp/article/ALeqM5jkrXBIdCOBcmHUuYW40Cx9RvzxfA">AFP</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNF31m_NRuaj8-30EuOr7Wb5ff7f_Q " href="http://www.boston.com/news/nation/articles/2009/09/09/public_option">Boston&nbsp;Globe</a></span>&nbsp;- <span><a target="_blank" class="usg-AFQjCNGMdTLdmudNftgQHRdnkk2ciXbLLQ " href="http://www.oregonlive.com/news/oregonian/david_sarasohn/index.ssf/2009/09/us_health_care_system_has_seri.html">OregonLive.com</a></span>
+</span>
+
+<div class="moreLinks" id="1309982522"><a class="more-coverage-text" href="/news/more?pz=1&amp;ned=us&amp;ncl=dciJUbZ3NogQZBMz168MLMBVt-WMM&amp;topic=m">all 828 news articles&nbsp;&raquo;</a></div>
+
+
+<div class="yesscript lt"><a href="javascript:void(0)" class="email-link"><img class="icon email-icon" width="15" height="15" alt="" src="http://www.gstatic.com/news/img/cleardot.gif">Email this story</a></div>
+
+<div class="r"></div></div>
+</div>
+<div class="r"></div></div></div></div>
+<span class="yesscript"><div class="more-link"><a href="javascript:void(0);" onclick="return false;">Show more stories</a></div>
+<div class="fewer-link"><a href="javascript:void(0);" onclick="return false;">Show fewer stories</a></div>
+<div class="r"></div></span></div>
+<div class="r"></div></div></div>
+<a name="en_us:ir"></a>
+<div class="section large-section ls-right" id="s-en_us:ir"><div class="ls-wrapper"><div class="bar c-ir"></div>
+<div id="en_us:ir_h" class="basic-title b-ir ">
+<h2 class=" text"><span class="yesscript"><div class="min-icon icon" style=""></div></span>
+<div class="lt section-title"><a href="/news/section?pz=1&amp;ned=us&amp;topic=ir">Spotlight&nbsp;&raquo;</a>
+</div>
+
+<span class="yesscript"><div class="close-icon icon"></div></span>
+<span class="yesscript"><div class="mod"><input type="hidden" class="edition" value="us">
+<input type="hidden" class="topic" value="ir">
+<input type="hidden" class="name" value="Spotlight">
+
+
+<input type="hidden" class="lang" value="en">
+<input type="hidden" class="num" value="3">
+<input type="hidden" class="id" value="en_us:ir">
+<a class="edit-link rt" href="javascript:void(0);">edit</a>
+<a class="edit-link-close rt" href="javascript:void(0);" style="display: none;">close edit</a></div></span>
+</h2>
+
+
+
+<div class="r"></div></div>
+<div class="r"></div>
+<div class="b-ir"><div class="edit-panel-stub"></div></div>
+<div class="blended-section2" style=""><div class="column1"><div class="wrapper"><div class="story cid-0 l-en  headline-story thumbnail-false">
+<h2 class="title"><a target="_blank" class="usg-AFQjCNEOKkUreP7MzgwozIVHM0hXGiW56A " href="http://www.nytimes.com/2009/09/06/fashion/06love.html">Modern Love Giving Myself Consent to Let Go</a></h2>
+
+<div class="sub-title"><span class="source">New York Times</span>&nbsp;- <span class="author-link"><a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=author%3A%22Elizabeth+Scarboro%22&amp;scoring=n">Elizabeth Scarboro</a></span>&nbsp;- <span class="date">&lrm;Sep 4, 2009&lrm;</span></div>
+<div class="body"><div class="snippet">THE letter has been on my desk for months, though the sender - a hospital urology department - is awaiting my reply. The department is moving, and while cataloging what it needs to take to the new site, it found something that <b>...</b></div>
+
+
+<div class="sources"><span class="source-link">
+</span>
+
+
+
+
+
+</div>
+</div>
+<div class="r"></div></div><div class="story cid-1304948948 l-en  headline-story thumbnail-false">
+<h2 class="title"><a target="_blank" class="usg-AFQjCNFxntjnAD287jgwIKxX3Aef7-mZQA " href="http://www.newyorker.com/reporting/2009/09/07/090907fa_fact_grann">Did Texas execute an innocent man?</a></h2>
+
+<div class="sub-title"><span class="source">New Yorker</span>&nbsp;- <span class="author-link"><a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=author%3A%22David+Grann%22&amp;scoring=n">David Grann</a></span>&nbsp;- <span class="date">&lrm;Aug 30, 2009&lrm;</span></div>
+<div class="body"><div class="snippet">Cameron Todd Willingham in his cell on death row, in 1994. He insisted upon his innocence in the deaths of his children and refused an offer to plead guilty in return for a life sentence.</div>
+
+
+<div class="sources"><span class="source-link">
+</span>
+
+
+
+
+
+</div>
+</div>
+<div class="r"></div></div><div class="story cid-1306376649 l-en  headline-story thumbnail-false">
+<h2 class="title"><a target="_blank" class="usg-AFQjCNFWsDAl68dmYC-pbX__ACl4sCgqow " href="http://www.foxnews.com/politics/elections/2009/09/06/obama-green-jobs-adviser-van-jones-resigns-amid-controversy/">Obama &#39;Green Jobs&#39; Adviser Van Jones Resigns Amid Controversy</a></h2>
+
+<div class="sub-title"><span class="source">FOXNews</span>&nbsp;- <span class="date">&lrm;Sep 5, 2009&lrm;</span></div>
+<div class="body"><div class="snippet">Van Jones, President Obama&#39;s green jobs adviser, had been linked to efforts suggesting a government role in the Sept. 11 terror attacks.</div>
+
+
+<div class="sources"><span class="source-link">
+</span>
+
+
+
+
+
+</div>
+</div>
+<div class="r"></div></div><div class="story cid-1305895588 l-en  headline-story thumbnail-false">
+<h2 class="title"><a target="_blank" class="usg-AFQjCNF_P_l_hnwUQ8F6GSppY4CRMbVkCA " href="http://www.nytimes.com/2009/09/03/technology/personaltech/03basics.html">Keeping That New PC Clean and Pure</a></h2>
+
+<div class="sub-title"><span class="source">New York Times</span>&nbsp;- <span class="author-link"><a href="/news/search?pz=1&amp;ned=us&amp;hl=en&amp;q=author%3A%22Riva+Richmond%22&amp;scoring=n">Riva Richmond</a></span>&nbsp;- <span class="date">&lrm;Sep 2, 2009&lrm;</span></div>
+<div class="body"><div class="snippet">School starts soon, and many people are getting spanking-new computers. Ah, the joy of a new and more powerful toy - and a clean slate.</div>
+
+
+<div class="sources"><span class="source-link">
+</span>
+
+
+
+
+
+</div>
+</div>
+<div class="r"></div></div><div class="story cid-1306369781 l-en  headline-story thumbnail-false">
+<h2 class="title"><a target="_blank" class="usg-AFQjCNE-eke9glXpDUt0yexTBi7QuIVNVg " href="http://news.bbc.co.uk/2/hi/uk_news/england/london/8238896.stm">Blur Banksy is ruined by mistake</a></h2>
+
+<div class="sub-title"><span class="source">BBC News</span>&nbsp;- <span class="date">&lrm;Sep 4, 2009&lrm;</span></div>
+<div class="body"><div class="snippet">A mural by graffiti artist Banksy, which once featured on the cover of a single by rock band Blur, has been painted over by Hackney Council.</div>
+
+
+<div class="sources"><span class="source-link">
+</span>
+
+
+
+
+
+</div>
+</div>
+<div class="r"></div></div></div></div>
+<span class="yesscript"><div class="more-link"><a href="javascript:void(0);" onclick="return false;">Show more stories</a></div>
+<div class="fewer-link"><a href="javascript:void(0);" onclick="return false;">Show fewer stories</a></div>
+<div class="r"></div></span></div>
+<div class="r"></div></div></div>
+<div class="r row"></div></div></div></div></div><div class="r"></div><div class="footer">
+
+<div class="footer-disclaimer">The selection and placement of stories on this page were determined automatically by a computer program.<div class="r"></div>
+The time or date displayed reflects when an article was added to or updated in Google News.
+</div>
+<div class="bottom-search"><form class="search-form" action="/news/search?pz=1&amp;ned=us&amp;hl=en" method="get"><input type="hidden" name="pz" value="1"> <input type="hidden" name="ned" value="us"> <input type="hidden" name="hl" value="en"><input class="searchField" type="text" size="40" maxlength="2048" name="q" value="" title="Search News"> <input type="submit" value="Search News"> <input type="submit" name="btnmeta=search=search" value="Search the Web"><div class="links"><a href="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;output=rss"><img class="icon feed-icon" width="15" height="15" alt="" src="http://www.gstatic.com/news/img/cleardot.gif">RSS</a>&nbsp;- <a href="http://www.google.com/support/news/bin/answer.py?answer=40237&amp;topic=8851&amp;hl=en">Other News Editions</a>&nbsp;- <a href="http://news.google.com/intl/en_us/about_google_news.html">About Google News</a>&nbsp;- <a href="http://www.google.com/support/news/bin/answer.py?answer=59255&amp;hl=en">About Feeds</a>&nbsp;- <a href="http://googlenewsblog.blogspot.com/">Blog</a>&nbsp;- <a href="http://www.google.com/support/news_pub/bin/static.py?page=contact_policy.cs&amp;hl=en">Help</a>&nbsp;- <a href="http://news.google.com/intl/en_us/terms_google_news.html">Terms of Use</a></div></form></div>
+<div class="bottom">
+<span class="copyright">&copy;2009 Google</span>
+<span class="links">&nbsp;-&nbsp;<a href="http://www.google.com/webhp?hl=en">Google Home</a>&nbsp;-&nbsp;<a href="http://www.google.com/intl/en_us/ads/">Advertising Programs</a>&nbsp;-&nbsp;<a href="http://www.google.com/intl/en_us/services/">Business Solutions</a>&nbsp;-&nbsp;<a href="http://www.google.com/intl/en/privacy.html">Privacy</a>&nbsp;-&nbsp;<a href="http://news.google.com/intl/en_us/about.html">About Google</a></span></div>
+<div class="r"></div></div></div>
+<form action="" name="hidden-params-form" id="hidden-params-form"><input type="hidden" name="p-ned" id="p-ned" value="us"> <input type="hidden" name="p-rt" id="p-rt" value="HOMEPAGE"> <input type="hidden" name="p-vm" id="p-vm" value="STANDARD"> <input type="hidden" name="p-hl" id="p-hl" value="en"> <input type="hidden" name="p-ei" id="p-ei" value="XP6nSrCcG5C6NpaK76AB">   <input type="hidden" name="p-q" id="p-q" value="">    <input type="hidden" name="p-pz" id="p-pz" value="1"> <input type="hidden" name="p-suggestPath" id="p-suggestPath" value="/complete/search?hl=en&amp;gl=us&amp;ds=n&amp;nolabels=t&amp;hjson=t&amp;ids=f&amp;q="> <input type="hidden" name="p-canCustomize" id="p-canCustomize" value="true"> <input type="hidden" name="p-signedIn" id="p-signedIn" value="false"> <input type="hidden" name="p-homeUrl" id="p-homeUrl" value="/news?pz=1&amp;ned=us"> <input type="hidden" name="p-logoUrl" id="p-logoUrl" value="http://www.gstatic.com/news/img/bluelogo/en_us/news.gif"> <input type="hidden" name="p-loginUrl" id="p-loginUrl" value="http://www.google.com/accounts/Login?hl=en&amp;skipvpage=true&amp;sendvemail=false&amp;continue=http%3A%2F%2Fnews.google.com%2Fnews%3Fpz%3D1%26ned%3Dus%26hl%3Den%26q">    </form>
+<form action="/news/xhr/personalize" method="POST" name="hidden_personalize_form" id="hidden-personalize-form"><input type="hidden" name="security_token" value="AFQjCNE8zELVTO0tn-ZysJ9A-zqwqvkcBw:1252523612454"> </form>
+<div style="display:none;"><div id="email-exp"></div><div id="email-tpl"><table cellspacing="0" cellpadding="0"><tr><td><div jsselect="$this.title" style="font-size:16px;"><a href="#" style="color:#00c;" jsvalues=".href:$this.url" target="_blank"><b jscontent="text"></b></a></div><div style="font-size:13px;line-height:1.3em"><div jsselect="$this.subtitle"><b><span style="white-space:nowrap;color:#6f6f6f;" jscontent="source"></span></b><b>&nbsp;-&nbsp;</b><b><span style="white-space:nowrap;" jscontent="date"></span></b></div><div jsselect="$this.snippet"><div jseval="this.innerHTML=$this"></div></div><div jsselect="$this.additionalarticles"><a href="#" style="color:#00c;" jsvalues=".href:$this.url" jscontent="text" target="_blank"></a>&nbsp;<span style="white-space:nowrap;color:#6f6f6f;" jscontent="source"></span><br></div><div jsdisplay="$this.sources" jsvalues="$length:$this.sources.length"><span jsselect="$this.sources"><a href="#" style="color:#008000;" jsvalues=".href:$this.url" target="_blank"><span style="white-space:nowrap;" jscontent="source"></span></a><span jsdisplay="$index != $length-1" jscontent="&#39;&nbsp;-&nbsp;&#39;"></span></span><br></div><a jsselect="$this.morelinks" href="#" style="color:#008000;" jsvalues=".href:$this.url" target="_blank"><b><span style="white-space:nowrap;" jscontent="text"></span></b></a></div></td></tr></table></div></div>
+<script type="text/javascript">function setupJsFlags() { NEWS_flags = {}; NEWS_flag_xhrPathPrefix = 0; NEWS_flags[NEWS_flag_xhrPathPrefix] = "/news/xhr"; NEWS_flag_useJsImageFetchTracking = 1; NEWS_flags[NEWS_flag_useJsImageFetchTracking] = false; NEWS_flag_enableEmail = 2; NEWS_flags[NEWS_flag_enableEmail] = true; NEWS_flag_experiments = 3; NEWS_flags[NEWS_flag_experiments] = ""; NEWS_flag_pingCSI = 4; NEWS_flags[NEWS_flag_pingCSI] = true; NEWS_flag_prefetchCityList = 5; NEWS_flags[NEWS_flag_prefetchCityList] = false; NEWS_flag_maxCreatePageTitleLength = 7; NEWS_flags[NEWS_flag_maxCreatePageTitleLength] = 25; } function NEWS_logError(e, extraMessage) { var url = "/news/xhr/log_error?ned=" + "us" + "&error=" + encodeURIComponent(e.name + ": " + e.message) + "&userAgent=" + encodeURIComponent(navigator.userAgent) + "&url=" + encodeURIComponent(window.location) + "&experiments=" + encodeURIComponent("") + "&stack=" + encodeURIComponent(e.stack) + "&errorLocation=" + encodeURIComponent(extraMessage);  new Image().src = url; } function grabJsBundle(jsUrl) { var scriptEl = document.createElement("script"); scriptEl.src = jsUrl; scriptEl.onerror = function() { if (window['NEWS_beforeOnloadFired']) { return; } NEWS_logError(new Error("Deferred JS error"), "Error in download of deferred JS: " + jsUrl); }; var head = document.getElementsByTagName('head')[0]; head.appendChild(scriptEl); }</script>
+<script type="text/javascript">
+          setupJsFlags();
+        </script>
+
+
+
+<script type="text/javascript">
+        try {
+          window['jstiming']['load'].tick("bol");
+        } catch (e) {
+          NEWS_logError(e, "csi:bol");
+        }
+      </script></body></html>

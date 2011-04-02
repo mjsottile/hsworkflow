@@ -1,0 +1,11 @@
+Most handles will also have a current I/O position indicating where the
+next input or output operation will occur. A handle is readable if it
+manages only input or both input and output; likewise, it is writable if it
+manages only output or both input and output. A handle is open when first
+allocated. Once it is closed it can no longer be used for either input or
+output, though an implementation cannot re-use its storage while references
+remain to it. Handles are in the Show and Eq classes. The string produced
+by showing a handle is system dependent; it should include enough
+information to identify the handle for debugging. A handle is equal
+according to == only to itself; no attempt is made to compare the internal
+state of different handles for equality.

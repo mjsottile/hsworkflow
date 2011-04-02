@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+ <head>
+  <title>WireIt - a Javascript Wiring Library</title>
+	<meta name="author" content="Eric Abouaf" />
+	<meta name="copyright" content="Copyright 2006-2009 Eric Abouaf" />
+	<meta name="keywords" content="wireit,javascript,library,pipes,visualization,yui,programming,canvas,wire,wires,framework" />
+	<meta name="description" content="WireIt is an open-source javascript library to create web wirable interfaces for dataflow applications, visual programming languages or graphical modeling." />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="alternate" type="application/rss+xml" title="WireIt blog" href="http://javascript.neyric.com/blog/feed/" />
+	<link rel="shortcut icon" type="images/x-icon" href="res/favicon.ico" />
+  <style>
+
+body { background-color: white; margin: 0; padding: 0; font-family:"Trebuchet MS",Helvetica,Arial,Verdana; font-size: 13px; }
+p {	font-size: 13px; }
+ul li {	font-size: 13px;}
+
+#container { margin: auto; width: 1000px; }
+
+#headbar { background-image: url(res/logo-wireit.jpg);	height: 223px; margin: 0;	padding: 0; }
+
+#main { text-align: left; width: 1000px; margin-left:20px; }
+
+#navigation { position: absolute; margin: 6px 0 0 380px; }
+#navigation li { margin: 0; display: inline; margin-right: 30px;}
+#navigation li a { color: white; text-decoration: none;	font-size: 14px; }
+#navigation li a:hover { color: #cccc33; text-decoration: underline; }
+
+#layout { width: 80%; }
+#layout td.left, #layout td.right { padding: 15px 30px; vertical-align: top; }
+
+p.title { font-weight: bold; font-size: 22px;}
+td.left ul { list-style-image: url(res/star.png); }
+
+div.appBox { width: 100%;  height: 144px; position: relative;  margin-top: 10px; }
+div.appBox p { position: absolute; left: 160px;  top: 10px; 	font-size: 18px; text-decoration: none;}
+div.appBox a {text-decoration: none;}
+div.appBox p span {color: #aaa;font-size: 12pt;}
+div.appBox p span.big { color: #ffb73e; font-size: 20pt; font-weight: bold;}
+  </style>
+
+ </head>
+
+ <body>
+
+<div id="container">
+	<div id='headbar'></div>
+
+	<div id="main">
+		<p class="title">WOOL GUI</p>
+
+		<p>We are using WireIt to create a two GUIs for <a href="https://trac.nic.uoregon.edu/wool">WOOL</a>. </p>
+
+		<p>
+			<ul>
+				<li><a href="workflow">GUI1</a>: Based on Dan Keith's WOOL Model</li>
+				<li><a href="stream">GUI2</a>: Based on Matt Sottile and Geoff Hulette's Stream Model</li>
+			</ul>
+		</p>
+
+		<p>The GUIs generates haskell code that is then executed server-side with the output displayed in a popup.</p>
+
+		<p class="title">About WireIt</p>
+
+		<p>WireIt is an open-source javascript library to create <b>web wirable interfaces</b> for <b>dataflow applications</b>, <b>visual programming languages</b>,<br> <b>graphical modeling</b>, or <b>graph editors</b>.</p>
+
+		<p>It was inspired by <a href="http://pipes.yahoo.com/">Yahoo Pipes</a> and is used by <a href="http://tarpipe.com/">Tarpipe</a>. You can see it in action in <a href="http://javascript.neyric.com/wireit/examples/planarGame/planarGame.html">the Planar Game</a>, in <a href="http://javascript.neyric.com/wireit/examples/jsBox/jsBox.html">jsBox</a>.</p>
+		<p>It currently supports Firefox 2.0+, Safari 2.0+, IE 7.0, Opera 9+ and Chrome 1.0+. Please report your issues with specific browsers in <a href="http://groups.google.com/group/wireit/">the forum</a>.</p>
+		<p>It uses the <a href="http://developer.yahoo.com/yui/">YUI library</a> (2.7.0) for DOM and events manipulation, and <a href="http://excanvas.sourceforge.net/">excanvas</a> for IE support of the canvas tag.</p>
+
+				<!-- License -->
+		<p>WireIt is released under the <a href="license.txt">MIT License</a>.</p>
+
+
+		<p class="title">Documentation</p>
+
+		<ul>
+			<li><a href="http://javascript.neyric.com/wireit/guide.html">WireIt's Guide</a> - the ultimate ressource</li>
+			<li><a href="http://javascript.neyric.com/wireit/doc/index.html">API documentation</a> built with <a href="http://developer.yahoo.com/yui/yuidoc/">YUI Doc</a></li>
+			<li><a href="http://wiki.github.com/neyric/wireit">Wiki</a></li>
+		</ul>
+
+		<p>You can also get some help on the <a href="">forum</a>. Please report your issues or feature request on <a href="http://github.com/neyric/wireit/issues">the issue tracker</a>.</p>
+		<p>Deeper hacking into WireIt might require some knowledge in the libraries used :</p>
+
+		<ul>
+			<li><a href="http://javascript.neyric.com/inputex">inputEx documentation</a></li>
+			<li><a href="http://developer.yahoo.com/yui/">YUI documentation</a></li>
+		</ul>
+
+	</div>
+</div>
+
+ </body>
+</html>
