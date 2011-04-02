@@ -37,7 +37,7 @@ samplerActivity range = Prim.lifterIO rangedsampler
 -- use pure streams, then the effect is to sample the random number
 -- generator once and add the value to itself.  if we use effectful
 -- streams, the random number stream is sampled twice - once for
--- each argument of the adder.  comment out the putStrLn in the
+-- each argument of the adder.  uncomment the putStrLn in the
 -- sampler function to see the difference in how the random number
 -- generator is sampled.
 wflow :: (Random a, Num a, Streamer s) => IORef StdGen -> (a,a) -> s a
